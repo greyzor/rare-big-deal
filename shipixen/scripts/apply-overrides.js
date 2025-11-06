@@ -123,6 +123,7 @@ function applyMetaOverrides(productName, app) {
     tags: productOverrides.tags || app.tags,
     categories: productOverrides.categories || app.categories,
     subcategories: productOverrides.subcategories || app.subcategories,
+    expiresOnDate: productOverrides.expiresOnDate || app.expiresOnDate,
   };
 }
 

@@ -15,8 +15,14 @@ async function generateMDXContent(app) {
     app.subcategories,
     sanitizeName(app.name),
   );
-  const { description, metaDescription, metaTitle, website, deal } =
-    applyMetaOverrides(sanitizeName(app.name), app);
+  const {
+    description,
+    metaDescription,
+    metaTitle,
+    website,
+    deal,
+    expiresOnDate,
+  } = applyMetaOverrides(sanitizeName(app.name), app);
 
   let mdxContent = `---
 title: >
@@ -48,6 +54,7 @@ ${(app.subcategories || [])
 deal: >
   ${deal?.trim()}
 website: ${website}
+${expiresOnDate ? `expiresOnDate: ${expiresOnDate}` : ''}
 layout: ProductLayout
 `;
 
@@ -102,9 +109,10 @@ ${description}
 
 ## Rare Deal
 
+<div className="deal-paragraph not-prose">
 ${deal}
-`;
-
+</div>
+${app.expires ? `\n<ExpirationDate date="${app.expires}" />\n` : ''}`;
   if (metaTitle || metaDescription) {
     // Format the content section differently from frontmatter
     const formattedContentMetaTitle = (metaTitle || '').trim();

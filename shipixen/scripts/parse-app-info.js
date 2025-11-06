@@ -79,7 +79,16 @@ async function fetchWebsiteData(website, hasLogoOverride) {
     let ogImageUrl = $('meta[property="og:image"]').attr('content');
 
     description = $('meta[name="description"]').attr('content');
-    title = $('title').text() || $('meta[property="og:title"]').attr('content');
+
+    // Get only the first title element to handle cases where there are multiple (invalid HTML)
+    title =
+      $('title').first().text() ||
+      $('meta[property="og:title"]').attr('content');
+
+    // Trim the title to remove any extra whitespace
+    if (title) {
+      title = title.trim();
+    }
 
     // Log the extracted title
     console.log(`Extracted title for ${website}:`, title);

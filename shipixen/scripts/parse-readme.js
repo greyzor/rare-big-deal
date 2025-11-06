@@ -24,6 +24,7 @@ async function parseReadme() {
         const website = parts[2].match(/\((.*?)\)/)[1];
         const description = parts[3];
         const deal = parts[4];
+        const expiresOnDate = parts[5] || '';
 
         if (skipProductNames.includes(name)) {
           continue;
@@ -35,6 +36,7 @@ async function parseReadme() {
             website,
             description,
             deal,
+            expiresOnDate,
             categories: [],
             subcategories: [],
           };
