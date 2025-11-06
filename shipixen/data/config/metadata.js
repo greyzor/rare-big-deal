@@ -1,7 +1,7 @@
 const metadata = {
-  title: 'Rare Deals and Discounts on Software, Apps & SaaS',
+  title: 'Deals and Discounts on Apps, AI, Mac, iOS, SaaS & Web',
   description:
-    'Get rare limited time details on selected SaaS, software, apps and services. Discounts for Black Friday and beyond.',
+    'Get rare limited time deals and discounts on selected iOS, Mac, SaaS, AI and Web apps. Save big on Black Friday, Cyber Monday & more!',
   domain: 'rarebigdeal.com',
   logoTitle: 'Rare Big Deal',
   businessName: 'Rare Big Deal',
