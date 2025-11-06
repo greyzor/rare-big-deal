@@ -17,7 +17,14 @@ import { siteConfig } from '@/data/config/site.settings';
 import ScrollTop from '@/components/shared/ScrollTop';
 import { hashStringToColor } from '@/components/shared/util/hash-string-color';
 import clsx from 'clsx';
-import { PostItem } from '@/components/blog/home/PostItem'; // Import PostItem
+import { PostItem } from '@/components/blog/home/PostItem';
+import {
+  Carousel,
+  CarouselContent,
+  CarouselItem,
+  CarouselNext,
+  CarouselPrevious,
+} from '@/components/shared/ui/carousel';
 
 const postDateTemplate: Intl.DateTimeFormatOptions = {
   year: 'numeric',
@@ -115,7 +122,9 @@ export default function PostLayout({
     validFromDate,
     expiresOnDate,
   } = content;
-  const firstImage = content.images?.[0];
+  const images = content.images || [];
+  const firstImage = images[0];
+  const hasMultipleImages = images.length > 1;
   const tintColor = hashStringToColor(title);
   const fallbackImage = '/static/images/logo.png';
 
@@ -204,8 +213,8 @@ export default function PostLayout({
         <article className="container-narrow">
           <header className="pt-6 -mt-6 lg:-mt-8">
             <div className="space-y-1 text-center">
-              <div className="flex flex-col items-center">
-                <div className="flex gap-4 w-auto bg-white/80 dark:bg-black/80 relative backdrop-blur-xl rounded-lg py-4 px-6 items-center">
+              <div className="flex flex-col items-center group">
+                <div className="flex gap-4 w-auto bg-white/80 dark:bg-black/80 backdrop-blur-xl rounded-xl py-3 px-6 items-center relative z-10 shadow-md group-hover:-translate-y-3 md:group-hover:-translate-y-5 transition-all duration-300 ease-in-out ">
                   {logo ? (
                     <Image
                       aria-hidden="true"
@@ -227,7 +236,7 @@ export default function PostLayout({
 
                   <figure
                     className={clsx(
-                      'w-10 h-10 md:w-12 md:h-12 lg:w-16 lg:h-16 flex-shrink-0 rounded-lg overflow-hidden bg-white/50 dark:bg-black/50',
+                      'w-10 h-10 md:w-12 md:h-12 lg:w-16 lg:h-16 flex-shrink-0 rounded-xl overflow-hidden bg-white/50 dark:bg-black/50',
                     )}
                   >
                     {logo ? (
@@ -253,14 +262,52 @@ export default function PostLayout({
                   </h1>
                 </div>
 
-                {firstImage && (
-                  <Image
-                    src={firstImage}
-                    alt={title}
-                    width={1240}
-                    height={640}
-                    className="bg-white rounded-t-lg w-full h-auto relative -mt-12 -z-10"
-                  />
+                {hasMultipleImages ? (
+                  <div className="w-full relative -mt-5 md:-mt-8 max-h-[380px] md:max-h-[450px] select-none">
+                    <Carousel
+                      opts={{
+                        align: 'start',
+                        loop: true,
+                        slidesToScroll: 1,
+                        containScroll: 'trimSnaps',
+                      }}
+                      className="w-full h-full"
+                    >
+                      <CarouselContent className="-ml-2 md:-ml-4">
+                        {images.map((image, index) => (
+                          <CarouselItem
+                            key={index}
+                            className="pl-2 md:pl-4 basis-auto"
+                          >
+                            <div className="relative h-full">
+                              <Image
+                                src={image}
+                                alt={`${title} - Image ${index + 1}`}
+                                width={1240}
+                                height={640}
+                                className="bg-white rounded-lg h-auto w-auto object-contain max-h-[380px] md:max-h-[450px]"
+                              />
+                              {/* <div className="absolute bottom-4 right-4 bg-black/50 text-white text-xs px-2 py-1 rounded-md backdrop-blur-sm">
+                                {index + 1} / {images.length}
+                              </div> */}
+                            </div>
+                          </CarouselItem>
+                        ))}
+                      </CarouselContent>
+                      <CarouselPrevious className="left-4" />
+                      <CarouselNext className="right-4" />
+                    </Carousel>
+                  </div>
+                ) : (
+                  firstImage && (
+                    <Image
+                      src={firstImage}
+                      alt={title}
+                      width={1240}
+                      height={640}
+                      className="bg-white rounded-t-lg w-full h-auto relative -mt-12 -z-10"
+                    />
+                  )
                 )}
               </div>
             </div>

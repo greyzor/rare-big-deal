@@ -9,7 +9,11 @@ const { sanitizeName } = require('./sanitize-name');
 const { outputDir } = require('./settings');
 const sharp = require('sharp');
 const { execSync } = require('child_process');
-const { extractAppStoreIcon, extractAppStoreOgImage } = require('./appstore');
+const {
+  extractAppStoreIcon,
+  extractAppStoreOgImage,
+  extractAppStoreImages,
+} = require('./appstore');
 
 const generateIndexScript = path.join(__dirname, 'generate-pick-index.js');
 execSync(`node ${generateIndexScript}`, { stdio: 'inherit' });
@@ -78,12 +82,14 @@ async function fetchWebsiteData(website, hasLogoOverride) {
     const $ = cheerio.load(response.data);
 
     let ogImageUrl = $('meta[property="og:image"]').attr('content');
+    let ogImageUrls = []; // Array for multiple images
 
-    // Special handling for Apple App Store URLs to extract OG image
+    // Special handling for Apple App Store URLs to extract all images
     if (website.includes('apps.apple.com')) {
-      const appStoreOgImage = await extractAppStoreOgImage($, website);
-      if (appStoreOgImage) {
-        ogImageUrl = appStoreOgImage;
+      const appStoreImages = await extractAppStoreImages($, website);
+      if (appStoreImages && appStoreImages.length > 0) {
+        ogImageUrls = appStoreImages;
+        ogImageUrl = appStoreImages[0]; // Keep first image for backward compatibility
       }
     }
 
@@ -94,9 +100,22 @@ async function fetchWebsiteData(website, hasLogoOverride) {
       $('title').first().text() ||
       $('meta[property="og:title"]').attr('content');
 
-    // Trim the title to remove any extra whitespace
+    // Trim the title to remove any extra whitespace and sanitize invisible Unicode characters
     if (title) {
-      title = title.trim();
+      title = title
+        .trim()
+        // Remove Left-to-Right Mark (U+200E), Right-to-Left Mark (U+200F), Zero Width Space (U+200B),
+        // Zero Width No-Break Space (U+FEFF), and other common invisible/control characters
+        .replace(
+          /[\u200E\u200F\u200B\uFEFF\u202A\u202B\u202C\u202D\u202E]/g,
+          '',
+        )
+        // Remove any other control characters (except newlines and tabs which we'll replace with spaces)
+        // eslint-disable-next-line no-control-regex
+        .replace(/[\x00-\x1F\x7F-\x9F]/g, ' ')
+        // Replace multiple spaces with single space
+        .replace(/\s+/g, ' ')
+        .trim();
     }
 
     // Log the extracted title
@@ -170,11 +189,18 @@ async function fetchWebsiteData(website, hasLogoOverride) {
       }
     }
 
-    return { ogImageUrl, highestResFaviconUrl, description, title };
+    return {
+      ogImageUrl,
+      ogImageUrls,
+      highestResFaviconUrl,
+      description,
+      title,
+    };
   } catch (error) {
     console.error(`Failed to fetch website data:`, error.message);
     return {
       ogImageUrl: null,
+      ogImageUrls: [],
       highestResFaviconUrl: null,
       description,
       title,
@@ -214,8 +240,13 @@ async function fetchAssets(app) {
   if (!override || !override.logo || !override.ogImage) {
     try {
       console.log(`Fetching website data for ${productName}`);
-      const { ogImageUrl, highestResFaviconUrl, description, title } =
-        await fetchWebsiteData(website, !!override?.logo);
+      const {
+        ogImageUrl,
+        ogImageUrls,
+        highestResFaviconUrl,
+        description,
+        title,
+      } = await fetchWebsiteData(website, !!override?.logo);
 
       // Log the fetched title
       console.log(`Fetched title for ${productName}:`, title);
@@ -223,11 +254,38 @@ async function fetchAssets(app) {
       app.metaDescription = description;
       app.metaTitle = title;
 
-      if (ogImageUrl && !override?.ogImage) {
-        const ogImagePath = path.join(appDir, 'og-image.png');
-        const isValidImage = await downloadImage(ogImageUrl, ogImagePath);
-        if (isValidImage) {
-          app.images = [`/static/images/product/${productName}/og-image.png`];
+      if (!override?.ogImage) {
+        // Download multiple images if available (App Store), otherwise single image
+        const imageUrlsToDownload =
+          ogImageUrls.length > 0 ? ogImageUrls : [ogImageUrl].filter(Boolean);
+
+        if (imageUrlsToDownload.length > 0) {
+          const downloadedImages = [];
+
+          for (let i = 0; i < imageUrlsToDownload.length; i++) {
+            const imageUrl = imageUrlsToDownload[i];
+            const imageName =
+              i === 0 ? 'og-image.png' : `og-image-${i + 1}.png`;
+            const imagePath = path.join(appDir, imageName);
+
+            console.log(
+              `Downloading image ${i + 1}/${imageUrlsToDownload.length}: ${imageUrl}`,
+            );
+
+            const isValidImage = await downloadImage(imageUrl, imagePath);
+            if (isValidImage) {
+              downloadedImages.push(
+                `/static/images/product/${productName}/${imageName}`,
+              );
+            }
+          }
+
+          if (downloadedImages.length > 0) {
+            app.images = downloadedImages;
+            console.log(
+              `Successfully downloaded ${downloadedImages.length} image(s) for ${productName}`,
+            );
+          }
         }
       }
 

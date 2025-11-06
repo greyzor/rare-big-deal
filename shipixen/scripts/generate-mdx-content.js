@@ -33,9 +33,10 @@ ${tags.map((tag) => `  - ${tag}`).join('\n')}
 `;
 
   if (app.images && app.images.length > 0) {
-    mdxContent += `images:
-  - ${app.images[0]}
-`;
+    mdxContent += `images:\n`;
+    app.images.forEach((image) => {
+      mdxContent += `  - ${image}\n`;
+    });
   }
 
   if (app.logo) {

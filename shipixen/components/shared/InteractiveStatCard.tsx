@@ -66,18 +66,18 @@ export const InteractiveStatCard = ({
     >
       <Wrapper href={href} bgBlurStrength={bgBlurStrength}>
         {children}
-      </Wrapper>
 
-      {!disabled ? (
-        <div
-          className={clsx(
-            'rounded-lg opacity-0 -translate-y-full group-hover:translate-y-0 group-hover:opacity-100 flex flex-col justify-center px-2 py-1 absolute z-50 transition-all ease-linear bg-white/90 dark:bg-slate-800/90 dark:text-white text-black backdrop-blur-md',
-            stretchHoverComponent ? 'w-full h-full items-center' : 'w-auto',
-          )}
-        >
-          {hoverComponent}
-        </div>
-      ) : null}
+        {!disabled ? (
+          <div
+            className={clsx(
+              'rounded-lg opacity-0 -translate-y-full group-hover:translate-y-0 group-hover:opacity-100 flex flex-col justify-center px-2 py-1 absolute z-50 transition-all ease-linear bg-white/90 dark:bg-slate-800/90 dark:text-white text-black backdrop-blur-md',
+              stretchHoverComponent ? 'w-full h-full items-center' : 'w-auto',
+            )}
+          >
+            {hoverComponent}
+          </div>
+        ) : null}
+      </Wrapper>
     </div>
   );
 };
