@@ -9,6 +9,7 @@ const { sanitizeName } = require('./sanitize-name');
 const { outputDir } = require('./settings');
 const sharp = require('sharp');
 const { execSync } = require('child_process');
+const { extractAppStoreIcon, extractAppStoreOgImage } = require('./appstore');
 
 const generateIndexScript = path.join(__dirname, 'generate-pick-index.js');
 execSync(`node ${generateIndexScript}`, { stdio: 'inherit' });
@@ -63,71 +64,6 @@ async function downloadImage(url, outputPath) {
   }
 }
 
-async function extractAppStoreIcon($, website) {
-  console.log('Detected Apple App Store URL, extracting app icon...');
-
-  // Look for app icon in various possible selectors
-  const appIconSelectors = [
-    '.app-icon picture source[type="image/jpeg"]',
-    '.app-icon picture source[type="image/webp"]',
-    '.app-icon picture source[type="image/png"]',
-    'picture.artwork-component__image source[type="image/jpeg"]',
-    'picture.artwork-component__image source[type="image/webp"]',
-    '.artwork-component picture source[type="image/jpeg"]',
-    '.artwork-component picture source[type="image/webp"]',
-    'div[class*="app-icon"] picture source[type="image/jpeg"]',
-    'div[class*="app-icon"] picture source[type="image/webp"]',
-  ];
-
-  for (const selector of appIconSelectors) {
-    const srcset = $(selector).attr('srcset');
-    if (srcset) {
-      console.log(`Found app icon with selector: ${selector}`);
-      console.log(`srcset: ${srcset}`);
-
-      // Parse srcset to get the highest resolution image
-      const srcsetEntries = srcset.split(',').map((entry) => entry.trim());
-
-      // Get the last entry (usually highest resolution) or first entry as fallback
-      const highestResEntry =
-        srcsetEntries[srcsetEntries.length - 1] || srcsetEntries[0];
-      const imageUrl = highestResEntry.split(' ')[0];
-
-      if (imageUrl) {
-        const iconUrl = imageUrl.startsWith('http')
-          ? imageUrl
-          : new URL(imageUrl, website).href;
-        console.log(`Extracted app icon URL: ${iconUrl}`);
-        return iconUrl;
-      }
-    }
-  }
-
-  // If still not found, try the generic picture source approach
-  const genericSrcset = $(
-    'picture source[type="image/jpeg"], picture source[type="image/webp"]',
-  )
-    .first()
-    .attr('srcset');
-
-  if (genericSrcset) {
-    const srcsetEntries = genericSrcset.split(',').map((entry) => entry.trim());
-    const highestResEntry =
-      srcsetEntries[srcsetEntries.length - 1] || srcsetEntries[0];
-    const imageUrl = highestResEntry.split(' ')[0];
-
-    if (imageUrl) {
-      const iconUrl = imageUrl.startsWith('http')
-        ? imageUrl
-        : new URL(imageUrl, website).href;
-      console.log(`Extracted app icon URL (generic): ${iconUrl}`);
-      return iconUrl;
-    }
-  }
-
-  return null;
-}
-
 async function fetchWebsiteData(website, hasLogoOverride) {
   let description = '';
   let title = '';
@@ -142,6 +78,14 @@ async function fetchWebsiteData(website, hasLogoOverride) {
     const $ = cheerio.load(response.data);
 
     let ogImageUrl = $('meta[property="og:image"]').attr('content');
+
+    // Special handling for Apple App Store URLs to extract OG image
+    if (website.includes('apps.apple.com')) {
+      const appStoreOgImage = await extractAppStoreOgImage($, website);
+      if (appStoreOgImage) {
+        ogImageUrl = appStoreOgImage;
+      }
+    }
 
     description = $('meta[name="description"]').attr('content');
 

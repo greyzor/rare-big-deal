@@ -967,7 +967,6 @@ module.exports = {
       ],
     },
     presentify: {
-      ogImage: '/public/static/images/overrides/presentify/ogImage.png',
       tags: ['Efficiency', 'Productivity', 'Tools'],
     },
     proxyman: {
