@@ -192,7 +192,7 @@ export default function PostLayout({
 
   return (
     <div className="flex flex-col w-full items-center">
-      <Header />
+      <Header containerClassName="!bg-transparent dark:!bg-transparent" />
 
       <div
         className={cn(
@@ -202,7 +202,7 @@ export default function PostLayout({
       >
         <ScrollTop />
         <article className="container-narrow">
-          <header className="pt-6 -mt-12 lg:-mt-16">
+          <header className="pt-6 -mt-6 lg:-mt-8">
             <div className="space-y-1 text-center">
               <div className="flex flex-col items-center">
                 <div className="flex gap-4 w-auto bg-white/80 dark:bg-black/80 relative backdrop-blur-xl rounded-lg py-4 px-6 items-center">

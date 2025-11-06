@@ -31,6 +31,10 @@ export const Showcase = ({
     )
     .filter(Boolean) as CoreContent<Blog>[];
 
+  if (apps.length === 0) {
+    return <></>;
+  }
+
   return (
     <div
       className={cn(

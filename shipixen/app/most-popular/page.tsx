@@ -29,17 +29,15 @@ export default function CategoryPage() {
       <Header className="mb-0 lg:mb-0" />
 
       <LandingPrimaryTextCtaSection
-        title="Top 20 Popular Deals"
+        title="Top 20 Most Popular Deals"
         descriptionComponent={
           <p className="max-w-2xl">
-            This is what the community loves the most: top 20 apps with the most
-            interest on the platform.
+            The community loves these! Here are the top 20 deals that got the
+            most attention on Rare Big Deal so far.
           </p>
         }
         textPosition="center"
-        withBackground
-        className="relative"
-        sparklesClassName="-top-12"
+        className="relative bg-gray-300/60 dark:bg-gray-900"
       ></LandingPrimaryTextCtaSection>
 
       <section className="max-w-2xl 2xl:max-w-6xl w-full mt-12 p-6">
@@ -53,8 +51,6 @@ export default function CategoryPage() {
           </div>
         </div>
       </section>
-
-      <Footer />
     </div>
   );
 }

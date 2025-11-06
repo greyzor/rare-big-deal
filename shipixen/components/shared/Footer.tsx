@@ -38,27 +38,25 @@ export default function Footer({ className }: { className?: string }) {
       >
         <div className="w-full flex flex-col md:flex-row justify-between gap-6 mt-12  p-6 max-w-full container-wide">
           <div className="w-full flex flex-col gap-4 md:max-w-xs lg:max-w-sm">
-            <Link href="/" aria-label={siteConfig.title}>
-              <div className="flex items-center gap-3 justify-start">
+            <Link href="/" aria-label={siteConfig.logoTitle}>
+              <div className="flex items-center gap-3">
                 <Image
                   src="/static/images/logo.png"
                   alt="Rare Big Deal logo"
-                  height={46}
-                  width={46}
-                  className="group-hover:animate-wiggle "
+                  height={54}
+                  width={54}
+                  className="group-hover:animate-wiggle w-14 h-14 md:w-16 md:h-16 rounded-full border-2 border-white/50 dark:border-neutral-900"
                 />
 
-                <div className="hidden text-2xl font-semibold sm:flex h-full">
-                  Rare Big Deal
+                <div className="text-neutral-600 dark:text-neutral-400 text-xs md:text-sm leading-4 md:leading-4 font-semibold h-full">
+                  <span className="font-light">Rare</span>
+                  <br />
+                  <span className="font-normal">Big</span>
+                  <br />
+                  <span className="font-semibold">Deal</span>
                 </div>
               </div>
             </Link>
-
-            {typeof siteConfig.title === 'string' ? (
-              <div className="text-lg font-semibold h-full">
-                {siteConfig.title}
-              </div>
-            ) : null}
 
             {siteConfig.description ? (
               <p className="text-sm opacity-70">{siteConfig.description}</p>

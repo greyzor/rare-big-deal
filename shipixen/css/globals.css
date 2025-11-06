@@ -139,7 +139,7 @@
   }
 
   .nav-link-active {
-    @apply opacity-80 py-2 rounded text-secondary-500 dark:text-slate-400;
+    @apply opacity-80 py-2 rounded text-primary-500 dark:text-slate-400;
   }
 
   .nav-link {
@@ -487,4 +487,9 @@ input:-webkit-autofill:focus {
 .no-scrollbar {
   scrollbar-width: none;
   -ms-overflow-style: none;
+}
+
+/** RBD global styles */
+.deal-paragraph {
+  @apply px-6 py-4 bg-green-500/10 border border-green-500/20 rounded-lg;
 }

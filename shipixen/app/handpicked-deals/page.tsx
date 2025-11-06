@@ -45,14 +45,14 @@ const loadBundles = () => {
 
 export default async function AllBundles() {
   const bundles = await loadBundles();
-  const users = (stats.stars || 0) + (stats.forks || 0);
+  const users = stats.contributors || 0;
 
   return (
     <div className="flex flex-col w-full items-center fancy-overlay">
       <Header className="mb-0 lg:mb-0" />
 
       <LandingPrimaryTextCtaSection
-        title="All Bundles"
+        title="Best Deal Picks"
         descriptionComponent={
           <p className="max-w-2xl">
             We've handpicked the best AI, Marketing, DevTool apps that ever
@@ -60,27 +60,28 @@ export default async function AllBundles() {
           </p>
         }
         textPosition="center"
-        withBackground
-        className="relative"
+        className="relative bg-gray-300/60 dark:bg-gray-900"
       >
-        <div className="flex flex-wrap justify-center gap-2">
-          <Button size="xl" variant="primary" asChild>
-            <Link href="/handpicked-deals">Best Deals</Link>
-          </Button>
+        <div className="flex flex-col items-center justify-center">
+          <div className="flex flex-wrap justify-center gap-2">
+            <Button size="xl" variant="primary" asChild>
+              <Link href="/handpicked-deals">Best Deals</Link>
+            </Button>
 
-          <Button size="xl" variant="outlinePrimary">
-            <Link href="/categories/developer-tools">All Categories</Link>
-          </Button>
-        </div>
+            <Button size="xl" variant="outlinePrimary">
+              <Link href="/categories/developer-tools">All Categories</Link>
+            </Button>
+          </div>
 
-        <div className="flex items-center">
-          <LandingSocialProof
-            className="w-full mt-12"
-            showRating
-            numberOfUsers={users}
-            suffixText="happy users"
-            avatarItems={avatars}
-          />
+          <div className="flex items-center">
+            <LandingSocialProof
+              className="w-full mt-12"
+              showRating
+              numberOfUsers={users}
+              suffixText="happy users"
+              avatarItems={avatars}
+            />
+          </div>
         </div>
       </LandingPrimaryTextCtaSection>
 

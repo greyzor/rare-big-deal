@@ -9,6 +9,12 @@ import { cn } from '@/lib/utils';
 import ReactMarkdown from 'react-markdown';
 import { CoreContent } from '@shipixen/pliny/utils/contentlayer';
 import { hashStringToColor } from '@/components/shared/util/hash-string-color';
+import {
+  Tooltip,
+  TooltipContent,
+  TooltipProvider,
+  TooltipTrigger,
+} from '@/components/shared/ui/tooltip';
 
 function processTitle(title: string): string {
   const delimiters = [':', ',', '.', '-'];
@@ -70,16 +76,29 @@ export function PostItem({
         {leaderboardPosition &&
         leaderboardPosition > 0 &&
         leaderboardPosition <= 20 ? (
-          <div
-            className={clsx(
-              leaderboardPosition === 1 && 'ribbon-gold',
-              leaderboardPosition === 2 && 'ribbon-silver',
-              leaderboardPosition === 3 && 'ribbon-bronze',
-              leaderboardPosition > 3 && 'ribbon-default',
-            )}
-          >
-            #{leaderboardPosition}
-          </div>
+          <Tooltip delayDuration={0}>
+            <TooltipTrigger asChild>
+              <button
+                onClick={(e) => {
+                  e.preventDefault();
+                  e.stopPropagation();
+                  window.location.href = '/most-popular';
+                }}
+                className={clsx(
+                  'flex hover:opacity-70 transition-opacity cursor-pointer',
+                  leaderboardPosition === 1 && 'ribbon-gold',
+                  leaderboardPosition === 2 && 'ribbon-silver',
+                  leaderboardPosition === 3 && 'ribbon-bronze',
+                  leaderboardPosition > 3 && 'ribbon-default',
+                )}
+              >
+                #{leaderboardPosition}
+              </button>
+            </TooltipTrigger>
+            <TooltipContent sideOffset={-10}>
+              <p>The top {leaderboardPosition} most popular product</p>
+            </TooltipContent>
+          </Tooltip>
         ) : null}
 
         {logo ? (

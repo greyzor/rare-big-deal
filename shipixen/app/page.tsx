@@ -12,6 +12,7 @@ import { metadata } from '@/data/config/metadata';
 import { Showcase } from '@/components/showcase/Showcase';
 import { picksIndex } from '@/data/picks/index';
 import Link from 'next/link';
+import { LandingWavesCtaBg } from '@/components/landing/cta-backgrounds/LandingWavesCtaBg';
 
 const avatars = [
   {
@@ -66,41 +67,59 @@ const loadBundle = async (bundleName) => {
 export default async function Home() {
   const bundleName = getRandomBundle();
   const bundle = await loadBundle(bundleName);
-  const users = (stats.stars || 0) + (stats.forks || 0);
+  const users = stats.contributors || 0;
 
   return (
-    <div className="flex flex-col w-full items-center fancy-overlay">
+    <div className="flex flex-col w-full items-center">
       <Header className="mb-0 lg:mb-0" />
       <LandingPrimaryTextCtaSection
         title="Rare Deals and Discounts"
         descriptionComponent={
-          <p className="max-w-2xl">
-            Save big on limited time deals on selected SaaS, software, apps &
-            services. Discounts for Black Friday, Cyber Monday & beyond.
+          <p className="max-w-3xl">
+            Limited time deals on the best <strong>iOS Apps</strong>,{' '}
+            <strong>Mac Apps</strong>, <strong>SaaS</strong>,{' '}
+            <strong>AI</strong> and <strong>Web Apps</strong>. <br />
+            Save big with discounts for Black Friday, Cyber Monday & more!
           </p>
         }
         textPosition="center"
-        withBackground
-        className="relative"
+        className="relative bg-gradient-to-b from-gray-300/60 to-transparent dark:from-gray-900 dark:to-transparent !pb-6"
+        effectComponent={<LandingWavesCtaBg />}
       >
-        <div className="flex flex-wrap justify-center gap-2">
-          <Button size="xl" variant="primary" asChild>
-            <Link href="/handpicked-deals">Best Deals</Link>
-          </Button>
+        <div className="flex flex-col items-center justify-center">
+          <div className="flex flex-wrap justify-center gap-2">
+            <Button
+              size="xl"
+              variant="primary"
+              asChild
+              className="backdrop-blur-[2px] bg-primary-600/30 dark:bg-primary-500/30"
+            >
+              <Link href="/handpicked-deals">All Deals</Link>
+            </Button>
 
-          <Button size="xl" variant="outlinePrimary">
-            <Link href="/categories/developer-tools">All Categories</Link>
-          </Button>
-        </div>
+            <Button
+              size="xl"
+              className="backdrop-blur-[2px] bg-white/30 dark:bg-black/40"
+            >
+              <Link href="/categories/developer-tools">All Categories</Link>
+            </Button>
+          </div>
 
-        <div className="flex items-center">
-          <LandingSocialProof
-            className="w-full mt-12"
-            showRating
-            numberOfUsers={users}
-            suffixText="happy users"
-            avatarItems={avatars}
-          />
+          <div className="flex items-center">
+            <a
+              href="https://github.com/danmindru/rare-big-deal/graphs/contributors"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <LandingSocialProof
+                className="w-full mt-12"
+                showRating
+                numberOfUsers={users}
+                suffixText="makers"
+                avatarItems={avatars}
+              />
+            </a>
+          </div>
         </div>
       </LandingPrimaryTextCtaSection>
 
@@ -112,11 +131,32 @@ export default async function Home() {
 
       <LandingBandSection
         title="Stars! Stars everywhere!"
-        description="Our users love us! There's no place as beautiful to post a deal."
+        descriptionComponent={
+          <div className="flex flex-col">
+            <p className="text-lg mt-4">
+              People love Rare Big Deal! <br />
+              There's no better place to post & find a deal.
+            </p>
+
+            <a
+              href="https://github.com/danmindru/rare-big-deal"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img
+                alt="GitHub Repo stars"
+                src="https://img.shields.io/github/stars/danmindru/rare-big-deal"
+                className="mt-4 h-6 w-auto"
+              />
+            </a>
+          </div>
+        }
         supportingComponent={
           <LandingSocialProof
+            className="w-full mt-12"
             showRating
             numberOfUsers={users}
+            suffixText="makers"
             avatarItems={avatars}
           />
         }

@@ -21,6 +21,7 @@ import developerTools from '@/data/picks/developer-tools';
 import aiApps from '@/data/picks/ai-apps';
 import macApps from '@/data/picks/mac-apps';
 import iosApps from '@/data/picks/ios-apps';
+import { Button } from '@/components/shared/ui/button';
 
 const MAX_DISPLAY = 1000;
 
@@ -100,12 +101,12 @@ export default function HomeList({
 
   const sortedCategories = useMemo(() => {
     const priorityCategories = [
-      'Developer Tools',
       'AI Tools',
+      'Developer Tools',
+      'iOS Apps',
+      'MacOS Apps',
       'Boilerplates, Starters & Libraries',
       'Marketing',
-      'MacOS Apps',
-      'iOS Apps',
     ];
     const otherCategories = Object.keys(categories)
       .filter((category) => !priorityCategories.includes(category))
@@ -256,7 +257,8 @@ export function CategorySection({
 }) {
   const [textToCopy, setTextToCopy] = useState<string>(category);
 
-  const sortedPosts = posts.sort((a, b) => a.title.localeCompare(b.title));
+  const sortedPosts =
+    posts?.sort((a, b) => a.title.localeCompare(b.title)) || [];
 
   useEffect(() => {
     setTextToCopy(
@@ -334,6 +336,28 @@ export function CategorySection({
             .map((post) => (
               <PostItem key={post.slug} post={post} showImage={showImage} />
             ))}
+
+          {sortedPosts.length === 0 && (
+            <div className="flex flex-col gap-2">
+              <p className="text-sm text-gray-500">
+                No deals in this category yet 🫣.
+                <br />
+                Be the first to submit one!
+              </p>
+
+              <div>
+                <Button size={'sm'} variant={'outlinePrimary'} asChild>
+                  <a
+                    href="https://github.com/danmindru/rare-big-deal/issues/130"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    Submit a deal
+                  </a>
+                </Button>
+              </div>
+            </div>
+          )}
         </ul>
       </div>
     </>

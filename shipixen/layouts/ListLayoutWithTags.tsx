@@ -104,7 +104,7 @@ export default function ListLayoutWithTags({
               </h1>
             </div>
 
-            <ul className="flex flex-col w-full gap-4 py-4">
+            <ul className="flex flex-col md:grid md:grid-cols-2 w-full gap-4 py-4">
               {displayPosts.map((post) => {
                 const { path, logo, title, summary, tags, images, deal } = post;
                 const firstImage = images?.[0];
