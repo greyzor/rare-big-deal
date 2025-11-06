@@ -63,6 +63,71 @@ async function downloadImage(url, outputPath) {
   }
 }
 
+async function extractAppStoreIcon($, website) {
+  console.log('Detected Apple App Store URL, extracting app icon...');
+
+  // Look for app icon in various possible selectors
+  const appIconSelectors = [
+    '.app-icon picture source[type="image/jpeg"]',
+    '.app-icon picture source[type="image/webp"]',
+    '.app-icon picture source[type="image/png"]',
+    'picture.artwork-component__image source[type="image/jpeg"]',
+    'picture.artwork-component__image source[type="image/webp"]',
+    '.artwork-component picture source[type="image/jpeg"]',
+    '.artwork-component picture source[type="image/webp"]',
+    'div[class*="app-icon"] picture source[type="image/jpeg"]',
+    'div[class*="app-icon"] picture source[type="image/webp"]',
+  ];
+
+  for (const selector of appIconSelectors) {
+    const srcset = $(selector).attr('srcset');
+    if (srcset) {
+      console.log(`Found app icon with selector: ${selector}`);
+      console.log(`srcset: ${srcset}`);
+
+      // Parse srcset to get the highest resolution image
+      const srcsetEntries = srcset.split(',').map((entry) => entry.trim());
+
+      // Get the last entry (usually highest resolution) or first entry as fallback
+      const highestResEntry =
+        srcsetEntries[srcsetEntries.length - 1] || srcsetEntries[0];
+      const imageUrl = highestResEntry.split(' ')[0];
+
+      if (imageUrl) {
+        const iconUrl = imageUrl.startsWith('http')
+          ? imageUrl
+          : new URL(imageUrl, website).href;
+        console.log(`Extracted app icon URL: ${iconUrl}`);
+        return iconUrl;
+      }
+    }
+  }
+
+  // If still not found, try the generic picture source approach
+  const genericSrcset = $(
+    'picture source[type="image/jpeg"], picture source[type="image/webp"]',
+  )
+    .first()
+    .attr('srcset');
+
+  if (genericSrcset) {
+    const srcsetEntries = genericSrcset.split(',').map((entry) => entry.trim());
+    const highestResEntry =
+      srcsetEntries[srcsetEntries.length - 1] || srcsetEntries[0];
+    const imageUrl = highestResEntry.split(' ')[0];
+
+    if (imageUrl) {
+      const iconUrl = imageUrl.startsWith('http')
+        ? imageUrl
+        : new URL(imageUrl, website).href;
+      console.log(`Extracted app icon URL (generic): ${iconUrl}`);
+      return iconUrl;
+    }
+  }
+
+  return null;
+}
+
 async function fetchWebsiteData(website, hasLogoOverride) {
   let description = '';
   let title = '';
@@ -116,40 +181,47 @@ async function fetchWebsiteData(website, hasLogoOverride) {
 
     let highestResFaviconUrl = null;
     if (!hasLogoOverride) {
-      // Try to find the highest resolution PNG favicon
-      const possibleFaviconUrls = [
-        $('link[rel="apple-touch-icon"]').attr('href'),
-        $('link[rel="icon"][type="image/png"]').attr('href'),
-        '/favicon-32x32.png',
-        '/favicon-16x16.png',
-        '/apple-touch-icon.png',
-        '/favicon.png',
-        // Get .ico too
-        $('link[rel="icon"]').attr('href'),
-        $('link[rel="shortcut icon"]').attr('href'),
-        appStoreImageUrl, // Add the app store image URL to the list
-      ]
-        .filter(Boolean)
-        .map((url) => new URL(url, website).href);
+      // Special handling for Apple App Store URLs to extract app icon
+      if (website.includes('apps.apple.com')) {
+        highestResFaviconUrl = await extractAppStoreIcon($, website);
+      }
 
-      for (const url of possibleFaviconUrls) {
-        try {
-          const headResponse = await axios.head(url, {
-            headers: {
-              'User-Agent': 'Mozilla/5.0',
-            },
-            validateStatus: (status) => status < 400,
-          });
+      // Standard favicon extraction for non-App Store URLs or as fallback
+      if (!highestResFaviconUrl) {
+        const possibleFaviconUrls = [
+          $('link[rel="apple-touch-icon"]').attr('href'),
+          $('link[rel="icon"][type="image/png"]').attr('href'),
+          '/favicon-32x32.png',
+          '/favicon-16x16.png',
+          '/apple-touch-icon.png',
+          '/favicon.png',
+          // Get .ico too
+          $('link[rel="icon"]').attr('href'),
+          $('link[rel="shortcut icon"]').attr('href'),
+          appStoreImageUrl, // Add the app store image URL to the list
+        ]
+          .filter(Boolean)
+          .map((url) => new URL(url, website).href);
 
-          if (
-            headResponse.status === 200 &&
-            headResponse.headers['content-type'].startsWith('image/')
-          ) {
-            highestResFaviconUrl = url;
-            break;
+        for (const url of possibleFaviconUrls) {
+          try {
+            const headResponse = await axios.head(url, {
+              headers: {
+                'User-Agent': 'Mozilla/5.0',
+              },
+              validateStatus: (status) => status < 400,
+            });
+
+            if (
+              headResponse.status === 200 &&
+              headResponse.headers['content-type'].startsWith('image/')
+            ) {
+              highestResFaviconUrl = url;
+              break;
+            }
+          } catch (error) {
+            console.warn(`Favicon URL not found: ${url}`);
           }
-        } catch (error) {
-          console.warn(`Favicon URL not found: ${url}`);
         }
       }
     }
