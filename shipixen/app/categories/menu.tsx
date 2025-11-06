@@ -63,12 +63,12 @@ export const Menu = ({ className }: { className?: string }) => {
   return (
     <aside
       className={clsx(
-        'bg-purple-100/20 dark:bg-purple-950/30 rounded-lg',
+        'flex flex-col bg-purple-100/20 dark:bg-purple-950/30 rounded-lg',
         className,
       )}
     >
-      <h1 className="font-semibold fancy-heading text-xs opacity-50 p-4">
-        All deal categories
+      <h1 className="opacity-50 text-xs p-4 font-normal font-sans">
+        All discount categories
       </h1>
       <ul className="flex flex-col gap-1 p-2">
         {sortedCategories.map((category) => {
@@ -105,6 +105,17 @@ export const Menu = ({ className }: { className?: string }) => {
           );
         })}
       </ul>
+
+      <p className="opacity-50 text-xs p-4 font-normal font-sans mt-auto">
+        Viewing deals & discounts in the{' '}
+        <strong>
+          {selectedCategory
+            ?.split('-')
+            .map((word) => word.charAt(0).toUpperCase() + word.slice(1))
+            .join(' ')}
+        </strong>{' '}
+        category.
+      </p>
     </aside>
   );
 };

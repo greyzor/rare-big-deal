@@ -22,6 +22,7 @@ import aiApps from '@/data/picks/ai-apps';
 import macApps from '@/data/picks/mac-apps';
 import iosApps from '@/data/picks/ios-apps';
 import { Button } from '@/components/shared/ui/button';
+import { cn } from '@/lib/utils';
 
 const MAX_DISPLAY = 1000;
 
@@ -240,6 +241,7 @@ export function CategorySection({
   numberOfPosts,
   showImage,
   overrideClassName,
+  categoryClassName,
   showTitle = true,
   showCaseClass = '',
   hideCarousels = [],
@@ -251,6 +253,7 @@ export function CategorySection({
   numberOfPosts: number;
   showImage: boolean;
   overrideClassName?: string;
+  categoryClassName?: string;
   showTitle?: boolean;
   showCaseClass?: string;
   hideCarousels?: string[];
@@ -303,7 +306,7 @@ export function CategorySection({
         <Showcase bundle={iosApps} />
       ) : null}
 
-      <div className="mb-8" id={category}>
+      <div className={cn('mb-8', categoryClassName)} id={category}>
         {showTitle ? (
           <div className="flex items-center mb-4 relative">
             <CopyToClipboardButton

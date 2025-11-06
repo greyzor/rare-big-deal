@@ -142,13 +142,83 @@ export default async function Page({ params }: { params: { slug: string[] } }) {
     return coreContent(authorResults as Authors);
   });
   const mainContent = coreContent(post);
-  const jsonLd = post.structuredData;
-  jsonLd['author'] = authorDetails.map((author) => {
-    return {
-      '@type': 'Person',
-      name: author.name,
+
+  // Generate appropriate JSON-LD based on layout type
+  let jsonLd: Record<string, unknown>;
+
+  if (post.layout === 'ProductLayout') {
+    // Generate Product schema for ProductLayout
+    const productUrl = siteConfig.siteUrl + '/' + post.path;
+    const imageUrl = post.images?.[0]
+      ? post.images[0].includes('http')
+        ? post.images[0]
+        : siteConfig.siteUrl + post.images[0]
+      : siteConfig.siteUrl + siteConfig.socialBanner;
+
+    // Type-safe access to product-specific fields
+    const productPost = post as Blog & {
+      metaDescription?: string;
+      logo?: string;
+      website?: string;
+      deal?: string;
+      expiresOnDate?: string;
     };
-  });
+
+    jsonLd = {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: post.title.trim(),
+      description: (
+        productPost.metaDescription ||
+        post.summary ||
+        post.title
+      ).trim(),
+      image: imageUrl,
+      url: productUrl,
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '5',
+        bestRating: '5',
+        ratingCount: '1',
+      },
+      ...(post.categories &&
+        post.categories.length > 0 && {
+          category: post.categories.join(', '),
+        }),
+      ...(productPost.logo && {
+        brand: {
+          '@type': 'Brand',
+          name: post.title.trim(),
+          logo: productPost.logo.includes('http')
+            ? productPost.logo.trim()
+            : siteConfig.siteUrl + productPost.logo.trim(),
+        },
+      }),
+      ...(productPost.website && {
+        offers: {
+          '@type': 'Offer',
+          url: productPost.website.trim(),
+          priceCurrency: 'USD',
+          availability: 'https://schema.org/InStock',
+          ...(productPost.deal && {
+            description: productPost.deal.trim(),
+          }),
+          ...(productPost.expiresOnDate && {
+            priceValidUntil: new Date(productPost.expiresOnDate).toISOString(),
+          }),
+        },
+      }),
+    };
+  } else {
+    // Use default Article schema for other layouts
+    jsonLd = post.structuredData;
+    jsonLd['author'] = authorDetails.map((author) => {
+      return {
+        '@type': 'Person',
+        name: author.name,
+      };
+    });
+  }
 
   const Layout = layouts[post.layout || defaultLayout];
 

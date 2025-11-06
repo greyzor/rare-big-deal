@@ -397,7 +397,7 @@ export default function PostLayout({
                   </Link>
                 )}
                 <Link
-                  href={siteConfig.allArticlesPath}
+                  href={siteConfig.categoriesPath}
                   className="ml-auto text-primary-500 hover:text-primary-600 dark:hover:text-primary-400"
                   aria-label={'All Deals'}
                 >
