@@ -129,7 +129,7 @@ It's free & open-source. Enjoy! 🚀
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
-| ⭐ | Be the first to add a deal in this category! | | | |
+| 📮 | [ChatTempMail](https://chat-tempmail.com) |AI-Powered Temporary Email Service |**30% OFF** with discount code **M61MGFL89W** |2025-11-28 |
 
 
 ### Other
