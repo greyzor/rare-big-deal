@@ -121,12 +121,30 @@ export default function PostLayout({
     subcategories,
     validFromDate,
     expiresOnDate,
+    appCategory,
+    appPrice,
+    appPriceCurrency,
+    appRating,
+    appReviewCount,
+    appOperatingSystem,
+    appAvailableOnDevice,
+    appAuthorName,
+    appAuthorUrl,
   } = content;
   const images = content.images || [];
   const firstImage = images[0];
   const hasMultipleImages = images.length > 1;
   const tintColor = hashStringToColor(title);
   const fallbackImage = '/static/images/logo.png';
+
+  // Check if we have app store data
+  const hasAppStoreData = !!(
+    appRating ||
+    appPrice !== undefined ||
+    appOperatingSystem ||
+    appAvailableOnDevice ||
+    appAuthorName
+  );
 
   const {
     isExpired,
@@ -263,7 +281,7 @@ export default function PostLayout({
                 </div>
 
                 {hasMultipleImages ? (
-                  <div className="w-full relative -mt-5 md:-mt-8 max-h-[380px] md:max-h-[450px] select-none">
+                  <div className="w-full relative -mt-5 md:-mt-8 max-h-[380px] sm:max-h-[450px] select-none">
                     <Carousel
                       opts={{
                         align: 'start',
@@ -285,7 +303,7 @@ export default function PostLayout({
                                 alt={`${title} - Image ${index + 1}`}
                                 width={1240}
                                 height={640}
-                                className="bg-white rounded-lg h-auto w-auto object-contain max-h-[380px] md:max-h-[450px]"
+                                className="bg-white rounded-lg h-[380px] sm:h-[450px] w-auto"
                               />
                               {/* <div className="absolute bottom-4 right-4 bg-black/50 text-white text-xs px-2 py-1 rounded-md backdrop-blur-sm">
                                 {index + 1} / {images.length}
@@ -379,10 +397,106 @@ export default function PostLayout({
                 {children}
               </div>
             </div>
+
+            {/* App Store Information */}
+            {hasAppStoreData && (
+              <div className="mt-6 bg-white/80 dark:bg-slate-900/80 backdrop-blur-sm p-6 hard-shadow">
+                <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+                  {appRating !== null && appRating !== undefined && (
+                    <div className="flex flex-col">
+                      <span className="text-xs tracking-wide text-gray-500 dark:text-gray-400 mb-1">
+                        Rating
+                      </span>
+                      <div className="flex items-center gap-2">
+                        <span className="text-2xl font-semibold">
+                          {appRating.toFixed(1)}
+                        </span>
+                        <span className="text-yellow-500">★</span>
+                        {appReviewCount !== null &&
+                          appReviewCount !== undefined && (
+                            <span className="text-sm text-gray-600 dark:text-gray-400">
+                              ({appReviewCount.toLocaleString()} reviews)
+                            </span>
+                          )}
+                      </div>
+                    </div>
+                  )}
+
+                  {appPrice !== undefined && appPrice !== null && (
+                    <div className="flex flex-col">
+                      <span className="text-xs tracking-wide text-gray-500 dark:text-gray-400 mb-1">
+                        Price
+                      </span>
+                      <span className="text-2xl font-semibold">
+                        {appPrice === 0 ? (
+                          'Free'
+                        ) : (
+                          <>
+                            {appPriceCurrency && appPriceCurrency !== 'USD'
+                              ? `${appPriceCurrency} `
+                              : '$'}
+                            {appPrice.toFixed(2)}
+                          </>
+                        )}
+                      </span>
+                    </div>
+                  )}
+                  {/*
+                      {appCategory && (
+                        <div className="flex flex-col">
+                          <span className="text-xs tracking-wide text-gray-500 dark:text-gray-400 mb-1">
+                            Category
+                          </span>
+                          <span className="text-lg font-medium">
+                            {appCategory}
+                          </span>
+                        </div>
+                      )} */}
+
+                  {appAvailableOnDevice && (
+                    <div className="flex flex-col">
+                      <span className="text-xs tracking-wide text-gray-500 dark:text-gray-400 mb-1">
+                        Available On
+                      </span>
+                      <span className="text-sm">{appAvailableOnDevice}</span>
+                    </div>
+                  )}
+
+                  {appOperatingSystem && (
+                    <div className="flex flex-col">
+                      <span className="text-xs tracking-wide text-gray-500 dark:text-gray-400 mb-1">
+                        Requirements
+                      </span>
+                      <span className="text-sm">{appOperatingSystem}</span>
+                    </div>
+                  )}
+
+                  {appAuthorName && (
+                    <div className="flex flex-col">
+                      <span className="text-xs tracking-wide text-gray-500 dark:text-gray-400 mb-1">
+                        Developer
+                      </span>
+                      {appAuthorUrl ? (
+                        <a
+                          href={appAuthorUrl}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="text-sm text-primary-500 hover:text-primary-700 dark:hover:text-primary-400 underline"
+                        >
+                          {appAuthorName}
+                        </a>
+                      ) : (
+                        <span className="text-sm">{appAuthorName}</span>
+                      )}
+                    </div>
+                  )}
+                </div>
+              </div>
+            )}
           </div>
 
           {(categories || subcategories) && (
-            <div className="-mt-4 flex flex-wrap gap-4 lg:justify-end">
+            <div className="-mt-4 -mr-4 flex flex-wrap gap-4 lg:justify-end relative z-10">
               {categories &&
                 categories.map((category) => (
                   <Link
@@ -400,7 +514,7 @@ export default function PostLayout({
             <div className="mt-6 divide-gray-200 text-sm font-medium leading-5 dark:divide-gray-700 xl:col-start-1 xl:row-start-2 xl:divide-y">
               {tags && (
                 <div className="py-4 xl:py-8">
-                  <h2 className="text-xs uppercase tracking-wide text-gray-500 dark:text-gray-400">
+                  <h2 className="text-xs tracking-wide text-gray-500 dark:text-gray-400">
                     Tags
                   </h2>
                   <div className="flex flex-wrap">
@@ -421,7 +535,7 @@ export default function PostLayout({
               )}
 
               <div className="py-4 xl:py-8">
-                <h2 className="text-xs uppercase tracking-wide text-gray-500 dark:text-gray-400">
+                <h2 className="text-xs tracking-wide text-gray-500 dark:text-gray-400">
                   Recommended Products
                 </h2>
                 <div className="flex flex-wrap">

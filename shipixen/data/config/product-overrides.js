@@ -911,6 +911,26 @@ module.exports = {
       ogImage: '/public/static/images/overrides/osssoftware-ad/ogImage.png',
       tags: ['Ads & Paid listings', 'Marketing', 'Open Source'],
     },
+    'page-ai': {
+      tags: [
+        'AI',
+        'Automation',
+        'Marketing',
+        'SEO',
+        'Website Builders',
+        'Developer Tools',
+        'Design',
+        'Next.js',
+      ],
+      ogImages: [
+        '/public/static/images/overrides/page-ai/ogImage.png',
+        '/public/static/images/overrides/page-ai/ogImage1.png',
+        '/public/static/images/overrides/page-ai/ogImage2.png',
+        '/public/static/images/overrides/page-ai/ogImage3.png',
+        '/public/static/images/overrides/page-ai/ogImage4.png',
+        '/public/static/images/overrides/page-ai/ogImage5.png',
+      ],
+    },
     'palettebrain-3': {
       tags: [
         'AI',

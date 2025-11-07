@@ -107,6 +107,16 @@ export const Blog = defineDocumentType(() => ({
     leaderboardPosition: { type: 'number' },
     validFromDate: { type: 'date' },
     expiresOnDate: { type: 'date' },
+    // JSON-LD fields from App Store
+    appCategory: { type: 'string' },
+    appPrice: { type: 'number' },
+    appPriceCurrency: { type: 'string' },
+    appRating: { type: 'number' },
+    appReviewCount: { type: 'number' },
+    appOperatingSystem: { type: 'string' },
+    appAvailableOnDevice: { type: 'string' },
+    appAuthorName: { type: 'string' },
+    appAuthorUrl: { type: 'string' },
   },
   computedFields: {
     ...computedFields,

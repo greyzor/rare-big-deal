@@ -4,6 +4,78 @@ const { extractAppStoreImages } = require('./appstore');
 const { sanitizeTitle } = require('./favicon-extractor');
 
 /**
+ * Extracts JSON-LD structured data from the page.
+ *
+ * @param {object} $ - Cheerio instance with loaded HTML
+ * @returns {object|null} - Parsed JSON-LD data or null if not found
+ */
+function extractJsonLd($) {
+  try {
+    // Look for JSON-LD script tags
+    const jsonLdScripts = $('script[type="application/ld+json"]');
+
+    if (jsonLdScripts.length === 0) {
+      return null;
+    }
+
+    // Find the SoftwareApplication schema
+    let softwareAppData = null;
+
+    jsonLdScripts.each((index, element) => {
+      try {
+        const scriptContent = $(element).html();
+        if (!scriptContent) return;
+
+        const jsonData = JSON.parse(scriptContent);
+
+        // Check if this is a SoftwareApplication schema
+        if (jsonData['@type'] === 'SoftwareApplication') {
+          softwareAppData = jsonData;
+          return false; // Break the loop
+        }
+      } catch (parseError) {
+        console.warn(
+          `Failed to parse JSON-LD at index ${index}:`,
+          parseError.message,
+        );
+      }
+    });
+
+    if (!softwareAppData) {
+      return null;
+    }
+
+    // Extract and normalize the relevant fields
+    const extractedData = {
+      name: softwareAppData.name || null,
+      description: softwareAppData.description || null,
+      applicationCategory: softwareAppData.applicationCategory || null,
+      operatingSystem: softwareAppData.operatingSystem || null,
+      availableOnDevice: softwareAppData.availableOnDevice || null,
+      price: softwareAppData.offers?.price || null,
+      priceCurrency: softwareAppData.offers?.priceCurrency || null,
+      ratingValue: softwareAppData.aggregateRating?.ratingValue || null,
+      reviewCount: softwareAppData.aggregateRating?.reviewCount || null,
+      authorName: softwareAppData.author?.name || null,
+      authorUrl: softwareAppData.author?.url || null,
+    };
+
+    console.log('Extracted JSON-LD data:', {
+      name: extractedData.name,
+      category: extractedData.applicationCategory,
+      price: extractedData.price,
+      rating: extractedData.ratingValue,
+      reviewCount: extractedData.reviewCount,
+    });
+
+    return extractedData;
+  } catch (error) {
+    console.error('Failed to extract JSON-LD:', error.message);
+    return null;
+  }
+}
+
+/**
  * Fetches and extracts metadata from a website.
  *
  * @param {string} website - The URL of the website to scrape
@@ -47,6 +119,9 @@ async function fetchWebsiteData(website) {
     // Log the extracted title
     console.log(`Extracted title for ${website}:`, title);
 
+    // Extract JSON-LD structured data
+    const jsonLdData = extractJsonLd($);
+
     // Ensure the URLs are absolute
     if (ogImageUrl && !ogImageUrl.startsWith('http')) {
       ogImageUrl = new URL(ogImageUrl, website).href;
@@ -75,6 +150,7 @@ async function fetchWebsiteData(website) {
       appStoreImageUrl,
       description,
       title,
+      jsonLd: jsonLdData, // Include JSON-LD data
     };
   } catch (error) {
     console.error(`Failed to fetch website data:`, error.message);
@@ -85,6 +161,7 @@ async function fetchWebsiteData(website) {
       appStoreImageUrl: null,
       description,
       title,
+      jsonLd: null,
     };
   }
 }
@@ -92,4 +169,3 @@ async function fetchWebsiteData(website) {
 module.exports = {
   fetchWebsiteData,
 };
-

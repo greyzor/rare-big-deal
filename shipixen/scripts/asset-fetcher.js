@@ -38,7 +38,24 @@ function applyOverrides(app, productName, appDir) {
     console.log(`Copied override logo for ${productName} ${app.logo}`);
   }
 
-  if (override.ogImage) {
+  // Handle ogImages (plural) with priority over ogImage (singular)
+  if (
+    override.ogImages &&
+    Array.isArray(override.ogImages) &&
+    override.ogImages.length > 0
+  ) {
+    app.images = [];
+    override.ogImages.forEach((imagePath, index) => {
+      const fileName =
+        index === 0 ? 'og-image.png' : `og-image-${index + 1}.png`;
+      const ogImagePath = path.join(appDir, fileName);
+      fs.copyFileSync(path.join(__dirname, '..', imagePath), ogImagePath);
+      app.images.push(`/static/images/product/${productName}/${fileName}`);
+    });
+    console.log(
+      `Copied ${override.ogImages.length} override ogImages for ${productName}`,
+    );
+  } else if (override.ogImage) {
     const ogImagePath = path.join(appDir, 'og-image.png');
     fs.copyFileSync(path.join(__dirname, '..', override.ogImage), ogImagePath);
     app.images = [`/static/images/product/${productName}/og-image.png`];
@@ -139,15 +156,22 @@ async function fetchAssets(app) {
   // Apply overrides first
   const override = applyOverrides(app, productName, appDir);
 
-  // If both logo and ogImage are overridden, we're done
-  if (override?.logo && override?.ogImage) {
+  // If both logo and ogImage(s) are overridden, we're done
+  if (override?.logo && (override?.ogImages || override?.ogImage)) {
     return;
   }
 
   try {
     console.log(`Fetching website data for ${productName}`);
-    const { $, ogImageUrl, ogImageUrls, appStoreImageUrl, description, title } =
-      await fetchWebsiteData(website);
+    const {
+      $,
+      ogImageUrl,
+      ogImageUrls,
+      appStoreImageUrl,
+      description,
+      title,
+      jsonLd,
+    } = await fetchWebsiteData(website);
 
     // Log the fetched title
     console.log(`Fetched title for ${productName}:`, title);
@@ -155,8 +179,14 @@ async function fetchAssets(app) {
     app.metaDescription = description;
     app.metaTitle = title;
 
+    // Store JSON-LD data if available
+    if (jsonLd) {
+      app.jsonLd = jsonLd;
+      console.log(`Stored JSON-LD data for ${productName}`);
+    }
+
     // Process images if not overridden
-    if (!override?.ogImage) {
+    if (!override?.ogImages && !override?.ogImage) {
       const imageUrlsToDownload =
         ogImageUrls.length > 0 ? ogImageUrls : [ogImageUrl].filter(Boolean);
 

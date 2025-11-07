@@ -24,6 +24,23 @@ async function generateMDXContent(app) {
     expiresOnDate,
   } = applyMetaOverrides(sanitizeName(app.name), app);
 
+  // Extract JSON-LD data with fallbacks
+  const jsonLd = app.jsonLd || {};
+  const hasJsonLd = jsonLd && Object.keys(jsonLd).length > 0;
+
+  // Use JSON-LD description if available, append meta description
+  let finalDescription = description?.trim() || '';
+  if (hasJsonLd && jsonLd.description) {
+    finalDescription = jsonLd.description.trim();
+    // Append the meta description if it exists and is different
+    if (metaDescription && metaDescription.trim() !== finalDescription) {
+      finalDescription += '\n\n' + metaDescription.trim();
+    }
+
+    // improve formatting of bullets for markdown
+    finalDescription = finalDescription.replace(/•/g, '-');
+  }
+
   let mdxContent = `---
 title: >
   ${app.name?.trim()}
@@ -58,6 +75,38 @@ website: ${website}
 ${expiresOnDate ? `expiresOnDate: ${expiresOnDate}` : ''}
 layout: ProductLayout
 `;
+
+  // Add JSON-LD fields if available
+  if (hasJsonLd) {
+    if (jsonLd.applicationCategory) {
+      mdxContent += `appCategory: ${jsonLd.applicationCategory}\n`;
+    }
+    if (jsonLd.price !== null && jsonLd.price !== undefined) {
+      mdxContent += `appPrice: ${jsonLd.price}\n`;
+    }
+    if (jsonLd.priceCurrency) {
+      mdxContent += `appPriceCurrency: ${jsonLd.priceCurrency}\n`;
+    }
+    if (jsonLd.ratingValue !== null && jsonLd.ratingValue !== undefined) {
+      mdxContent += `appRating: ${jsonLd.ratingValue}\n`;
+    }
+    if (jsonLd.reviewCount !== null && jsonLd.reviewCount !== undefined) {
+      mdxContent += `appReviewCount: ${jsonLd.reviewCount}\n`;
+    }
+    if (jsonLd.operatingSystem) {
+      mdxContent += `appOperatingSystem: >
+  ${jsonLd.operatingSystem.trim()}\n`;
+    }
+    if (jsonLd.availableOnDevice) {
+      mdxContent += `appAvailableOnDevice: ${jsonLd.availableOnDevice}\n`;
+    }
+    if (jsonLd.authorName) {
+      mdxContent += `appAuthorName: ${jsonLd.authorName}\n`;
+    }
+    if (jsonLd.authorUrl) {
+      mdxContent += `appAuthorUrl: ${jsonLd.authorUrl}\n`;
+    }
+  }
 
   const leaderboardPosition = getLeaderboardPosition(sanitizeName(app.name));
   if (leaderboardPosition !== null) {
@@ -106,15 +155,28 @@ ${formattedMetaTitle}
   }
 
   mdxContent += `---
-${description}
 
-## Rare Deal
+## Discount / Deal
 
 <div className="deal-paragraph not-prose">
 ${deal}
 </div>
-${app.expires ? `\n<ExpirationDate date="${app.expires}" />\n` : ''}`;
-  if (metaTitle || metaDescription) {
+${app.expiresOnDate ? `\n<ExpirationDate date="${app.expiresOnDate}" />\n` : ''}
+
+## Product Overview
+
+${finalDescription || description}
+`;
+
+  // Only add Product Details section if metaTitle exists or if metaDescription is different from JSON-LD description
+  const shouldShowProductDetails =
+    metaTitle ||
+    (metaDescription &&
+      (!hasJsonLd ||
+        !jsonLd.description ||
+        metaDescription.trim() !== jsonLd.description.trim()));
+
+  if (shouldShowProductDetails) {
     // Format the content section differently from frontmatter
     const formattedContentMetaTitle = (metaTitle || '').trim();
     const formattedContentMetaDescription = (metaDescription || '').trim();
