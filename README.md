@@ -476,7 +476,8 @@ It's free & open-source. Enjoy! 🚀
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
-| ⭐ | Be the first to add a deal in this category! | | | |
+| 💰 | [Get Your First Client as a Freelancer]([https:///](https://getyourfirstclient.freelancerpath.com/)) | A complete step by step guide to get your first client as a freelancer from scratch. | **50% off** with discount code **BLACK** | 2025-12-01 |
+
 
 
 ### Art Courses
