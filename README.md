@@ -96,6 +96,7 @@ It's free & open-source. Enjoy! 🚀
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | ⌛   | [Crontap](https://crontap.com/) | Schedule recurring API calls without the hassle. | **40% off** with discount code **BF2025** | 2025-12-01 |
+| 💬   | [Despeech](https://despeech.com/) | Transcribe audio without building your own pipeline. | **50% more hours** automatically applied | 2025-12-01 |
 
 ### Browser Extensions
 
@@ -410,7 +411,6 @@ It's free & open-source. Enjoy! 🚀
 | - | - | - | - | - |
 | 🚢 | [Shipixen](https://shipixen.com) | In 5 minutes, go from nothing → deployed codebase. | **$100 OFF** on all licenses with code **BF2025** | 2025-12-01 |
 
-
 ### Nuxt
 
 | | Name | Description | Deal | Expires on date |
@@ -452,6 +452,11 @@ It's free & open-source. Enjoy! 🚀
 | - | - | - | - | - |
 | ⭐ | Be the first to add a deal in this category! | | | |
 
+### Django
+
+| | Name | Description | Deal | Expires on date |
+| - | - | - | - | - |
+| 🚢 | [Django daisyUI Starter Kit](https://polar.sh/niftydigits/products/02cf986e-80ae-470b-b491-e48321fa0340) | Latest release of django preconfigured with daisyUI templates ready for you to customise and launch your next big idea! | **30% OFF** on all licenses with code **BF2025** | 2025-12-05 |
 
 ### Chrome Extensions
 
