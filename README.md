@@ -85,27 +85,27 @@ It's free & open-source. Enjoy! 🚀
 
 ### macOS Apps
 
-| | Product Name | Description | Deal | Expires on |
+| | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 🏏 | [Clobbr](https://clobbr.app) | The app & CLI tool to load test your API endpoints. | **50% off** in the AppStore (already applied) | 2025-12-31 |
 
 
 ### APIs, Tools & SaaS
 
-| | Product Name | Description | Deal | Expires on |
+| | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | ⌛   | [Crontap](https://crontap.com/) | Schedule recurring API calls without the hassle. | **40% off** with discount code **BF2025** | 2025-12-01 |
 
 ### Browser Extensions
 
-| | Product Name | Description | Deal | Expires on |
+| | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | ⭐ | Be the first to add a deal in this category! | | | |
 
 
 ### Productivity & AI
 
-| | Product Name | Description | Deal | Expires on |
+| | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | ⭐ | Be the first to add a deal in this category! | | | |
 
@@ -118,28 +118,28 @@ It's free & open-source. Enjoy! 🚀
 
 ### Developer Tools
 
-| | Product Name | Description | Deal | Expires on |
+| | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 📃 | [Page AI](https://pageai.pro) | The website generator that designs and writes clean code. | **50% OFF** with discount code **BF2025** | 2025-12-01 |
 
 
 ### Productivity
 
-| | Product Name | Description | Deal | Expires on |
+| | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | ⭐ | Be the first to add a deal in this category! | | | |
 
 
 ### Other
 
-| | Product Name | Description | Deal | Expires on |
+| | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | ⭐ | Be the first to add a deal in this category! | | | |
 
 
 ### Lifestyle
 
-| | Product Name | Description | Deal | Expires on |
+| | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | ⭐ | Be the first to add a deal in this category! | | | |
 
@@ -152,42 +152,42 @@ It's free & open-source. Enjoy! 🚀
 
 ### Developer Tools
 
-| | Product Name | Description | Deal | Expires on |
+| | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 🏏 | [Clobbr](https://clobbr.app) | The app & CLI tool to load test your API endpoints. | **50% off** in the AppStore (already applied) | 2025-12-31 |
 
 
 ### Productivity
 
-| | Product Name | Description | Deal | Expires on |
+| | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | ⭐ | Be the first to add a deal in this category! | | | |
 
 
 ### Design Tools
 
-| | Product Name | Description | Deal | Expires on |
+| | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | ⭐ | Be the first to add a deal in this category! | | | |
 
 
 ### Health & Fitness
 
-| | Product Name | Description | Deal | Expires on |
+| | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | ⭐ | Be the first to add a deal in this category! | | | |
 
 
 ### Writing & Notes
 
-| | Product Name | Description | Deal | Expires on |
+| | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | ⭐ | Be the first to add a deal in this category! | | | |
 
 
 ### Menu Bar & More
 
-| | Product Name | Description | Deal | Expires on |
+| | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | ⭐ | Be the first to add a deal in this category! | | | |
 
@@ -200,42 +200,42 @@ It's free & open-source. Enjoy! 🚀
 
 ### Writing & Notes
 
-| | Product Name | Description | Deal | Expires on |
+| | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | ⭐ | Be the first to add a deal in this category! | | | |
 
 
 ### Productivity
 
-| | Product Name | Description | Deal | Expires on |
+| | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | ⭐ | Be the first to add a deal in this category! | | | |
 
 
 ### Photos & Videos
 
-| | Product Name | Description | Deal | Expires on |
+| | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | ⭐ | Be the first to add a deal in this category! | | | |
 
 
 ### Health & Fitness
 
-| | Product Name | Description | Deal | Expires on |
+| | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | ⭐ | Be the first to add a deal in this category! | | | |
 
 
 ### Hobby & Lifestyle
 
-| | Product Name | Description | Deal | Expires on |
+| | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | ⭐ | Be the first to add a deal in this category! | | | |
 
 
 ### Other
 
-| | Product Name | Description | Deal | Expires on |
+| | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | ⭐ | Be the first to add a deal in this category! | | | |
 
@@ -248,28 +248,28 @@ It's free & open-source. Enjoy! 🚀
 
 ### Productivity
 
-| | Product Name | Description | Deal | Expires on |
+| | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | ⭐ | Be the first to add a deal in this category! | | | |
 
 
 ### AI Design Tools
 
-| | Product Name | Description | Deal | Expires on |
+| | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | ⭐ | Be the first to add a deal in this category! | | | |
 
 
 ### Video Tools
 
-| | Product Name | Description | Deal | Expires on |
+| | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | ⭐ | Be the first to add a deal in this category! | | | |
 
 
 ### Social
 
-| | Product Name | Description | Deal | Expires on |
+| | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | ⭐ | Be the first to add a deal in this category! | | | |
 
@@ -282,21 +282,21 @@ It's free & open-source. Enjoy! 🚀
 
 ### Todo Apps, Notes & Writing
 
-| | Product Name | Description | Deal | Expires on |
+| | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | ⭐ | Be the first to add a deal in this category! | | | |
 
 
 ### Marketing
 
-| | Product Name | Description | Deal | Expires on |
+| | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | ⭐ | Be the first to add a deal in this category! | | | |
 
 
 ### Other
 
-| | Product Name | Description | Deal | Expires on |
+| | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | ⭐ | Be the first to add a deal in this category! | | | |
 
@@ -309,56 +309,56 @@ It's free & open-source. Enjoy! 🚀
 
 ### Social
 
-| | Product Name | Description | Deal | Expires on |
+| | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | ⭐ | Be the first to add a deal in this category! | | | |
 
 
 ### Email Marketing
 
-| | Product Name | Description | Deal | Expires on |
+| | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | ⭐ | Be the first to add a deal in this category! | | | |
 
 
 ### Content Creation
 
-| | Product Name | Description | Deal | Expires on |
+| | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | ⭐ | Be the first to add a deal in this category! | | | |
 
 
 ### Affiliate Marketing
 
-| | Product Name | Description | Deal | Expires on |
+| | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | ⭐ | Be the first to add a deal in this category! | | | |
 
 
 ### Analytics
 
-| | Product Name | Description | Deal | Expires on |
+| | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | ⭐ | Be the first to add a deal in this category! | | | |
 
 
 ### Website Builders
 
-| | Product Name | Description | Deal | Expires on |
+| | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 📃 | [Page AI](https://pageai.pro) | The website generator that designs and writes clean code. | **50% OFF** with code **BF2025** | 2025-12-01 |
 
 
 ### Ads & Paid listings
 
-| | Product Name | Description | Deal | Expires on |
+| | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | ⭐ | Be the first to add a deal in this category! | | | |
 
 
 ### Other
 
-| | Product Name | Description | Deal | Expires on |
+| | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | ⭐ | Be the first to add a deal in this category! | | | |
 
@@ -371,28 +371,28 @@ It's free & open-source. Enjoy! 🚀
 
 ### Backlinks
 
-| | Product Name | Description | Deal | Expires on |
+| | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | ⭐ | Be the first to add a deal in this category! | | | |
 
 
 ### Tools
 
-| | Product Name | Description | Deal | Expires on |
+| | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | ⭐ | Be the first to add a deal in this category! | | | |
 
 
 ### Analyze & Audit
 
-| | Product Name | Description | Deal | Expires on |
+| | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | ⭐ | Be the first to add a deal in this category! | | | |
 
 
 ### Content Creation
 
-| | Product Name | Description | Deal | Expires on |
+| | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | ⭐ | Be the first to add a deal in this category! | | | |
 
@@ -405,63 +405,63 @@ It's free & open-source. Enjoy! 🚀
 
 ### React/Next.js
 
-| | Product Name | Description | Deal | Expires on |
+| | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 🚢 | [Shipixen](https://shipixen.com) | In 5 minutes, go from nothing → deployed codebase. | **$100 OFF** on all licenses with code **BF2025** | 2025-12-01 |
 
 
 ### Nuxt
 
-| | Product Name | Description | Deal | Expires on |
+| | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | ⭐ | Be the first to add a deal in this category! | | | |
 
 
 ### iOS
 
-| | Product Name | Description | Deal | Expires on |
+| | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | ⭐ | Be the first to add a deal in this category! | | | |
 
 
 ### Flutter
 
-| | Product Name | Description | Deal | Expires on |
+| | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | ⭐ | Be the first to add a deal in this category! | | | |
 
 
 ### React Native
 
-| | Product Name | Description | Deal | Expires on |
+| | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | ⭐ | Be the first to add a deal in this category! | | | |
 
 
 ### Kotlin
 
-| | Product Name | Description | Deal | Expires on |
+| | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | ⭐ | Be the first to add a deal in this category! | | | |
 
 
 ### Laravel
 
-| | Product Name | Description | Deal | Expires on |
+| | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | ⭐ | Be the first to add a deal in this category! | | | |
 
 
 ### Chrome Extensions
 
-| | Product Name | Description | Deal | Expires on |
+| | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | ⭐ | Be the first to add a deal in this category! | | | |
 
 
 ### Libraries & More
 
-| | Product Name | Description | Deal | Expires on |
+| | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | ⭐ | Be the first to add a deal in this category! | | | |
 
@@ -474,28 +474,28 @@ It's free & open-source. Enjoy! 🚀
 
 ### Courses
 
-| | Product Name | Description | Deal | Expires on |
+| | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | ⭐ | Be the first to add a deal in this category! | | | |
 
 
 ### Art Courses
 
-| | Product Name | Description | Deal | Expires on |
+| | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | ⭐ | Be the first to add a deal in this category! | | | |
 
 
 ### SEO
 
-| | Product Name | Description | Deal | Expires on |
+| | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | ⭐ | Be the first to add a deal in this category! | | | |
 
 
 ### Books
 
-| | Product Name | Description | Deal | Expires on |
+| | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | ⭐ | Be the first to add a deal in this category! | | | |
 
@@ -508,7 +508,7 @@ It's free & open-source. Enjoy! 🚀
 
 ### Apps
 
-| | Product Name | Description | Deal | Expires on |
+| | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | ⭐ | Be the first to add a deal in this category! | | | |
 
@@ -521,7 +521,7 @@ It's free & open-source. Enjoy! 🚀
 
 ### Dashboards
 
-| | Product Name | Description | Deal | Expires on |
+| | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | ⭐ | Be the first to add a deal in this category! | | | |
 
@@ -533,7 +533,7 @@ It's free & open-source. Enjoy! 🚀
 ## Miscellaneous
 
 ### All
-| | Product Name | Description | Deal | Expires on |
+| | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | ⭐ | Be the first to add a deal in this category! | | | |
 
