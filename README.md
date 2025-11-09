@@ -76,6 +76,7 @@ It's free & open-source. Enjoy! 🚀
   - [Apps](#apps)
 - [Finance](#finance)
   - [Dashboards](#dashboards)
+  - [Investment Research](#investment-research)
 - [Miscellaneous](#miscellaneous)
   - [All](#all)
 
@@ -137,6 +138,7 @@ It's free & open-source. Enjoy! 🚀
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 🖼️ | [ThumblifyAI](https://thumblifyai.com) | Create scroll-stopping YouTube thumbnails in your own style or face with AI. | **30% OFF** with discount code **WELCOME30** | 2025-12-01 |
+| 👀 | [ChampSignal](https://champsignal.com) | ChampSignal tracks your competitors' websites, social mentions, ads, backlinks, and keywords, and sends you email alerts only when it matters. | **25% OFF** with code **BF2025** | 2025-12-01 |
 
 
 ### Lifestyle
@@ -164,21 +166,21 @@ It's free & open-source. Enjoy! 🚀
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 📸 | [Shotomatic](https://shotomatic.com) | Easily archive eBooks, dashboards, and long-page documents through automated screenshots. | **40% OFF** with discount code **BF2025** | 2025-12-01 |
+| 🗂️ | [MeetingMenu](https://www.meetingmenu.app/) | Manage, organize, and execute perfect meetings effortlessly from your Mac menu bar. | **50% OFF** | 2025-12-01 |
 
 
 ### Design Tools
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
-| ⭐ | Be the first to add a deal in this category! | | | |
+| 🖥️ | [ScreenCanvas](https://www.screencanvas.app/) | Design digital signage & message boards with custom text, images, & audio right on your Apple TV! | **50% OFF** lifetime purchase | 2025-12-01 |
 
 
 ### Health & Fitness
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
-| ⭐ | Be the first to add a deal in this category! | | | |
-
+| 😴 | [Sleep Sounds + White Noise for Apple TV](https://www.darksleep.app/) | The #1 free sleep and relaxation app for Apple TV | **30% OFF** lifetime purchase (in app purchase) | 2025-12-01 |
 
 ### Writing & Notes
 
@@ -314,7 +316,7 @@ It's free & open-source. Enjoy! 🚀
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 🔄 | [PostSyncer](https://postsyncer.com) | Sync and schedule your social media posts across multiple platforms. Features AI-powered content creation with Veo 3, Sora 2, Nano Banana, and other image and video models. | **20% OFF** for a year with discount code **RAREBIGDEAL** | 2025-12-31 |
-
+| 🟪 | [PostFlow](https://postflow.app?ref=rare-big-deal) | Social media scheduler and platform to manage ALL your social media content. One click, all platforms, hours saved. | **30% OFF (LIFETIME)** with code **BF2025** | 2025-12-01 |
 
 ### Email Marketing
 
@@ -341,7 +343,7 @@ It's free & open-source. Enjoy! 🚀
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
-| ⭐ | Be the first to add a deal in this category! | | | |
+| ⭐ | [Subreddit Traffic Tracker](https://subreddittraffic.live/) | Reach maximum Reddit traffic by finding the best times to post. Track 400+ subreddits activity and optimize your posting schedule to increase your brand awareness and traffic. | 30% OFF lifetime plan with code **BLACKFRIDAY2025** | |
 
 
 ### Website Builders
@@ -534,6 +536,12 @@ It's free & open-source. Enjoy! 🚀
 | 💰 | [Gumtrends](https://gumtrends.com) | Get access to a growing dataset of 200k+ Gumroad products complete with estimated revenue. Spot opportunities by finding profitable items. | **30% OFF** on lifetime access with code **BF2025**| 2025-12-05 |
 | 💰 | [Side Projects Making $$$+](https://niftydigits.gumroad.com/l/side-projects/BF2025) | A complete collection of notion databases detailing every side project making real money posted to Hacker News threads from 2014-2024. | **30% OFF** on lifetime access with code **BF2025** | 2025-12-05 |
 
+### Investment Research
+
+| | Name | Description | Deal | Expires on date |
+| - | - | - | - | - |
+| 💰 | [Wall St. Rank](https://www.wallstrank.com) | Piggyback off insights from the world's best hedge funds and research analysts. | **50% OFF** Yearly plan with code **RBD2025**| 2025-12-31 |
+
 [⬆️ All categories](#table-of-contents)
 
 --------------------------------
@@ -577,4 +585,3 @@ Apihustle is a collection of tools to test, improve and get to know your API ins
 </a>
 
 -----------------
-
