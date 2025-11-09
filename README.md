@@ -76,6 +76,7 @@ It's free & open-source. Enjoy! 🚀
   - [Apps](#apps)
 - [Finance](#finance)
   - [Dashboards](#dashboards)
+  - [Investment Research](#investment-research)
 - [Miscellaneous](#miscellaneous)
   - [All](#all)
 
@@ -534,6 +535,12 @@ It's free & open-source. Enjoy! 🚀
 | 💰 | [Gumtrends](https://gumtrends.com) | Get access to a growing dataset of 200k+ Gumroad products complete with estimated revenue. Spot opportunities by finding profitable items. | **30% OFF** on lifetime access with code **BF2025**| 2025-12-05 |
 | 💰 | [Side Projects Making $$$+](https://niftydigits.gumroad.com/l/side-projects/BF2025) | A complete collection of notion databases detailing every side project making real money posted to Hacker News threads from 2014-2024. | **30% OFF** on lifetime access with code **BF2025** | 2025-12-05 |
 
+### Investment Research
+
+| | Name | Description | Deal | Expires on date |
+| - | - | - | - | - |
+| 💰 | [Wall St. Rank](https://www.wallstrank.com) | Piggyback off insights from the world's best hedge funds and research analysts. | **50% OFF** Yearly plan with code **RBD2025**| 2025-12-31 |
+
 [⬆️ All categories](#table-of-contents)
 
 --------------------------------
@@ -577,4 +584,3 @@ Apihustle is a collection of tools to test, improve and get to know your API ins
 </a>
 
 -----------------
-
