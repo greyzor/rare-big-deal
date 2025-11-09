@@ -96,6 +96,7 @@ It's free & open-source. Enjoy! 🚀
 | 📸 | [Shotomatic](https://shotomatic.com) | Easily archive eBooks, dashboards, and long-page documents through automated screenshots. | **40% OFF** with discount code **BF2025** | 2025-12-01 |
 | ⚡ | [BoltAI](https://boltai.com/buy?via=rarebigdeal) | All AI models in one native app — ultra-fast, 100+ pro features. | 50% OFF with code **BFCM25** | 2025-12-01 |
 | ⚡ | [PDF Pals](https://pdfpals.com/buy?via=rarebigdeal) | Instantly chat with any PDF on your Mac. Native, fast and respect your privacy. | 50% OFF with code **BFCM25** | 2025-12-01 |
+| 🖊 | [RewriteBar](https://rewritebar.com?ref=rarebigdeal) | RewriteBar is a macOS menu bar app that allows you to rewrite text using AI. Correct grammar, translate, adjust tone, and more. | 50% OFF with code **BF2025** | 2025-12-01 |
 
 
 ### APIs, Tools & SaaS
@@ -118,6 +119,7 @@ It's free & open-source. Enjoy! 🚀
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 🔄 | [PostSyncer](https://postsyncer.com) | Sync and schedule your social media posts across multiple platforms. Features AI-powered content creation with Veo 3, Sora 2, Nano Banana, and other image and video models. | **20% OFF** for a year with discount code **RAREBIGDEAL** | 2025-12-31 |
+| 🖊 | [RewriteBar](https://rewritebar.com?ref=rarebigdeal) | RewriteBar is a macOS menu bar app that allows you to rewrite text using AI. Correct grammar, translate, adjust tone, and more. | 50% OFF with code **BF2025** | 2025-12-01 |
 
 
 [⬆️ All categories](#table-of-contents)
@@ -139,6 +141,7 @@ It's free & open-source. Enjoy! 🚀
 | - | - | - | - | - |
 | 📮 | [ChatTempMail](https://chat-tempmail.com) |AI-Powered Temporary Email Service |**30% OFF** with discount code **M61MGFL89W** |2025-11-28 |
 | 🤖 | [TypingMind](https://typingmind.com/) | Personal AI workspace. Frontend for ChatGPT, Claude, Gemini to use with your API key. Support Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | 60% OFF with code **BLACKFRIDAY2025** | 2025-12-01 |
+| 🖊 | [RewriteBar](https://rewritebar.com?ref=rarebigdeal) | RewriteBar is a macOS menu bar app that allows you to rewrite text using AI. Correct grammar, translate, adjust tone, and more. | 50% OFF with code **BF2025** | 2025-12-01 |
 
 
 ### Other
@@ -175,6 +178,7 @@ It's free & open-source. Enjoy! 🚀
 | - | - | - | - | - |
 | 📸 | [Shotomatic](https://shotomatic.com) | Easily archive eBooks, dashboards, and long-page documents through automated screenshots. | **40% OFF** with discount code **BF2025** | 2025-12-01 |
 | 🗂️ | [MeetingMenu](https://www.meetingmenu.app/) | Manage, organize, and execute perfect meetings effortlessly from your Mac menu bar. | **50% OFF** | 2025-12-01 |
+| 🖊 | [RewriteBar](https://rewritebar.com?ref=rarebigdeal) | RewriteBar is a macOS menu bar app that allows you to rewrite text using AI. Correct grammar, translate, adjust tone, and more. | 50% OFF with code **BF2025** | 2025-12-01 |
 
 
 ### Design Tools
@@ -194,14 +198,14 @@ It's free & open-source. Enjoy! 🚀
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
-| ⭐ | Be the first to add a deal in this category! | | | |
+| 🖊 | [RewriteBar](https://rewritebar.com?ref=rarebigdeal) | RewriteBar is a macOS menu bar app that allows you to rewrite text using AI. Correct grammar, translate, adjust tone, and more. | 50% OFF with code **BF2025** | 2025-12-01 |
 
 
 ### Menu Bar & More
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
-| ⭐ | Be the first to add a deal in this category! | | | |
+| 🖊 | [RewriteBar](https://rewritebar.com?ref=rarebigdeal) | RewriteBar is a macOS menu bar app that allows you to rewrite text using AI. Correct grammar, translate, adjust tone, and more. | 50% OFF with code **BF2025** | 2025-12-01 |
 
 
 [⬆️ All categories](#table-of-contents)
