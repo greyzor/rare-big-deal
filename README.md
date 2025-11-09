@@ -311,10 +311,9 @@ It's free & open-source. Enjoy! 🚀
 
 ### Social
 
-| | Name | Description | Deal | Expires on date |
-| - | - | - | - | - |
-| ⭐ | Be the first to add a deal in this category! | | | |
-
+| | Name | Description | Deal                                                             | Expires on date |
+| - | - | - |------------------------------------------------------------------|-----------------|
+|  🟪 | [PostFlow](https://postflow.app?ref=rare-big-deal) | Social media scheduler and platform to manage ALL your social media content. One click, all platforms, hours saved. | **30% OFF (LIFETIME)** with code **BLACKFRIDAY** | 2025-12-01      |
 
 ### Email Marketing
 
