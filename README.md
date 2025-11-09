@@ -1,5 +1,5 @@
 # 💵 Rare Big App Deals, 2025 edition ✨
-Get rare limited time deals on the best **iOS Apps**, **Mac Apps**, **SaaS**, **AI** and **Web Apps**. Discounts for Black Friday, Cyber Monday & more!
+Get rare limited time deals on the best **iOS Apps**, **Mac Apps**, **tvOS Apps**, **SaaS**, **AI** and **Web Apps**. Discounts for Black Friday, Cyber Monday & more!
 
 ----
 
@@ -34,6 +34,9 @@ It's free & open-source. Enjoy! 🚀
   - [Health \& Fitness](#health--fitness-1)
   - [Hobby \& Lifestyle](#hobby--lifestyle)
   - [Other](#other-1)
+- [tvOS Apps](#tvos-apps)
+  - [Health & Fitness](#health--fitness-2)
+  - [Design Tools](#design-tools-2)
 - [Design Tools](#design-tools-1)
   - [Productivity](#productivity-3)
   - [AI Design Tools](#ai-design-tools)
@@ -179,7 +182,8 @@ It's free & open-source. Enjoy! 🚀
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
-| 😴 | [Sleep Sounds + White Noise for Apple TV](https://www.darksleep.app/) | The #1 free sleep and relaxation app for Apple TV | **30% OFF** lifetime purchase (in app purchase) | 2025-12-01 |
+| ⭐ | Be the first to add a deal in this category! | | | |
+
 
 ### Writing & Notes
 
@@ -194,6 +198,24 @@ It's free & open-source. Enjoy! 🚀
 | - | - | - | - | - |
 | ⭐ | Be the first to add a deal in this category! | | | |
 
+
+[⬆️ All categories](#table-of-contents)
+
+--------------------------------
+
+## tvOS Apps
+
+### Health & Fitness
+
+| | Name | Description | Deal | Expires on date |
+| - | - | - | - | - |
+| 😴 | [Sleep Sounds + White Noise for Apple TV](https://www.darksleep.app/) | The #1 free sleep and relaxation app for Apple TV | **30% OFF** lifetime purchase (in-app purchase) | 2025-12-01 |
+
+### Design Tools
+
+| | Name | Description | Deal | Expires on date |
+| - | - | - | - | - |
+| 🖥️ | [ScreenCanvas](https://www.screencanvas.app/) | Design digital signage & message boards with custom text, images, & audio right on your Apple TV. | **50% OFF** lifetime purchase | 2025-12-01 |
 
 [⬆️ All categories](#table-of-contents)
 
@@ -253,7 +275,7 @@ It's free & open-source. Enjoy! 🚀
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
-| 🖥️ | [ScreenCanvas](https://www.screencanvas.app/) | Design digital signage & message boards with custom text, images, & audio right on your Apple TV! | **50% OFF** lifetime purchase | 2025-12-01 |
+| ⭐ | Be the first to add a deal in this category! | | | |
 
 
 ### AI Design Tools
