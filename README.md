@@ -211,7 +211,8 @@ It's free & open-source. Enjoy! 🚀
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
-| 😴 | [Sleep Sounds + White Noise for Apple TV](https://www.darksleep.app/) | The #1 free sleep and relaxation app for Apple TV | **30% OFF** lifetime purchase (in-app purchase) | 2025-12-01 |
+| 😴 | [Sleep Sounds + White Noise for Apple TV](https://www.darksleep.app/) | The #1 free sleep and relaxation app for Apple TV. Dolby Atmos soundscapes, calming videos, meditations, sunrise alarms, and more — all in one app. | **30% OFF** lifetime purchase (in-app) | 2025-12-01 |
+| 🟣 | [Mood Lights](https://www.moodlights.app/) | Make your TV a mood lamp — Transform your space with the Mood Lights Apple TV app, offering endless colors and sounds for relaxation, focus, and beautiful ambiance. | **50% OFF** lifetime purchase | 2025-12-01 |
 
 ### Design Tools
 
