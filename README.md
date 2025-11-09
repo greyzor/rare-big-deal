@@ -94,6 +94,8 @@ It's free & open-source. Enjoy! 🚀
 | - | - | - | - | - |
 | 🏏 | [Clobbr](https://clobbr.app) | The app & CLI tool to load test your API endpoints. | **50% off** in the AppStore (already applied) | 2025-12-31 |
 | 📸 | [Shotomatic](https://shotomatic.com) | Easily archive eBooks, dashboards, and long-page documents through automated screenshots. | **40% OFF** with discount code **BF2025** | 2025-12-01 |
+| ⚡ | [BoltAI](https://boltai.com/buy?via=rarebigdeal) | All AI models in one native app — ultra-fast, 100+ pro features. | 50% OFF with code **BFCM25** | 2025-12-01 |
+| ⚡ | [PDF Pals](https://pdfpals.com/buy?via=rarebigdeal) | Instantly chat with any PDF on your Mac. Native, fast and respect your privacy. | 50% OFF with code **BFCM25** | 2025-12-01 |
 
 
 ### APIs, Tools & SaaS
