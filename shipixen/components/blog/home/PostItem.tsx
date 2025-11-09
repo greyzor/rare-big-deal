@@ -18,12 +18,27 @@ import {
 
 function processTitle(title: string): string {
   const delimiters = [':', ',', '.', '-'];
+  const exceptions = ['St.', 'Inc.', 'Ltd.'];
+
   for (const delimiter of delimiters) {
-    if (title.includes(delimiter)) {
-      title = title.split(delimiter)[0];
+    const index = title.indexOf(delimiter);
+    if (index !== -1) {
+      // Check if this delimiter is part of an exception
+      const isException = exceptions.some(exception => {
+        const exceptionIndex = title.indexOf(exception);
+        if (exceptionIndex === -1) return false;
+        // Check if the delimiter is within the exception boundaries
+        return index >= exceptionIndex && index < exceptionIndex + exception.length;
+      });
+
+      if (!isException) {
+        title = title.substring(0, index);
+        break; // Stop after first valid delimiter
+      }
     }
   }
-  const words = title.split(' ').slice(0, 5);
+
+  const words = title.split(' ').slice(0, 4);
   return words.join(' ');
 }
 
