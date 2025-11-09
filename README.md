@@ -177,8 +177,7 @@ It's free & open-source. Enjoy! 🚀
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
-| ⭐ | Be the first to add a deal in this category! | | | |
-
+| 😴 | [Sleep Sounds + White Noise for Apple TV](https://www.darksleep.app/) | The #1 free sleep and relaxation app for Apple TV | **30% OFF** lifetime purchase (in app purchase) | 2025-12-01 |
 
 ### Writing & Notes
 
