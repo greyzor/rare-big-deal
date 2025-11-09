@@ -102,6 +102,7 @@ It's free & open-source. Enjoy! 🚀
 | - | - | - | - | - |
 | ⌛   | [Crontap](https://crontap.com/) | Schedule recurring API calls without the hassle. | **40% off** with discount code **BF2025** | 2025-12-01 |
 | 💬   | [Despeech](https://despeech.com/) | Transcribe audio without building your own pipeline. | **50% more hours** automatically applied | 2025-12-01 |
+| 💬   | [UptimeBeats](https://uptimebeats.com/) | Uptime Monitoring and Status Pages. | **10% off** with code **BF2025** | 2025-12-01 |
 
 ### Browser Extensions
 
