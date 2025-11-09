@@ -27,17 +27,17 @@ It's free & open-source. Enjoy! 🚀
   - [Health \& Fitness](#health--fitness)
   - [Writing \& Notes](#writing--notes)
   - [Menu Bar \& More](#menu-bar--more)
+- [tvOS Apps](#tvos-apps)
+  - [Health \& Fitness](#health--fitness-1)
+  - [Design Tools](#design-tools-1)
 - [iOS Apps](#ios-apps)
   - [Writing \& Notes](#writing--notes-1)
   - [Productivity](#productivity-2)
   - [Photos \& Videos](#photos--videos)
-  - [Health \& Fitness](#health--fitness-1)
+  - [Health \& Fitness](#health--fitness-2)
   - [Hobby \& Lifestyle](#hobby--lifestyle)
   - [Other](#other-1)
-- [tvOS Apps](#tvos-apps)
-  - [Health & Fitness](#health--fitness-2)
-  - [Design Tools](#design-tools-2)
-- [Design Tools](#design-tools-1)
+- [Design Tools](#design-tools-2)
   - [Productivity](#productivity-3)
   - [AI Design Tools](#ai-design-tools)
   - [Video Tools](#video-tools)
@@ -68,6 +68,7 @@ It's free & open-source. Enjoy! 🚀
   - [React Native](#react-native)
   - [Kotlin](#kotlin)
   - [Laravel](#laravel)
+  - [Django](#django)
   - [Chrome Extensions](#chrome-extensions)
   - [Libraries \& More](#libraries--more)
 - [Learning](#learning)
@@ -134,6 +135,7 @@ It's free & open-source. Enjoy! 🚀
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 📮 | [ChatTempMail](https://chat-tempmail.com) |AI-Powered Temporary Email Service |**30% OFF** with discount code **M61MGFL89W** |2025-11-28 |
+| 🤖 | [TypingMind](https://typingmind.com/) | Personal AI workspace. Frontend for ChatGPT, Claude, Gemini to use with your API key. Support Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | 60% OFF with code **BLACKFRIDAY2025** | 2025-12-01 |
 
 
 ### Other
@@ -387,7 +389,6 @@ It's free & open-source. Enjoy! 🚀
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 📊 | [Branding5](https://branding5.com)| Define your brand and optimize your marketing strategy in just minutes with AI| **50% OFF** with code **BLACKFRIDAY** | 2025-12-01 |
-    
 
 
 [⬆️ All categories](#table-of-contents)
