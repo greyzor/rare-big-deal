@@ -79,6 +79,29 @@ async function extractHighestResFavicon($, website, appStoreImageUrl = null) {
     }
   }
 
+  // Final fallback: Try Google's favicon service with maximum size
+  try {
+    const domain = new URL(website).hostname;
+    const googleFaviconUrl = `https://www.google.com/s2/favicons?domain=${domain}&sz=256`;
+
+    const headResponse = await axios.head(googleFaviconUrl, {
+      headers: {
+        'User-Agent': 'Mozilla/5.0',
+      },
+      validateStatus: (status) => status < 400,
+    });
+
+    if (
+      headResponse.status === 200 &&
+      headResponse.headers['content-type'].startsWith('image/')
+    ) {
+      console.log(`Using Google favicon service for ${domain}`);
+      return googleFaviconUrl;
+    }
+  } catch (error) {
+    console.warn(`Google favicon service failed for ${website}`);
+  }
+
   return null;
 }
 
