@@ -173,8 +173,7 @@ It's free & open-source. Enjoy! 🚀
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
-| 🖥️ | [ScreenCanvas](https://www.screencanvas.app/) | Design digital signage & message boards with custom text, images, & audio right on your Apple TV! | **50% OFF** lifetime purchase | 2025-12-01 |
-
+| ⭐ | Be the first to add a deal in this category! | | | |
 
 ### Health & Fitness
 
@@ -254,7 +253,7 @@ It's free & open-source. Enjoy! 🚀
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
-| ⭐ | Be the first to add a deal in this category! | | | |
+| 🖥️ | [ScreenCanvas](https://www.screencanvas.app/) | Design digital signage & message boards with custom text, images, & audio right on your Apple TV! | **50% OFF** lifetime purchase | 2025-12-01 |
 
 
 ### AI Design Tools
