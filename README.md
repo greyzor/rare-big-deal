@@ -367,6 +367,12 @@ It's free & open-source. Enjoy! 🚀
 | 📃 | [TapRefer](https://TapRefer.com) | The biggest & latest affiliate programs directory | **80% OFF** with code **BFCM25** | 2025-12-01 |
 
 
+### Database
+
+| | Name | Description | Deal | Expires on date |
+| - | - | - | - | - |
+| 📃 | [OneManDB](https://OneManDB.com) | A database of 1000+ founders making $10k–$100k/month. Get validated ideas and Strategies | **30% OFF** with code **RAREBIGDEAL** | 2025-12-01 |
+
 
 ### Analytics
 
