@@ -138,6 +138,7 @@ It's free & open-source. Enjoy! 🚀
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 🖼️ | [ThumblifyAI](https://thumblifyai.com) | Create scroll-stopping YouTube thumbnails in your own style or face with AI. | **30% OFF** with discount code **WELCOME30** | 2025-12-01 |
+| 👀 | [ChampSignal](https://champsignal.com) | ChampSignal tracks your competitors' websites, social mentions, ads, backlinks, and keywords, and sends you email alerts only when it matters. | **25% OFF** with code **BF2025** | 2025-12-01 |
 
 
 ### Lifestyle
@@ -165,6 +166,7 @@ It's free & open-source. Enjoy! 🚀
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 📸 | [Shotomatic](https://shotomatic.com) | Easily archive eBooks, dashboards, and long-page documents through automated screenshots. | **40% OFF** with discount code **BF2025** | 2025-12-01 |
+| 🗂️ | [MeetingMenu](https://www.meetingmenu.app/) | Manage, organize, and execute perfect meetings effortlessly from your Mac menu bar. | **50% OFF** | 2025-12-01 |
 
 
 ### Design Tools
@@ -178,8 +180,7 @@ It's free & open-source. Enjoy! 🚀
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
-| ⭐ | Be the first to add a deal in this category! | | | |
-
+| 😴 | [Sleep Sounds + White Noise for Apple TV](https://www.darksleep.app/) | The #1 free sleep and relaxation app for Apple TV | **30% OFF** lifetime purchase (in app purchase) | 2025-12-01 |
 
 ### Writing & Notes
 
@@ -312,10 +313,9 @@ It's free & open-source. Enjoy! 🚀
 
 ### Social
 
-| | Name | Description | Deal | Expires on date |
-| - | - | - | - | - |
-| ⭐ | Be the first to add a deal in this category! | | | |
-
+| | Name | Description | Deal                                                             | Expires on date |
+| - | - | - |------------------------------------------------------------------|-----------------|
+|  🟪 | [PostFlow](https://postflow.app?ref=rare-big-deal) | Social media scheduler and platform to manage ALL your social media content. One click, all platforms, hours saved. | **30% OFF (LIFETIME)** with code **BF2025** | 2025-12-01      |
 
 ### Email Marketing
 
