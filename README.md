@@ -364,7 +364,8 @@ It's free & open-source. Enjoy! 🚀
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
-| ⭐ | Be the first to add a deal in this category! | | | |
+| 📃 | [TapRefer](https://TapRefer.com) | The biggest & latest affiliate programs directory | **80% OFF** with code **BFCM25** | 2025-12-01 |
+
 
 
 ### Analytics
