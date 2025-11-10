@@ -97,23 +97,27 @@ It's free & open-source. Enjoy! 🚀
 | ⚡ | [BoltAI](https://boltai.com/buy?via=rarebigdeal) | All AI models in one native app — ultra-fast, 100+ pro features. | 50% OFF with code **BFCM25** | 2025-12-01 |
 | ⚡ | [PDF Pals](https://pdfpals.com/buy?via=rarebigdeal) | Instantly chat with any PDF on your Mac. Native, fast and respect your privacy. | 50% OFF with code **BFCM25** | 2025-12-01 |
 | 🖊 | [RewriteBar](https://rewritebar.com?ref=rarebigdeal) | RewriteBar is a macOS menu bar app that allows you to rewrite text using AI. Correct grammar, translate, adjust tone, and more. | 50% OFF with code **BF2025** | 2025-12-01 |
+| ⚡ | [Compresto](https://compresto.app/pricing?ref=rarebigdeal) | Video, Image & PDF Compression for macOS. | 40% OFF with code **BFCM25** | 2025-12-01 |
+| 🪑 | [Cozy Watch](https://www.cozywatch.com) | GitHub notifications to your desktop. Track pull requests, CI updates, and mentions instantly. Stay focused on coding while knowing exactly when your attention is needed. | $4 OFF with code **BLACKFRIDAY** | 2025-12-01 |
 
 
 ### APIs, Tools & SaaS
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
-| ⌛   | [Crontap](https://crontap.com/) | Schedule recurring API calls without the hassle. | **40% off** with discount code **BF2025** | 2025-12-01 |
-| 💬   | [Despeech](https://despeech.com/) | Transcribe audio without building your own pipeline. | **50% more hours** automatically applied | 2025-12-01 |
-| 💬   | [UptimeBeats](https://uptimebeats.com/) | Uptime Monitoring and Status Pages. | **10% off** with code **BF2025** | 2025-12-01 |
-| ✉️   | [VerifyForge](https://verifyforge.com/) | Enterprise email validation API with 99%+ accuracy. Real-time validation, bulk processing, and transparent results. | **30% OFF** with code **BF2025** | 2025-12-01 |
+| ⌛ | [Crontap](https://crontap.com/) | Schedule recurring API calls without the hassle. | **40% off** with discount code **BF2025** | 2025-12-01 |
+| 💬 | [Despeech](https://despeech.com/) | Transcribe audio without building your own pipeline. | **50% more hours** automatically applied | 2025-12-01 |
+| 💬 | [UptimeBeats](https://uptimebeats.com/) | Uptime Monitoring and Status Pages. | **10% off** with code **BF2025** | 2025-12-01 |
+| ✉️ | [VerifyForge](https://verifyforge.com/) | Enterprise email validation API with 99%+ accuracy. Real-time validation, bulk processing, and transparent results. | **30% OFF** with code **BF2025** | 2025-12-01 |
+| 🐞 | [Telebugs](https://telebugs.com) | Self-hosted Sentry alternative for error tracking | **20% off** with discount code **BF2025** | 2025-12-01 |
 
 
 ### Browser Extensions
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
-| ⚡   | [SuperDev Pro](https://superdevpro.com/) | All your web tools, one extension. | **$120 off** | 2025-12-01 |
+| ⚡ | [SuperDev Pro](https://superdevpro.com/) | All your web tools, one extension. | **$120 off** | 2025-12-01 |
+| ⚡ | [aiTree](https://www.aitree.app/) | Organize your AI chats in trees with branches | **ONE TIME PAYMENT 4€** | 2025-12-01 |
 
 
 ### Productivity & AI
@@ -183,13 +187,14 @@ It's free & open-source. Enjoy! 🚀
 | 🗂️ | [MeetingMenu](https://www.meetingmenu.app/) | Manage, organize, and execute perfect meetings effortlessly from your Mac menu bar. | **50% OFF** | 2025-12-01 |
 | 🖊 | [RewriteBar](https://rewritebar.com?ref=rarebigdeal) | RewriteBar is a macOS menu bar app that allows you to rewrite text using AI. Correct grammar, translate, adjust tone, and more. | 50% OFF with code **BF2025** | 2025-12-01 |
 | 📁 | [FileMinutes](https://www.fileminutes.com) | A Better Way to Find Files on Your Mac | **50% OFF** with code **BF2025** | 2025-12-01 |
+| ✨ | [TextSniper](https://textsniper.app/) | Extract text (OCR) from images/videos/PDFs, scan QR codes, and listen with text-to-speech on your Mac | 75% OFF with code **RBD2025** | 2025-12-01 |
 
 
 ### Design Tools
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
-| ⭐ | Be the first to add a deal in this category! | | | |
+| ⓢ | [Sitely 6](https://sitely.app) | Visual + AI Website Builder | 50% OFF (automatically applied)| 2025-12-05 |
 
 
 ### Health & Fitness
@@ -532,6 +537,7 @@ It's free & open-source. Enjoy! 🚀
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 💰 | [Get Your First Client as a Freelancer](https://getyourfirstclient.freelancerpath.com/) | A complete step by step guide to get your first client as a freelancer from scratch. | **50% off** with discount code **BLACK** | 2025-12-01 |
+| 👨🏻‍💻 | [**LabEx**](https://labex.io/learn) | Learn Linux, DevOps & Cybersecurity with Hands-on Labs | [50% OFF for Two Years](https://labex.io/checkout?type=4&coupon=2025BF50) (Coupon: 2025BF50) and [30% OFF for One Year](https://labex.io/checkout?type=2&coupon=2025BF30) (Coupon: 2025BF30) | 2025-12-01 |
 
 
 ### Art Courses
@@ -599,6 +605,7 @@ It's free & open-source. Enjoy! 🚀
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 📅 | [ShiftApp](https://shiftapp.com/black-friday) | Smart, simple staff scheduling. Build rosters, manage shifts, and notify staff in seconds. | **70% OFF** for **6 MONTHS** | 2025-12-05 |
+| ⭐ | [OneManDB](https://OneManDB.com) | A database of 1000+ founders making $10k–$100k/month. Get validated ideas and Strategies | **30% OFF** with code **RAREBIGDEAL** | 2025-12-01 |
 | 💬 | [Ticketping](https://ticketping.com/) | Customer Support straight from Slack | 3 months **FREE** and **50% OFF** for next 6 months | 2025-12-31 |
 
 
