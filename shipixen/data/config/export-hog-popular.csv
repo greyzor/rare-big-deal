@@ -1,5 +1,28 @@
-series,total count
-/products/page-ai,3
-/products/crontap,2
-/products/shipixen,1
-/products/clobbr,1
+series,$pathname,Total Sum
+/products/crontap,/products/crontap,6
+/products/page-ai,/products/page-ai,6
+/products/wall-st-rank,/products/wall-st-rank,6
+/products/clobbr,/products/clobbr,5
+/products/postsyncer,/products/postsyncer,5
+/products/thumblifyai,/products/thumblifyai,5
+/products/postflow,/products/postflow,4
+/products/sortpin-com,/products/sortpin-com,3
+/products/subreddit-traffic-tracker,/products/subreddit-traffic-tracker,3
+/products/branding5,/products/branding5,2
+/products/champsignal,/products/champsignal,2
+/products/chattempmail,/products/chattempmail,2
+/products/dirstarter,/products/dirstarter,2
+/products/runjs,/products/runjs,2
+/products/typingmind,/products/typingmind,2
+/products/ai-face-swap-aisaver,/products/ai-face-swap-aisaver,1
+/products/blogtopin,/products/blogtopin,1
+/products/despeech,/products/despeech,1
+/products/fileminutes,/products/fileminutes,1
+/products/larafast,/products/larafast,1
+/products/recut,/products/recut,1
+/products/rewritebar,/products/rewritebar,1
+/products/shiftapp,/products/shiftapp,1
+/products/shipixen,/products/shipixen,1
+/products/side-projects-making-,/products/side-projects-making-,1
+/products/sleep-sounds-white-noise-for-apple-tv,/products/sleep-sounds-white-noise-for-apple-tv,1
+/products/taprefer,/products/taprefer,1
