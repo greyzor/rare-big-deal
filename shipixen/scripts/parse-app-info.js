@@ -52,7 +52,7 @@ async function main() {
   const succeeded = results.filter(r => r.status === 'fulfilled').length;
   const failed = results.filter(r => r.status === 'rejected').length;
   const totalElapsed = Date.now() - mainStartTime;
-  
+
   console.log(`\n[Parse App Info] ========================================`);
   console.log(`[Parse App Info] 📊 Summary:`);
   console.log(`[Parse App Info]   📄 Total apps: ${apps.length}`);
