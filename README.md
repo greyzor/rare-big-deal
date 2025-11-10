@@ -129,6 +129,7 @@ It's free & open-source. Enjoy! 🚀
 | 🖊 | [RewriteBar](https://rewritebar.com?ref=rarebigdeal) | RewriteBar is a macOS menu bar app that allows you to rewrite text using AI. Correct grammar, translate, adjust tone, and more. | 50% OFF with code **BF2025** | 2025-12-01 |
 | 📢 | [SocialRails](https://socialrails.com) | Create content, post everywhere. Schedule to 9 social platforms and create content with built-in AI tools. | 20% OFF forever with code:  **AI20** | 2029-01-01 |
 | 💥 | [TypeBoost](https://www.typeboost.ai) | Build your personal AI toolkit. Use anywhere you type on Mac. Write, translate, improve, explain, brainstorm... + iOS app | **60% OFF** for 6 months with code **BF2025** | 2025-12-05 |
+| 🥗 | [Calorific - Nutrition Tracker](https://apps.apple.com/app/apple-store/id6645043253) | Quickly capture your meals and get instant nutritional insights. | **30% OFF** yearly plan with code BLACKFRIDAY2025 | 2025-12-02 |
 
 
 [⬆️ All categories](#table-of-contents)
@@ -279,7 +280,7 @@ It's free & open-source. Enjoy! 🚀
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | ⭐ | Be the first to add a deal in this category! | | | |
-
+| 🥗 | [Calorific - Nutrition Tracker](https://apps.apple.com/app/apple-store/id6645043253) | Quickly capture your meals and get instant nutritional insights. | **30% OFF** yearly plan with code BLACKFRIDAY2025 | 2025-12-02 |
 
 ### Hobby & Lifestyle
 
@@ -582,7 +583,7 @@ It's free & open-source. Enjoy! 🚀
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | ⭐ | Be the first to add a deal in this category! | | | |
-
+| 🥗 | [Calorific - Nutrition Tracker](https://apps.apple.com/app/apple-store/id6645043253) | Quickly capture your meals and get instant nutritional insights. | **30% OFF** yearly plan with code BLACKFRIDAY2025 | 2025-12-02 |
 
 [⬆️ All categories](#table-of-contents)
 
