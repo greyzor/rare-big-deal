@@ -13,7 +13,7 @@ function updateFrontmatter(content, expirationDate) {
   const frontmatterMatch = content.match(/^---\n([\s\S]*?)\n---/);
 
   if (!frontmatterMatch) {
-    console.log('No frontmatter found');
+    console.warn('[Expire Products] ⚠️  No frontmatter found');
     return content;
   }
 
@@ -49,46 +49,59 @@ function updateFrontmatter(content, expirationDate) {
 
 // Main function
 function expireProducts() {
+  console.log('\n[Expire Products] 🚀 Starting product expiration script...');
+  const startTime = Date.now();
+
   const productsDir = path.join(__dirname, '../data/products');
   const tomorrowDate = getTomorrowDate();
 
-  console.log(`Setting expiration date to: ${tomorrowDate}`);
-  console.log(`Processing products in: ${productsDir}\n`);
+  console.log(`[Expire Products] 📅 Setting expiration date to: ${tomorrowDate}`);
+  console.log(`[Expire Products] 📁 Processing products in: ${productsDir}\n`);
 
   // Read all files in the products directory
-  const files = fs.readdirSync(productsDir);
-  const mdxFiles = files.filter(file => file.endsWith('.mdx'));
+  try {
+    const files = fs.readdirSync(productsDir);
+    const mdxFiles = files.filter(file => file.endsWith('.mdx'));
 
-  let successCount = 0;
-  let errorCount = 0;
+    console.log(`[Expire Products] 📋 Found ${mdxFiles.length} MDX files to process\n`);
 
-  mdxFiles.forEach(file => {
-    const filePath = path.join(productsDir, file);
+    let successCount = 0;
+    let errorCount = 0;
 
-    try {
-      // Read the file
-      const content = fs.readFileSync(filePath, 'utf8');
+    mdxFiles.forEach((file, index) => {
+      const filePath = path.join(productsDir, file);
+      console.log(`[Expire Products] 📝 Processing ${index + 1}/${mdxFiles.length}: ${file}`);
 
-      // Update the frontmatter
-      const updatedContent = updateFrontmatter(content, tomorrowDate);
+      try {
+        // Read the file
+        const content = fs.readFileSync(filePath, 'utf8');
 
-      // Write back to the file
-      fs.writeFileSync(filePath, updatedContent, 'utf8');
+        // Update the frontmatter
+        const updatedContent = updateFrontmatter(content, tomorrowDate);
 
-      console.log(`✓ Updated: ${file}`);
-      successCount++;
-    } catch (error) {
-      console.error(`✗ Error processing ${file}:`, error.message);
-      errorCount++;
-    }
-  });
+        // Write back to the file
+        fs.writeFileSync(filePath, updatedContent, 'utf8');
 
-  console.log(`\n========================================`);
-  console.log(`Summary:`);
-  console.log(`  Total files: ${mdxFiles.length}`);
-  console.log(`  Successfully updated: ${successCount}`);
-  console.log(`  Errors: ${errorCount}`);
-  console.log(`========================================`);
+        console.log(`[Expire Products]   ✅ Successfully updated: ${file}`);
+        successCount++;
+      } catch (error) {
+        console.error(`[Expire Products]   ❌ Error processing ${file}:`, error.message);
+        errorCount++;
+      }
+    });
+
+    const elapsed = Date.now() - startTime;
+    console.log(`\n[Expire Products] ========================================`);
+    console.log(`[Expire Products] 📊 Summary:`);
+    console.log(`[Expire Products]   📄 Total files: ${mdxFiles.length}`);
+    console.log(`[Expire Products]   ✅ Successfully updated: ${successCount}`);
+    console.log(`[Expire Products]   ❌ Errors: ${errorCount}`);
+    console.log(`[Expire Products]   ⏱️  Total time: ${elapsed}ms`);
+    console.log(`[Expire Products] ========================================\n`);
+  } catch (error) {
+    console.error(`[Expire Products] ❌ Fatal error reading products directory:`, error.message);
+    throw error;
+  }
 }
 
 // Run the script
