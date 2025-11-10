@@ -251,7 +251,7 @@ It's free & open-source. Enjoy! 🚀
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
-| ⭐ | Be the first to add a deal in this category! | | | |
+| 📸 | [Once](https://once.film) | Shared disposable camera app for events—capture memories together and unlock the full gallery when the event ends. | **50% OFF** when joining the early access waitlist | 2025-12-31 |
 
 
 ### Health & Fitness
