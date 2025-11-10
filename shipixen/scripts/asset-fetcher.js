@@ -133,17 +133,9 @@ async function processProductImages(app, productName, appDir, imageUrls) {
  * @param {string} faviconUrl - URL of the favicon to download
  */
 async function processProductLogo(app, productName, appDir, faviconUrl) {
-  if (
-    !faviconUrl ||
-    !(
-      faviconUrl.endsWith('.jpg') ||
-      faviconUrl.endsWith('.jpeg') ||
-      faviconUrl.endsWith('.png') ||
-      faviconUrl.endsWith('.webp') ||
-      faviconUrl.endsWith('.ico')
-    )
-  ) {
-    console.log(`[Asset Fetcher] ⚠️  Invalid or missing favicon URL for ${productName}, checking for existing logo...`);
+  // Check if faviconUrl is missing or not a valid URL
+  if (!faviconUrl) {
+    console.log(`[Asset Fetcher] ⚠️  Missing favicon URL for ${productName}, checking for existing logo...`);
     // Check if logo already exists
     const existingLogo = checkExistingLogo(appDir, productName);
     if (existingLogo) {
@@ -152,6 +144,39 @@ async function processProductLogo(app, productName, appDir, faviconUrl) {
       console.warn(`[Asset Fetcher] ❌ No logo available for ${productName}`);
     }
     return;
+  }
+
+  // Check if it's a valid URL format
+  try {
+    new URL(faviconUrl);
+  } catch (error) {
+    console.log(`[Asset Fetcher] ⚠️  Invalid URL format for ${productName}: ${faviconUrl}`);
+    const existingLogo = checkExistingLogo(appDir, productName);
+    if (existingLogo) {
+      app.logo = existingLogo;
+    } else {
+      console.warn(`[Asset Fetcher] ❌ No logo available for ${productName}`);
+    }
+    return;
+  }
+
+  // Check for common image extensions or allow URLs from known image services
+  const hasImageExtension =
+    faviconUrl.endsWith('.jpg') ||
+    faviconUrl.endsWith('.jpeg') ||
+    faviconUrl.endsWith('.png') ||
+    faviconUrl.endsWith('.webp') ||
+    faviconUrl.endsWith('.ico');
+
+  const isKnownImageService =
+    faviconUrl.includes('google.com/s2/favicons') ||
+    faviconUrl.includes('githubusercontent.com') ||
+    faviconUrl.includes('cloudfront.net') ||
+    faviconUrl.includes('cdn.');
+
+  if (!hasImageExtension && !isKnownImageService) {
+    console.log(`[Asset Fetcher] ⚠️  URL doesn't appear to be an image for ${productName}: ${faviconUrl}`);
+    console.log(`[Asset Fetcher] 🔄 Will attempt download anyway and validate content...`);
   }
 
   console.log(`[Asset Fetcher] 🖼️  Processing logo for ${productName} from: ${faviconUrl}`);
