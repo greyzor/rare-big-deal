@@ -605,6 +605,7 @@ It's free & open-source. Enjoy! 🚀
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 📅 | [ShiftApp](https://shiftapp.com/black-friday) | Smart, simple staff scheduling. Build rosters, manage shifts, and notify staff in seconds. | **70% OFF** for **6 MONTHS** | 2025-12-05 |
+| ⭐ | [OneManDB](https://OneManDB.com) | A database of 1000+ founders making $10k–$100k/month. Get validated ideas and Strategies | **30% OFF** with code **RAREBIGDEAL** | 2025-12-01 |
 
 
 [⬆️ All categories](#table-of-contents)
