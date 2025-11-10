@@ -362,6 +362,7 @@ It's free & open-source. Enjoy! 🚀
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 🔄 | [PostSyncer](https://postsyncer.com) | Sync and schedule your social media posts across multiple platforms. Features AI-powered content creation with Veo 3, Sora 2, Nano Banana, and other image and video models. | **20% OFF** for a year with discount code **RAREBIGDEAL** | 2025-12-31 |
+| ⭐ | [Verbatik AI](https://verbatik.com) | Unlimited text-to-speech and voice cloning across 150+ languages. Generate voiceovers, custom voices, music, videos, sound effects,auto captions and AI conversations — instantly and without limits.| **50% OFF** for a year with discount code **BFCM2025** | 2025-12-31 |
 
 
 ### Affiliate Marketing
