@@ -185,7 +185,7 @@ It's free & open-source. Enjoy! 🚀
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
-| ⭐ | Be the first to add a deal in this category! | | | |
+| 😀 | [Iconbuddy](https://iconbuddy.com) | 300k+ Open Source Icons: Search Fast. Edit Freely. Download Instantly. | $60 OFF | 2025-12-01 |
 
 ### Health & Fitness
 
@@ -354,7 +354,7 @@ It's free & open-source. Enjoy! 🚀
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
-| ⭐ | Be the first to add a deal in this category! | | | |
+| ✉️ | [Maillayer](https://maillayer.com/) | Mailchimp alternative, self-hosted and truly yours. | **$150 off** | 2025-12-01 |
 
 
 ### Content Creation
