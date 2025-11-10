@@ -541,7 +541,6 @@ It's free & open-source. Enjoy! 🚀
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 💰 | [Tracking Personal Finances using Python](https://personalfinancespython.com) | Learn double-entry bookkeeping with Python. Build a plaintext accounting system using Beancount in this comprehensive book for software developers. | **20% off** with discount code **BFCM2025** | 2025-12-31 |
-| ⭐ | Be the first to add a deal in this category! | | | |
 
 
 [⬆️ All categories](#table-of-contents)
