@@ -107,7 +107,7 @@ It's free & open-source. Enjoy! 🚀
 | 💬   | [Despeech](https://despeech.com/) | Transcribe audio without building your own pipeline. | **50% more hours** automatically applied | 2025-12-01 |
 | 💬   | [UptimeBeats](https://uptimebeats.com/) | Uptime Monitoring and Status Pages. | **10% off** with code **BF2025** | 2025-12-01 |
 | ✉️   | [VerifyForge](https://verifyforge.com/) | Enterprise email validation API with 99%+ accuracy. Real-time validation, bulk processing, and transparent results. | **30% OFF** with code **BF2025** | 2025-12-01 |
-
+| #️⃣   | [Supadata](https://supadata.ai/) | Web, Video & Social Data API for Makers | **10% OFF** with code **BF2025** for the first year. | 2025-12-01 |
 
 ### Browser Extensions
 
