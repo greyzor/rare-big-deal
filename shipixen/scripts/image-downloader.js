@@ -31,12 +31,13 @@ async function downloadImageCore(url, outputPath) {
       'User-Agent': 'Mozilla/5.0',
     },
     validateStatus: (status) => status < 400,
+    timeout: 30000, // 30 second timeout
   });
 
-  console.log(`HTTP status code for ${url}: ${response.status}`);
+  console.log(`[Image Downloader] 📡 HTTP ${response.status} for: ${url}`);
 
   const contentType = response.headers['content-type'];
-  console.log(`Content-Type for ${url}: ${contentType}`);
+  console.log(`[Image Downloader] 📋 Content-Type: ${contentType}`);
 
   if (contentType && contentType.startsWith('image/')) {
     let imageBuffer = response.data;
@@ -51,14 +52,15 @@ async function downloadImageCore(url, outputPath) {
         /\.(jpg|jpeg|webp|png)$/,
         '.png',
       );
+      console.log(`[Image Downloader] 🔄 Converting ${contentType} to PNG...`);
       await sharp(imageBuffer).png().toFile(pngOutputPath);
       console.log(
-        `Converted ${contentType} to PNG and saved to ${pngOutputPath}`,
+        `[Image Downloader] ✅ Converted and saved to: ${pngOutputPath}`,
       );
       return true;
     } else {
       fs.writeFileSync(outputPath, imageBuffer);
-      console.log(`Downloaded image from ${url} to ${outputPath}`);
+      console.log(`[Image Downloader] ✅ Downloaded to: ${outputPath}`);
       return true;
     }
   } else {
@@ -78,11 +80,16 @@ async function downloadImageCore(url, outputPath) {
  * @returns {Promise<boolean>} - Returns true if successful, false otherwise
  */
 async function downloadImage(url, outputPath) {
+  console.log(`[Image Downloader] 📥 Starting download from: ${url}`);
   let lastError;
 
   for (let attempt = 0; attempt <= MAX_RETRIES; attempt++) {
     try {
-      return await downloadImageCore(url, outputPath);
+      const result = await downloadImageCore(url, outputPath);
+      if (attempt > 0) {
+        console.log(`[Image Downloader] ✅ Succeeded on attempt ${attempt + 1}/${MAX_RETRIES + 1}`);
+      }
+      return result;
     } catch (error) {
       lastError = error;
 
@@ -91,7 +98,7 @@ async function downloadImage(url, outputPath) {
           RETRY_BACKOFF_MS[attempt] ||
           RETRY_BACKOFF_MS[RETRY_BACKOFF_MS.length - 1];
         console.warn(
-          `⚠️  Attempt ${attempt + 1} failed for ${url}. Retrying in ${backoffDelay / 1000}s... (${error.message})`,
+          `[Image Downloader] ⚠️  Attempt ${attempt + 1}/${MAX_RETRIES + 1} failed. Retrying in ${backoffDelay / 1000}s... (${error.message})`,
         );
         await delay(backoffDelay);
       }
@@ -99,7 +106,7 @@ async function downloadImage(url, outputPath) {
   }
 
   console.error(
-    `❌ Failed to download image from ${url} after ${MAX_RETRIES + 1} attempts:`,
+    `[Image Downloader] ❌ Failed to download after ${MAX_RETRIES + 1} attempts from ${url}:`,
     lastError.message,
   );
   return false;
@@ -114,22 +121,30 @@ async function downloadImage(url, outputPath) {
  * @returns {Promise<string[]>} - Array of successfully downloaded image paths
  */
 async function downloadMultipleImages(imageUrls, appDir, productName) {
+  console.log(`[Image Downloader] 📦 Downloading ${imageUrls.length} images for ${productName}...`);
   const downloadedImages = [];
+  const startTime = Date.now();
 
   for (let i = 0; i < imageUrls.length; i++) {
     const imageUrl = imageUrls[i];
     const imageName = i === 0 ? 'og-image.png' : `og-image-${i + 1}.png`;
     const imagePath = require('path').join(appDir, imageName);
 
-    console.log(`Downloading image ${i + 1}/${imageUrls.length}: ${imageUrl}`);
+    console.log(`[Image Downloader] 📥 Image ${i + 1}/${imageUrls.length}: ${imageUrl}`);
 
     const isValidImage = await downloadImage(imageUrl, imagePath);
     if (isValidImage) {
       downloadedImages.push(
         `/static/images/product/${productName}/${imageName}`,
       );
+      console.log(`[Image Downloader] ✅ Successfully downloaded image ${i + 1}/${imageUrls.length}`);
+    } else {
+      console.error(`[Image Downloader] ❌ Failed to download image ${i + 1}/${imageUrls.length}`);
     }
   }
+
+  const elapsed = Date.now() - startTime;
+  console.log(`[Image Downloader] ✅ Downloaded ${downloadedImages.length}/${imageUrls.length} images in ${elapsed}ms`);
 
   return downloadedImages;
 }

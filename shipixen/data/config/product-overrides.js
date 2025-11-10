@@ -1291,6 +1291,10 @@ module.exports = {
     },
     taprefer: {
       tags: ['Affiliate Marketing', 'Marketing', 'Promotion'],
+      metaTitle: 'Find Affiliate Programs to Earn',
+      metaDescription: 'The biggest & latest affiliate programs directory, where content creators can easily find affiliate programs for their niche in minutes.',
+      logo: '/public/static/images/overrides/taprefer/logo.png',
+      ogImage: '/public/static/images/overrides/taprefer/ogImage.webp',
     },
     textsniper: {
       tags: ['macOS', 'OCR', 'Productivity', 'Text', 'Tools'],

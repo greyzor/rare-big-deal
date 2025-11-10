@@ -10,6 +10,9 @@ const { getLeaderboardPosition } = require('./leaderboard-utils');
 const { getProductDates } = require('./product-dates-utils');
 
 async function generateMDXContent(app) {
+  console.log(`[Generate MDX Content] 📝 Generating MDX for: ${app.name}`);
+  const startTime = Date.now();
+
   const tags = applyCategoryOverrides(
     app.categories,
     app.subcategories,
@@ -195,6 +198,9 @@ ${formattedContentMetaDescription}
     `${sanitizeName(app.name)}.mdx`,
   );
   fs.writeFileSync(markdownOutputPath, mdxContent);
+
+  const elapsed = Date.now() - startTime;
+  console.log(`[Generate MDX Content] ✅ MDX file created: ${sanitizeName(app.name)}.mdx (${elapsed}ms)`);
 }
 
 module.exports = { generateMDXContent };

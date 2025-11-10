@@ -254,7 +254,7 @@ export default function PostLayout({
 
                   <figure
                     className={clsx(
-                      'w-10 h-10 md:w-12 md:h-12 lg:w-16 lg:h-16 flex-shrink-0 rounded-xl overflow-hidden bg-white/50 dark:bg-black/50',
+                      'w-10 h-10 md:w-12 md:h-12 lg:w-16 lg:h-16 flex-shrink-0 rounded-[20px] overflow-hidden bg-white/50 dark:bg-black/50',
                     )}
                   >
                     {logo ? (
@@ -281,7 +281,7 @@ export default function PostLayout({
                 </div>
 
                 {hasMultipleImages ? (
-                  <div className="w-full relative -mt-5 md:-mt-8 max-h-[380px] sm:max-h-[450px] select-none">
+                  <div className="w-full relative mb-2 -mt-5 md:-mt-8 max-h-[380px] sm:max-h-[450px] select-none">
                     <Carousel
                       opts={{
                         align: 'start',
@@ -303,7 +303,7 @@ export default function PostLayout({
                                 alt={`${title} - Image ${index + 1}`}
                                 width={1240}
                                 height={640}
-                                className="bg-white rounded-lg h-[380px] sm:h-[450px] w-auto"
+                                className="bg-white rounded-md h-[380px] sm:h-[450px] w-auto"
                               />
                               {/* <div className="absolute bottom-4 right-4 bg-black/50 text-white text-xs px-2 py-1 rounded-md backdrop-blur-sm">
                                 {index + 1} / {images.length}

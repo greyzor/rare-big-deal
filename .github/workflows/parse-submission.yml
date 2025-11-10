@@ -5,6 +5,10 @@ on:
     branches:
       - main
 
+concurrency:
+  group: parse-submission
+  cancel-in-progress: false
+
 jobs:
   check-commit-message:
     runs-on: ubuntu-latest
