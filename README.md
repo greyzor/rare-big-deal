@@ -251,6 +251,7 @@ It's free & open-source. Enjoy! 🚀
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | ⭐ | Be the first to add a deal in this category! | | | |
+| ⭐ | [Hajr – Porn Blocker + Focus](https://thehajr.com) | Quit Porn Forever with HAJR. | **50% off yearly plan via [App Store offer code-link only]**(https://apps.apple.com/redeem?ctx=offercodes&id=6753204636&code=BF2025) (includes 1-week free trial) | Nov 30 2025 |
 
 
 ### Photos & Videos
