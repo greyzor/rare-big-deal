@@ -97,6 +97,7 @@ It's free & open-source. Enjoy! 🚀
 | ⚡ | [BoltAI](https://boltai.com/buy?via=rarebigdeal) | All AI models in one native app — ultra-fast, 100+ pro features. | 50% OFF with code **BFCM25** | 2025-12-01 |
 | ⚡ | [PDF Pals](https://pdfpals.com/buy?via=rarebigdeal) | Instantly chat with any PDF on your Mac. Native, fast and respect your privacy. | 50% OFF with code **BFCM25** | 2025-12-01 |
 | 🖊 | [RewriteBar](https://rewritebar.com?ref=rarebigdeal) | RewriteBar is a macOS menu bar app that allows you to rewrite text using AI. Correct grammar, translate, adjust tone, and more. | 50% OFF with code **BF2025** | 2025-12-01 |
+| ⚡ | [Compresto](https://compresto.app/pricing?via=rarebigdeal) | Video, Image & PDF Compression for macOS. | 40% OFF with code **BFCM25** | 2025-12-01 |
 
 
 ### APIs, Tools & SaaS
