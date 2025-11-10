@@ -123,6 +123,7 @@ It's free & open-source. Enjoy! 🚀
 | 🔄 | [PostSyncer](https://postsyncer.com) | Sync and schedule your social media posts across multiple platforms. Features AI-powered content creation with Veo 3, Sora 2, Nano Banana, and other image and video models. | **20% OFF** for a year with discount code **RAREBIGDEAL** | 2025-12-31 |
 | 🖊 | [RewriteBar](https://rewritebar.com?ref=rarebigdeal) | RewriteBar is a macOS menu bar app that allows you to rewrite text using AI. Correct grammar, translate, adjust tone, and more. | 50% OFF with code **BF2025** | 2025-12-01 |
 | 📢 | [SocialRails](https://socialrails.com) | Create content, post everywhere. Schedule to 9 social platforms and create content with built-in AI tools. | 20% OFF forever with code:  **AI20** | 2029-01-01 |
+| 💥 | [TypeBoost](https://www.typeboost.ai) | Build your personal AI toolkit. Use anywhere you type on Mac. Write, translate, improve, explain, brainstorm... + iOS app | **60% OFF** for 6 months with code **BF2025** | 2025-12-05 |
 
 
 [⬆️ All categories](#table-of-contents)
@@ -145,6 +146,7 @@ It's free & open-source. Enjoy! 🚀
 | 📮 | [ChatTempMail](https://chat-tempmail.com) |AI-Powered Temporary Email Service |**30% OFF** with discount code **M61MGFL89W** |2025-11-28 |
 | 🤖 | [TypingMind](https://typingmind.com/) | Personal AI workspace. Frontend for ChatGPT, Claude, Gemini to use with your API key. Support Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | 60% OFF with code **BLACKFRIDAY2025** | 2025-12-01 |
 | 🖊 | [RewriteBar](https://rewritebar.com?ref=rarebigdeal) | RewriteBar is a macOS menu bar app that allows you to rewrite text using AI. Correct grammar, translate, adjust tone, and more. | 50% OFF with code **BF2025** | 2025-12-01 |
+| 💥 | [TypeBoost](https://www.typeboost.ai) | Build your personal AI toolkit. Use anywhere you type on Mac. Write, translate, improve, explain, brainstorm... + iOS app | **60% OFF** for 6 months with code **BF2025** | 2025-12-05 |
 
 
 ### Other
@@ -183,7 +185,7 @@ It's free & open-source. Enjoy! 🚀
 | 🗂️ | [MeetingMenu](https://www.meetingmenu.app/) | Manage, organize, and execute perfect meetings effortlessly from your Mac menu bar. | **50% OFF** | 2025-12-01 |
 | 🖊 | [RewriteBar](https://rewritebar.com?ref=rarebigdeal) | RewriteBar is a macOS menu bar app that allows you to rewrite text using AI. Correct grammar, translate, adjust tone, and more. | 50% OFF with code **BF2025** | 2025-12-01 |
 | 📁 | [FileMinutes](https://www.fileminutes.com) | A Better Way to Find Files on Your Mac | **50% OFF** with code **BF2025** | 2025-12-01 |
-| 📁 | [TypeBoost](https://www.typeboost.ai) | Build your personal AI toolkit. Use anywhere you type on Mac. Write, translate, improve, explain, brainstorm... | **60% OFF** for 6 months with code **BF2025** | 2025-12-05 |
+| 💥 | [TypeBoost](https://www.typeboost.ai) | Build your personal AI toolkit. Use anywhere you type on Mac. Write, translate, improve, explain, brainstorm... + iOS app | **60% OFF** for 6 months with code **BF2025** | 2025-12-05 |
 
 
 ### Design Tools
@@ -244,14 +246,14 @@ It's free & open-source. Enjoy! 🚀
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
-| ⭐ | Be the first to add a deal in this category! | | | |
+| 💥 | [TypeBoost](https://www.typeboost.ai) | Build your personal AI toolkit. Use anywhere you type on Mac. Write, translate, improve, explain, brainstorm... + iOS app | **60% OFF** for 6 months with code **BF2025** | 2025-12-05 |
 
 
 ### Productivity
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
-| ⭐ | Be the first to add a deal in this category! | | | |
+| 💥 | [TypeBoost](https://www.typeboost.ai) | Build your personal AI toolkit. Use anywhere you type on Mac. Write, translate, improve, explain, brainstorm... + iOS app | **60% OFF** for 6 months with code **BF2025** | 2025-12-05 |
 
 
 ### Photos & Videos
@@ -326,7 +328,7 @@ It's free & open-source. Enjoy! 🚀
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
-| ⭐ | Be the first to add a deal in this category! | | | |
+| 💥 | [TypeBoost](https://www.typeboost.ai) | Build your personal AI toolkit. Use anywhere you type on Mac. Write, translate, improve, explain, brainstorm... + iOS app | **60% OFF** for 6 months with code **BF2025** | 2025-12-05 |
 
 
 ### Marketing
