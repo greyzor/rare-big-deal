@@ -165,14 +165,46 @@ export default async function Home() {
       <LandingTestimonialReadMoreWrapper size="md">
         <LandingTestimonialGrid
           title="Hear It from Our Users"
-          description="Discover what our happy customers have to say about their experience with our AI app:"
+          description="Discover what our happy customers have to say about their experience with Rare Big Deal:"
           testimonialItems={[
+             {
+              name: 'Matthias Neumayer',
+              text: 'Love this!',
+              handle: '@matthiasneumayer',
+              imageSrc: '/static/images/people/32.jpg',
+              url: 'https://www.linkedin.com/feed/update/urn:li:activity:7393563664001421312?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7393563664001421312%2C7393564140943925249%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287393564140943925249%2Curn%3Ali%3Aactivity%3A7393563664001421312%29',
+             },
+
+             {
+              name: 'Nikki S',
+              text: 'Very cool – great idea! 💡',
+              handle: '@nikkis',
+              imageSrc: '/static/images/people/31.jpg',
+              url: 'https://www.linkedin.com/feed/update/urn:li:activity:7393563664001421312?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7393563664001421312%2C7393569656852336640%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287393569656852336640%2Curn%3Ali%3Aactivity%3A7393563664001421312%29',
+            },
+
+            {
+              name: 'Wooyeong Kim',
+              text: 'Very cool! Immediately submitted :)',
+              handle: '@wooing0306',
+              imageSrc: '/static/images/people/30.jpg',
+              url: 'https://x.com/wooing0306/status/1986758537893347580',
+            },
+
             {
               name: 'Csaba Kissi',
               text: 'Nice work!',
               handle: '@csaba.bsky.social',
               imageSrc: '/static/images/people/22.jpg',
               url: 'https://bsky.app/profile/csaba.bsky.social/post/3lbfwvsk4us2c',
+            },
+
+            {
+              name: 'Isaac',
+              text: '[...] the site is awesome [...]',
+              handle: '@IMadeAGlitch',
+              imageSrc: '/static/images/people/21.jpg',
+              url: 'https://x.com/IMadeAGlitch/status/1858975664025817236',
             },
 
             {
@@ -205,13 +237,7 @@ export default async function Home() {
               imageSrc: '/static/images/people/20.png',
               url: 'https://www.reddit.com/r/SaaS/comments/1gucxgx/comment/lxw0vk5/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button',
             },
-            {
-              name: 'Isaac',
-              text: '[...] the site is awesome [...]',
-              handle: '@IMadeAGlitch',
-              imageSrc: '/static/images/people/21.jpg',
-              url: 'https://x.com/IMadeAGlitch/status/1858975664025817236',
-            },
+
             {
               name: 'CranQ',
               text: 'A person of the people!',
