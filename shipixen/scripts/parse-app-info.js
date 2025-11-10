@@ -47,12 +47,17 @@ async function main() {
     }
   });
 
-  await Promise.allSettled(fetchPromises);
+  const results = await Promise.allSettled(fetchPromises);
 
+  const succeeded = results.filter(r => r.status === 'fulfilled').length;
+  const failed = results.filter(r => r.status === 'rejected').length;
   const totalElapsed = Date.now() - mainStartTime;
+  
   console.log(`\n[Parse App Info] ========================================`);
   console.log(`[Parse App Info] 📊 Summary:`);
-  console.log(`[Parse App Info]   ✅ Total apps processed: ${apps.length}`);
+  console.log(`[Parse App Info]   📄 Total apps: ${apps.length}`);
+  console.log(`[Parse App Info]   ✅ Succeeded: ${succeeded}`);
+  console.log(`[Parse App Info]   ❌ Failed: ${failed}`);
   console.log(`[Parse App Info]   ⏱️  Total time: ${(totalElapsed / 1000).toFixed(2)}s`);
   console.log(`[Parse App Info] ========================================\n`);
 }
