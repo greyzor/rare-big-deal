@@ -484,15 +484,17 @@ It's free & open-source. Enjoy! 🚀
 
 ### Laravel
 
-| | Name                             | Description                                              | Deal                                      | Expires on date |
-| - |----------------------------------|----------------------------------------------------------|-------------------------------------------|------------|
+| | Name | Description | Deal | Expires on date |
+| - | - | - | - | - |
 | ⭐ | [Larafast](https://larafast.com) | Laravel SaaS Starter Kit (now with Multi-Tenant Support) | 50% OFF on All Starter Kits **BLACKFRIDAY25** | 2025-12-05 |
+
 
 ### Django
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 🚢 | [Django daisyUI Starter Kit](https://polar.sh/niftydigits/products/02cf986e-80ae-470b-b491-e48321fa0340) | Latest release of django preconfigured with daisyUI templates ready for you to customise and launch your next big idea! | **30% OFF** on all licenses with code **BF2025** | 2025-12-05 |
+
 
 ### Chrome Extensions
 
