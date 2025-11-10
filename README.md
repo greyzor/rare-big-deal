@@ -189,7 +189,7 @@ It's free & open-source. Enjoy! 🚀
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
-| ⭐ | Be the first to add a deal in this category! | | | |
+| ⓢ | [Sitely 6](https://sitely.app) | Visual + AI Website Builder | 50% OFF (automatically applied)| 2025-12-05 |
 
 
 ### Health & Fitness
