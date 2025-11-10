@@ -183,6 +183,7 @@ It's free & open-source. Enjoy! 🚀
 | 🗂️ | [MeetingMenu](https://www.meetingmenu.app/) | Manage, organize, and execute perfect meetings effortlessly from your Mac menu bar. | **50% OFF** | 2025-12-01 |
 | 🖊 | [RewriteBar](https://rewritebar.com?ref=rarebigdeal) | RewriteBar is a macOS menu bar app that allows you to rewrite text using AI. Correct grammar, translate, adjust tone, and more. | 50% OFF with code **BF2025** | 2025-12-01 |
 | 📁 | [FileMinutes](https://www.fileminutes.com) | A Better Way to Find Files on Your Mac | **50% OFF** with code **BF2025** | 2025-12-01 |
+| ✨ | [TextSniper](https://textsniper.app/) | Extract text (OCR) from images/videos/PDFs, scan QR codes, and listen with text-to-speech on your Mac | 75% OFF with code **RBD2025** | 2025-12-01 |
 
 
 ### Design Tools
