@@ -4,7 +4,7 @@
  */
 
 async function extractAppStoreIcon($, website) {
-  console.log('Detected Apple App Store URL, extracting app icon...');
+  console.log('[App Store] 📱 Extracting app icon from Apple App Store page...');
 
   // Look for app icon in various possible selectors (square orientation)
   const appIconSelectors = [
@@ -17,11 +17,13 @@ async function extractAppStoreIcon($, website) {
     'div[class*="app-icon"] picture source[type="image/webp"]',
   ];
 
+  console.log(`[App Store] 🔍 Trying ${appIconSelectors.length} possible selectors...`);
+
   for (const selector of appIconSelectors) {
     const srcset = $(selector).attr('srcset');
     if (srcset) {
-      console.log(`Found app icon with selector: ${selector}`);
-      console.log(`srcset: ${srcset}`);
+      console.log(`[App Store] ✅ Found app icon with selector: ${selector}`);
+      console.log(`[App Store] 📋 srcset: ${srcset}`);
 
       // Parse srcset to get the highest resolution image
       const srcsetEntries = srcset.split(',').map((entry) => entry.trim());
@@ -51,12 +53,13 @@ async function extractAppStoreIcon($, website) {
         const iconUrl = imageUrl.startsWith('http')
           ? imageUrl
           : new URL(imageUrl, website).href;
-        console.log(`Extracted app icon URL (${maxWidth}w): ${iconUrl}`);
+        console.log(`[App Store] ✅ Extracted app icon URL (${maxWidth}w): ${iconUrl}`);
         return iconUrl;
       }
     }
   }
 
+  console.warn(`[App Store] ⚠️  No app icon found with any selector`);
   return null;
 }
 
@@ -98,7 +101,7 @@ function extractMaxResolutionFromSrcset(srcset, website) {
 }
 
 async function extractAppStoreOgImage($, website) {
-  console.log('Detected Apple App Store URL, extracting OG image...');
+  console.log('[App Store] 🖼️  Extracting OG image from Apple App Store page...');
 
   // Look for preview images (screenshots/OG images) in various ways
   const ogImageSelectors = [
@@ -107,22 +110,25 @@ async function extractAppStoreOgImage($, website) {
     '[id*="product_media_"] [data-testid="artwork-component"] picture source[type="image/webp"]',
   ];
 
+  console.log(`[App Store] 🔍 Trying ${ogImageSelectors.length} possible selectors...`);
+
   for (const selector of ogImageSelectors) {
     const element = $(selector).first();
     const srcset = element.attr('srcset');
 
     if (srcset) {
-      console.log(`Found OG image with selector: ${selector}`);
-      console.log(`srcset: ${srcset}`);
+      console.log(`[App Store] ✅ Found OG image with selector: ${selector}`);
+      console.log(`[App Store] 📋 srcset: ${srcset}`);
 
       const result = extractMaxResolutionFromSrcset(srcset, website);
       if (result) {
-        console.log(`Extracted OG image URL (${result.width}w): ${result.url}`);
+        console.log(`[App Store] ✅ Extracted OG image URL (${result.width}w): ${result.url}`);
         return result.url;
       }
     }
   }
 
+  console.warn(`[App Store] ⚠️  No OG image found with any selector`);
   return null;
 }
 
@@ -131,7 +137,7 @@ async function extractAppStoreOgImage($, website) {
  * @returns {Array<string>} Array of image URLs
  */
 async function extractAppStoreImages($, website) {
-  console.log('Detected Apple App Store URL, extracting all preview images...');
+  console.log('[App Store] 📸 Extracting all preview images from Apple App Store page...');
 
   const images = [];
   const seenUrls = new Set(); // Avoid duplicates
@@ -143,11 +149,13 @@ async function extractAppStoreImages($, website) {
     '[id*="product_media_"] [data-testid="artwork-component"] picture source[type="image/webp"]',
   ];
 
+  console.log(`[App Store] 🔍 Trying ${imageSelectors.length} possible selectors...`);
+
   for (const selector of imageSelectors) {
     const elements = $(selector);
 
     console.log(
-      `Found ${elements.length} potential preview images with selector: ${selector}`,
+      `[App Store] 📋 Found ${elements.length} potential preview images with selector: ${selector}`,
     );
 
     elements.each((index, element) => {
@@ -159,7 +167,7 @@ async function extractAppStoreImages($, website) {
           seenUrls.add(result.url);
           images.push(result.url);
           console.log(
-            `Extracted preview image ${images.length} (${result.width}w): ${result.url}`,
+            `[App Store]   ✅ Extracted preview image ${images.length} (${result.width}w): ${result.url}`,
           );
         }
       }
@@ -167,11 +175,17 @@ async function extractAppStoreImages($, website) {
 
     // If we found images with this selector, stop trying other selectors
     if (images.length > 0) {
+      console.log(`[App Store] ✅ Found images, stopping selector search`);
       break;
     }
   }
 
-  console.log(`Total preview images extracted: ${images.length}`);
+  if (images.length > 0) {
+    console.log(`[App Store] ✅ Total preview images extracted: ${images.length}`);
+  } else {
+    console.warn(`[App Store] ⚠️  No preview images found`);
+  }
+
   return images;
 }
 

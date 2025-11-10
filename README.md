@@ -96,6 +96,7 @@ It's free & open-source. Enjoy! 🚀
 | 📸 | [Shotomatic](https://shotomatic.com) | Easily archive eBooks, dashboards, and long-page documents through automated screenshots. | **40% OFF** with discount code **BF2025** | 2025-12-01 |
 | ⚡ | [BoltAI](https://boltai.com/buy?via=rarebigdeal) | All AI models in one native app — ultra-fast, 100+ pro features. | 50% OFF with code **BFCM25** | 2025-12-01 |
 | ⚡ | [PDF Pals](https://pdfpals.com/buy?via=rarebigdeal) | Instantly chat with any PDF on your Mac. Native, fast and respect your privacy. | 50% OFF with code **BFCM25** | 2025-12-01 |
+| 🖊 | [RewriteBar](https://rewritebar.com?ref=rarebigdeal) | RewriteBar is a macOS menu bar app that allows you to rewrite text using AI. Correct grammar, translate, adjust tone, and more. | 50% OFF with code **BF2025** | 2025-12-01 |
 
 
 ### APIs, Tools & SaaS
@@ -105,12 +106,14 @@ It's free & open-source. Enjoy! 🚀
 | ⌛   | [Crontap](https://crontap.com/) | Schedule recurring API calls without the hassle. | **40% off** with discount code **BF2025** | 2025-12-01 |
 | 💬   | [Despeech](https://despeech.com/) | Transcribe audio without building your own pipeline. | **50% more hours** automatically applied | 2025-12-01 |
 | 💬   | [UptimeBeats](https://uptimebeats.com/) | Uptime Monitoring and Status Pages. | **10% off** with code **BF2025** | 2025-12-01 |
+| ✉️   | [VerifyForge](https://verifyforge.com/) | Enterprise email validation API with 99%+ accuracy. Real-time validation, bulk processing, and transparent results. | **30% OFF** with code **BF2025** | 2025-12-01 |
+
 
 ### Browser Extensions
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
-| ⭐ | Be the first to add a deal in this category! | | | |
+| ⚡   | [SuperDev Pro](https://superdevpro.com/) | All your web tools, one extension. | **$120 off** | 2025-12-01 |
 
 
 ### Productivity & AI
@@ -118,6 +121,8 @@ It's free & open-source. Enjoy! 🚀
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 🔄 | [PostSyncer](https://postsyncer.com) | Sync and schedule your social media posts across multiple platforms. Features AI-powered content creation with Veo 3, Sora 2, Nano Banana, and other image and video models. | **20% OFF** for a year with discount code **RAREBIGDEAL** | 2025-12-31 |
+| 🖊 | [RewriteBar](https://rewritebar.com?ref=rarebigdeal) | RewriteBar is a macOS menu bar app that allows you to rewrite text using AI. Correct grammar, translate, adjust tone, and more. | 50% OFF with code **BF2025** | 2025-12-01 |
+| 📢 | [SocialRails](https://socialrails.com) | Create content, post everywhere. Schedule to 9 social platforms and create content with built-in AI tools. | 20% OFF forever with code:  **AI20** | 2029-01-01 |
 
 
 [⬆️ All categories](#table-of-contents)
@@ -139,6 +144,7 @@ It's free & open-source. Enjoy! 🚀
 | - | - | - | - | - |
 | 📮 | [ChatTempMail](https://chat-tempmail.com) |AI-Powered Temporary Email Service |**30% OFF** with discount code **M61MGFL89W** |2025-11-28 |
 | 🤖 | [TypingMind](https://typingmind.com/) | Personal AI workspace. Frontend for ChatGPT, Claude, Gemini to use with your API key. Support Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | 60% OFF with code **BLACKFRIDAY2025** | 2025-12-01 |
+| 🖊 | [RewriteBar](https://rewritebar.com?ref=rarebigdeal) | RewriteBar is a macOS menu bar app that allows you to rewrite text using AI. Correct grammar, translate, adjust tone, and more. | 50% OFF with code **BF2025** | 2025-12-01 |
 
 
 ### Other
@@ -175,6 +181,8 @@ It's free & open-source. Enjoy! 🚀
 | - | - | - | - | - |
 | 📸 | [Shotomatic](https://shotomatic.com) | Easily archive eBooks, dashboards, and long-page documents through automated screenshots. | **40% OFF** with discount code **BF2025** | 2025-12-01 |
 | 🗂️ | [MeetingMenu](https://www.meetingmenu.app/) | Manage, organize, and execute perfect meetings effortlessly from your Mac menu bar. | **50% OFF** | 2025-12-01 |
+| 🖊 | [RewriteBar](https://rewritebar.com?ref=rarebigdeal) | RewriteBar is a macOS menu bar app that allows you to rewrite text using AI. Correct grammar, translate, adjust tone, and more. | 50% OFF with code **BF2025** | 2025-12-01 |
+| 📁 | [FileMinutes](https://www.fileminutes.com) | A Better Way to Find Files on Your Mac | **50% OFF** with code **BF2025** | 2025-12-01 |
 
 
 ### Design Tools
@@ -182,6 +190,7 @@ It's free & open-source. Enjoy! 🚀
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | ⭐ | Be the first to add a deal in this category! | | | |
+
 
 ### Health & Fitness
 
@@ -194,14 +203,14 @@ It's free & open-source. Enjoy! 🚀
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
-| ⭐ | Be the first to add a deal in this category! | | | |
+| 🖊 | [RewriteBar](https://rewritebar.com?ref=rarebigdeal) | RewriteBar is a macOS menu bar app that allows you to rewrite text using AI. Correct grammar, translate, adjust tone, and more. | 50% OFF with code **BF2025** | 2025-12-01 |
 
 
 ### Menu Bar & More
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
-| ⭐ | Be the first to add a deal in this category! | | | |
+| 🖊 | [RewriteBar](https://rewritebar.com?ref=rarebigdeal) | RewriteBar is a macOS menu bar app that allows you to rewrite text using AI. Correct grammar, translate, adjust tone, and more. | 50% OFF with code **BF2025** | 2025-12-01 |
 
 
 [⬆️ All categories](#table-of-contents)
@@ -216,6 +225,7 @@ It's free & open-source. Enjoy! 🚀
 | - | - | - | - | - |
 | 😴 | [Sleep Sounds + White Noise for Apple TV](https://www.darksleep.app/) | The #1 free sleep and relaxation app for Apple TV. Dolby Atmos soundscapes, calming videos, meditations, sunrise alarms, and more — all in one app. | **30% OFF** lifetime purchase (in-app) | 2025-12-01 |
 | 🟣 | [Mood Lights](https://www.moodlights.app/) | Make your TV a mood lamp — Transform your space with the Mood Lights Apple TV app, offering endless colors and sounds for relaxation, focus, and beautiful ambiance. | **50% OFF** lifetime purchase | 2025-12-01 |
+
 
 ### Design Tools
 
@@ -247,7 +257,7 @@ It's free & open-source. Enjoy! 🚀
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
-| ⭐ | Be the first to add a deal in this category! | | | |
+| 📸 | [Once](https://once.film) | Shared disposable camera app for events—capture memories together and unlock the full gallery when the event ends. | **50% OFF** when joining the early access waitlist | 2025-12-31 |
 
 
 ### Health & Fitness
@@ -344,6 +354,7 @@ It's free & open-source. Enjoy! 🚀
 | - | - | - | - | - |
 | 🟪 | [PostFlow](https://postflow.app?ref=rare-big-deal) | Social media scheduler and platform to manage ALL your social media content. One click, all platforms, hours saved. | **30% OFF (LIFETIME)** with code **BF2025** | 2025-12-01 |
 | 🔄 | [PostSyncer](https://postsyncer.com) | Sync and schedule your social media posts across multiple platforms. Features AI-powered content creation with Veo 3, Sora 2, Nano Banana, and other image and video models. | **20% OFF** for a year with discount code **RAREBIGDEAL** | 2025-12-31 |
+| 📢 | [SocialRails](https://socialrails.com) | Create content, post everywhere. Schedule to 9 social platforms and create content with built-in AI tools. | 20% OFF forever with code:  **AI20** | 2029-01-01 |
 
 
 ### Email Marketing
@@ -358,6 +369,9 @@ It's free & open-source. Enjoy! 🚀
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 🔄 | [PostSyncer](https://postsyncer.com) | Sync and schedule your social media posts across multiple platforms. Features AI-powered content creation with Veo 3, Sora 2, Nano Banana, and other image and video models. | **20% OFF** for a year with discount code **RAREBIGDEAL** | 2025-12-31 |
+| ⭐ | [Verbatik AI](https://verbatik.com) | Unlimited text-to-speech and voice cloning across 150+ languages. Generate voiceovers, custom voices, music, videos, sound effects, auto captions and AI conversations — instantly and without limits.| **50% OFF** for a year with discount code **BFCM2025** | 2025-12-31 |
+| 📢 | [SocialRails](https://socialrails.com) | Create content, post everywhere. Schedule to 9 social platforms and create content with built-in AI tools. | 20% OFF forever with code:  **AI20** | 2029-01-01 |
+| ✍️ | [Semantic Pen](https://www.semanticpen.com/) | AI-powered content writer that helps you create high-quality, SEO-optimized content for blogs, marketing, and more. | **20% OFF** with code **20BF2025** | 2025-12-31 |
 
 
 ### Affiliate Marketing
@@ -442,11 +456,12 @@ It's free & open-source. Enjoy! 🚀
 | 🚢 | [Shipixen](https://shipixen.com) | In 5 minutes, go from nothing → deployed codebase. | **$100 OFF** on all licenses with code **BF2025** | 2025-12-01 |
 | 📁 | [Dirstarter](https://dirstarter.com?discountCode=BF2025) | Launch Your Directory Website and Start Making Money Today | **40% OFF** on all tiers with code **BF2025** | 2025-12-01 |
 
+
 ### Nuxt
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
-| ⭐ | Be the first to add a deal in this category! | | | |
+| ⏩ | [ShipAhead](https://shipahe.ad) | Build your AI SaaS in days not months | **40% OFF** with code **BF2025** | 2025-12-01 |
 
 
 ### iOS
@@ -481,13 +496,16 @@ It's free & open-source. Enjoy! 🚀
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
-| ⭐ | Be the first to add a deal in this category! | | | |
+| ⭐ | [Larafast](https://larafast.com) | Laravel SaaS Starter Kit (now with Multi-Tenant Support) | 50% OFF on All Starter Kits **BLACKFRIDAY25** | 2025-12-05 |
+
+
 
 ### Django
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 🚢 | [Django daisyUI Starter Kit](https://polar.sh/niftydigits/products/02cf986e-80ae-470b-b491-e48321fa0340) | Latest release of django preconfigured with daisyUI templates ready for you to customise and launch your next big idea! | **30% OFF** on all licenses with code **BF2025** | 2025-12-05 |
+
 
 ### Chrome Extensions
 
@@ -516,7 +534,6 @@ It's free & open-source. Enjoy! 🚀
 | 💰 | [Get Your First Client as a Freelancer](https://getyourfirstclient.freelancerpath.com/) | A complete step by step guide to get your first client as a freelancer from scratch. | **50% off** with discount code **BLACK** | 2025-12-01 |
 
 
-
 ### Art Courses
 
 | | Name | Description | Deal | Expires on date |
@@ -535,7 +552,7 @@ It's free & open-source. Enjoy! 🚀
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
-| ⭐ | Be the first to add a deal in this category! | | | |
+| 💰 | [Tracking Personal Finances using Python](https://personalfinancespython.com) | Learn double-entry bookkeeping with Python. Build a plaintext accounting system using Beancount in this comprehensive book for software developers. | **20% off** with discount code **BFCM2025** | 2025-12-31 |
 
 
 [⬆️ All categories](#table-of-contents)
@@ -564,11 +581,13 @@ It's free & open-source. Enjoy! 🚀
 | 💰 | [Gumtrends](https://gumtrends.com) | Get access to a growing dataset of 200k+ Gumroad products complete with estimated revenue. Spot opportunities by finding profitable items. | **30% OFF** on lifetime access with code **BF2025**| 2025-12-05 |
 | 💰 | [Side Projects Making $$$+](https://niftydigits.gumroad.com/l/side-projects/BF2025) | A complete collection of notion databases detailing every side project making real money posted to Hacker News threads from 2014-2024. | **30% OFF** on lifetime access with code **BF2025** | 2025-12-05 |
 
+
 ### Investment Research
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 💰 | [Wall St. Rank](https://www.wallstrank.com) | Piggyback off insights from the world's best hedge funds and research analysts. | **50% OFF** Yearly plan with code **RBD2025**| 2025-12-31 |
+
 
 [⬆️ All categories](#table-of-contents)
 
