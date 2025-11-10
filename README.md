@@ -461,7 +461,7 @@ It's free & open-source. Enjoy! 🚀
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
-| ⭐ | Be the first to add a deal in this category! | | | |
+| ⏩ | [ShipAhead](https://shipahe.ad) | Build your AI SaaS in days not months | **40% OFF** with code **BF2025** | 2025-12-01 |
 
 
 ### iOS
