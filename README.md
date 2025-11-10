@@ -179,6 +179,7 @@ It's free & open-source. Enjoy! 🚀
 | 📸 | [Shotomatic](https://shotomatic.com) | Easily archive eBooks, dashboards, and long-page documents through automated screenshots. | **40% OFF** with discount code **BF2025** | 2025-12-01 |
 | 🗂️ | [MeetingMenu](https://www.meetingmenu.app/) | Manage, organize, and execute perfect meetings effortlessly from your Mac menu bar. | **50% OFF** | 2025-12-01 |
 | 🖊 | [RewriteBar](https://rewritebar.com?ref=rarebigdeal) | RewriteBar is a macOS menu bar app that allows you to rewrite text using AI. Correct grammar, translate, adjust tone, and more. | 50% OFF with code **BF2025** | 2025-12-01 |
+| 📁 | [FileMinutes](https://www.fileminutes.com) | A Better Way to Find Files on Your Mac | **50% OFF** with code **BF2025** | 2025-12-01 |
 
 
 ### Design Tools
@@ -363,6 +364,7 @@ It's free & open-source. Enjoy! 🚀
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 🔄 | [PostSyncer](https://postsyncer.com) | Sync and schedule your social media posts across multiple platforms. Features AI-powered content creation with Veo 3, Sora 2, Nano Banana, and other image and video models. | **20% OFF** for a year with discount code **RAREBIGDEAL** | 2025-12-31 |
+| ⭐ | [Verbatik AI](https://verbatik.com) | Unlimited text-to-speech and voice cloning across 150+ languages. Generate voiceovers, custom voices, music, videos, sound effects, auto captions and AI conversations — instantly and without limits.| **50% OFF** for a year with discount code **BFCM2025** | 2025-12-31 |
 | 📢 | [SocialRails](https://socialrails.com) | Create content, post everywhere. Schedule to 9 social platforms and create content with built-in AI tools. | 20% OFF forever with code:  **AI20** | 2029-01-01 |
 
 
@@ -542,7 +544,7 @@ It's free & open-source. Enjoy! 🚀
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
-| ⭐ | Be the first to add a deal in this category! | | | |
+| 💰 | [Tracking Personal Finances using Python](https://personalfinancespython.com) | Learn double-entry bookkeeping with Python. Build a plaintext accounting system using Beancount in this comprehensive book for software developers. | **20% off** with discount code **BFCM2025** | 2025-12-31 |
 
 
 [⬆️ All categories](#table-of-contents)
