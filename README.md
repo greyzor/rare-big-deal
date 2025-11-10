@@ -496,7 +496,8 @@ It's free & open-source. Enjoy! 🚀
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
-| ⭐ | Be the first to add a deal in this category! | | | |
+| ⭐ | [Larafast](https://larafast.com) | Laravel SaaS Starter Kit (now with Multi-Tenant Support) | 50% OFF on All Starter Kits **BLACKFRIDAY25** | 2025-12-05 |
+
 
 
 ### Django
