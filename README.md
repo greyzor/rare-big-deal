@@ -599,6 +599,7 @@ It's free & open-source. Enjoy! 🚀
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 📅 | [ShiftApp](https://shiftapp.com/black-friday) | Smart, simple staff scheduling. Build rosters, manage shifts, and notify staff in seconds. | **70% OFF** for **6 MONTHS** | 2025-12-05 |
+| 💬 | [Ticketping]([https://shiftapp.com/black-friday](https://ticketping.com/)) | Customer Support straight from Slack | 3 months **FREE** and **50% OFF** for next 6 months | 2025-12-31 |
 
 
 [⬆️ All categories](#table-of-contents)
