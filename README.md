@@ -115,7 +115,8 @@ It's free & open-source. Enjoy! 🚀
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
-| ⚡   | [SuperDev Pro](https://superdevpro.com/) | All your web tools, one extension. | **$120 off** | 2025-12-01 |
+| ⚡ | [SuperDev Pro](https://superdevpro.com/) | All your web tools, one extension. | **$120 off** | 2025-12-01 |
+| ⚡ | [aiTree](https://www.aitree.app/) | Organize your AI chats in trees with branches | **ONE TIME PAYMENT 4€** | 2025-12-01 |
 
 
 ### Productivity & AI
