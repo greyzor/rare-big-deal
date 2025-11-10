@@ -91,26 +91,53 @@ const subcategoryTags = {
 };
 
 function applyCategoryOverrides(categories, subcategories, productName) {
+  console.log(`[Apply Overrides] 🏷️  Processing tags for: ${productName}`);
+
   const overrideTags = overrides[productName]?.tags || [];
   if (overrideTags.length > 0) {
+    console.log(`[Apply Overrides] ✅ Using ${overrideTags.length} override tags:`, overrideTags);
     return [...new Set(overrideTags)];
   }
+
+  console.log(`[Apply Overrides] 🔨 Building tags from categories: ${categories?.length || 0}, subcategories: ${subcategories?.length || 0}`);
+
   const categoryTagsList = (categories || []).reduce((acc, category) => {
     const tags = categoryTags[category] || [];
+    if (tags.length > 0) {
+      console.log(`[Apply Overrides]   📂 Category "${category}" → ${tags.length} tags`);
+    }
     return acc.concat(tags);
   }, []);
+
   const subcategoryTagsList = (subcategories || []).reduce(
     (acc, subcategory) => {
       const tags = subcategoryTags[subcategory] || [];
+      if (tags.length > 0) {
+        console.log(`[Apply Overrides]   📁 Subcategory "${subcategory}" → ${tags.length} tags`);
+      }
       return acc.concat(tags);
     },
     [],
   );
-  return [...new Set([...categoryTagsList, ...subcategoryTagsList])];
+
+  const finalTags = [...new Set([...categoryTagsList, ...subcategoryTagsList])];
+  console.log(`[Apply Overrides] ✅ Generated ${finalTags.length} unique tags:`, finalTags);
+
+  return finalTags;
 }
 
 function applyMetaOverrides(productName, app) {
+  console.log(`[Apply Overrides] 📝 Processing metadata for: ${productName}`);
+
   const productOverrides = overrides[productName] || {};
+  const hasOverrides = Object.keys(productOverrides).length > 0;
+
+  if (hasOverrides) {
+    const overriddenFields = Object.keys(productOverrides);
+    console.log(`[Apply Overrides] ✅ Found ${overriddenFields.length} override fields:`, overriddenFields);
+  } else {
+    console.log(`[Apply Overrides] 📋 No overrides found, using original metadata`);
+  }
 
   return {
     description: productOverrides.description || app.description,

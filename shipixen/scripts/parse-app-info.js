@@ -13,34 +13,48 @@ execSync(`node ${generateIndexScript}`, { stdio: 'inherit' });
  * Fetches assets and generates MDX content for each app.
  */
 async function main() {
+  console.log('\n[Parse App Info] 🚀 Starting app processing...');
+  const mainStartTime = Date.now();
+
   const apps = await parseReadme();
 
-  const fetchPromises = apps.map(async (app) => {
+  console.log(`[Parse App Info] 📦 Processing ${apps.length} apps...\n`);
+
+  const fetchPromises = apps.map(async (app, index) => {
     const startTime = Date.now();
+
+    console.log(`[Parse App Info] [${index + 1}/${apps.length}] 🔄 Processing: ${app.name}`);
 
     try {
       await fetchAssets(app);
       await generateMDXContent(app);
+
+      const elapsed = Date.now() - startTime;
+      console.log(`[Parse App Info] [${index + 1}/${apps.length}] ✅ Completed: ${app.name} (${elapsed}ms)`);
     } catch (error) {
       console.error(
-        `💥 Could not generate markdown for ${app.name}:`,
+        `[Parse App Info] [${index + 1}/${apps.length}] ❌ Failed to generate markdown for ${app.name}:`,
         error.message,
       );
     }
 
-    const endTime = Date.now();
-    const duration = (endTime - startTime) / 1000;
+    const duration = (Date.now() - startTime) / 1000;
 
     if (duration > 2) {
       console.warn(
-        `\x1b[33m⚠️  Warning: Processing ${app.name} took ${duration.toFixed(
-          2,
-        )} seconds\x1b[0m`,
+        `[Parse App Info] ⚠️  Warning: Processing ${app.name} took ${duration.toFixed(2)} seconds`,
       );
     }
   });
 
   await Promise.allSettled(fetchPromises);
+
+  const totalElapsed = Date.now() - mainStartTime;
+  console.log(`\n[Parse App Info] ========================================`);
+  console.log(`[Parse App Info] 📊 Summary:`);
+  console.log(`[Parse App Info]   ✅ Total apps processed: ${apps.length}`);
+  console.log(`[Parse App Info]   ⏱️  Total time: ${(totalElapsed / 1000).toFixed(2)}s`);
+  console.log(`[Parse App Info] ========================================\n`);
 }
 
 main();
