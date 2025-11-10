@@ -108,6 +108,7 @@ It's free & open-source. Enjoy! 🚀
 | 💬   | [UptimeBeats](https://uptimebeats.com/) | Uptime Monitoring and Status Pages. | **10% off** with code **BF2025** | 2025-12-01 |
 | ✉️   | [VerifyForge](https://verifyforge.com/) | Enterprise email validation API with 99%+ accuracy. Real-time validation, bulk processing, and transparent results. | **30% OFF** with code **BF2025** | 2025-12-01 |
 
+
 ### Browser Extensions
 
 | | Name | Description | Deal | Expires on date |
@@ -122,6 +123,7 @@ It's free & open-source. Enjoy! 🚀
 | 🔄 | [PostSyncer](https://postsyncer.com) | Sync and schedule your social media posts across multiple platforms. Features AI-powered content creation with Veo 3, Sora 2, Nano Banana, and other image and video models. | **20% OFF** for a year with discount code **RAREBIGDEAL** | 2025-12-31 |
 | 🖊 | [RewriteBar](https://rewritebar.com?ref=rarebigdeal) | RewriteBar is a macOS menu bar app that allows you to rewrite text using AI. Correct grammar, translate, adjust tone, and more. | 50% OFF with code **BF2025** | 2025-12-01 |
 | 📢 | [SocialRails](https://socialrails.com) | Create content, post everywhere. Schedule to 9 social platforms and create content with built-in AI tools. | 20% OFF forever with code:  **AI20** | 2029-01-01 |
+
 
 [⬆️ All categories](#table-of-contents)
 
@@ -189,6 +191,7 @@ It's free & open-source. Enjoy! 🚀
 | - | - | - | - | - |
 | ⭐ | Be the first to add a deal in this category! | | | |
 
+
 ### Health & Fitness
 
 | | Name | Description | Deal | Expires on date |
@@ -222,6 +225,7 @@ It's free & open-source. Enjoy! 🚀
 | - | - | - | - | - |
 | 😴 | [Sleep Sounds + White Noise for Apple TV](https://www.darksleep.app/) | The #1 free sleep and relaxation app for Apple TV. Dolby Atmos soundscapes, calming videos, meditations, sunrise alarms, and more — all in one app. | **30% OFF** lifetime purchase (in-app) | 2025-12-01 |
 | 🟣 | [Mood Lights](https://www.moodlights.app/) | Make your TV a mood lamp — Transform your space with the Mood Lights Apple TV app, offering endless colors and sounds for relaxation, focus, and beautiful ambiance. | **50% OFF** lifetime purchase | 2025-12-01 |
+
 
 ### Design Tools
 
@@ -367,6 +371,7 @@ It's free & open-source. Enjoy! 🚀
 | 🔄 | [PostSyncer](https://postsyncer.com) | Sync and schedule your social media posts across multiple platforms. Features AI-powered content creation with Veo 3, Sora 2, Nano Banana, and other image and video models. | **20% OFF** for a year with discount code **RAREBIGDEAL** | 2025-12-31 |
 | ⭐ | [Verbatik AI](https://verbatik.com) | Unlimited text-to-speech and voice cloning across 150+ languages. Generate voiceovers, custom voices, music, videos, sound effects, auto captions and AI conversations — instantly and without limits.| **50% OFF** for a year with discount code **BFCM2025** | 2025-12-31 |
 | 📢 | [SocialRails](https://socialrails.com) | Create content, post everywhere. Schedule to 9 social platforms and create content with built-in AI tools. | 20% OFF forever with code:  **AI20** | 2029-01-01 |
+| ✍️ | [Semantic Pen](https://www.semanticpen.com/) | AI-powered content writer that helps you create high-quality, SEO-optimized content for blogs, marketing, and more. | **20% OFF** with code **20BF2025** | 2025-12-31 |
 
 
 ### Affiliate Marketing
@@ -374,7 +379,6 @@ It's free & open-source. Enjoy! 🚀
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 📃 | [TapRefer](https://TapRefer.com) | The biggest & latest affiliate programs directory | **80% OFF** with code **BFCM25** | 2025-12-01 |
-
 
 
 ### Analytics
@@ -452,6 +456,7 @@ It's free & open-source. Enjoy! 🚀
 | 🚢 | [Shipixen](https://shipixen.com) | In 5 minutes, go from nothing → deployed codebase. | **$100 OFF** on all licenses with code **BF2025** | 2025-12-01 |
 | 📁 | [Dirstarter](https://dirstarter.com?discountCode=BF2025) | Launch Your Directory Website and Start Making Money Today | **40% OFF** on all tiers with code **BF2025** | 2025-12-01 |
 
+
 ### Nuxt
 
 | | Name | Description | Deal | Expires on date |
@@ -493,11 +498,13 @@ It's free & open-source. Enjoy! 🚀
 | - | - | - | - | - |
 | ⭐ | Be the first to add a deal in this category! | | | |
 
+
 ### Django
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 🚢 | [Django daisyUI Starter Kit](https://polar.sh/niftydigits/products/02cf986e-80ae-470b-b491-e48321fa0340) | Latest release of django preconfigured with daisyUI templates ready for you to customise and launch your next big idea! | **30% OFF** on all licenses with code **BF2025** | 2025-12-05 |
+
 
 ### Chrome Extensions
 
@@ -524,7 +531,6 @@ It's free & open-source. Enjoy! 🚀
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 💰 | [Get Your First Client as a Freelancer](https://getyourfirstclient.freelancerpath.com/) | A complete step by step guide to get your first client as a freelancer from scratch. | **50% off** with discount code **BLACK** | 2025-12-01 |
-
 
 
 ### Art Courses
@@ -574,11 +580,13 @@ It's free & open-source. Enjoy! 🚀
 | 💰 | [Gumtrends](https://gumtrends.com) | Get access to a growing dataset of 200k+ Gumroad products complete with estimated revenue. Spot opportunities by finding profitable items. | **30% OFF** on lifetime access with code **BF2025**| 2025-12-05 |
 | 💰 | [Side Projects Making $$$+](https://niftydigits.gumroad.com/l/side-projects/BF2025) | A complete collection of notion databases detailing every side project making real money posted to Hacker News threads from 2014-2024. | **30% OFF** on lifetime access with code **BF2025** | 2025-12-05 |
 
+
 ### Investment Research
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 💰 | [Wall St. Rank](https://www.wallstrank.com) | Piggyback off insights from the world's best hedge funds and research analysts. | **50% OFF** Yearly plan with code **RBD2025**| 2025-12-31 |
+
 
 [⬆️ All categories](#table-of-contents)
 
