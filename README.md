@@ -81,6 +81,7 @@ It's free & open-source. Enjoy! 🚀
 - [Finance](#finance)
   - [Dashboards](#dashboards)
   - [Investment Research](#investment-research)
+  - [Tools](#tools-1)
 - [Miscellaneous](#miscellaneous)
   - [All](#all)
 
@@ -602,6 +603,12 @@ It's free & open-source. Enjoy! 🚀
 | - | - | - | - | - |
 | 💰 | [Wall St. Rank](https://www.wallstrank.com) | Piggyback off insights from the world's best hedge funds and research analysts. | **50% OFF** Yearly plan with code **RBD2025**| 2025-12-31 |
 
+
+### Tools
+
+| | Name | Description | Deal | Expires on date |
+| - | - | - | - | - |
+| 💰 | [Amounthly](https://www.amounthly.com/) | Easily track and manage all your recurring payments in one place | **50% OFF** on lifetime access with code **BF2025** | 2025-12-31 |
 
 [⬆️ All categories](#table-of-contents)
 
