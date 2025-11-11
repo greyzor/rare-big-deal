@@ -142,14 +142,14 @@ const EmblaCarousel: React.FC<PropType> = ({
                     height={1600}
                     src={app.images?.[0]}
                     alt={app.title}
-                    className="w-full h-auto rounded-xl aspect-[1.9/1]"
+                    className="w-full h-auto rounded-xl max-h-[500px]"
                   />
 
                   <div className="flex flex-col items-center justify-center -mt-8">
-                    <div className="flex gap-2 bg-white/90 dark:bg-black/90 backdrop-blur-xl rounded-lg py-2 px-3 items-center">
+                    <div className="flex gap-2 bg-white/90 dark:bg-black/90 backdrop-blur-xl rounded-xl py-2 px-3 items-center">
                       <figure
                         className={clsx(
-                          'w-10 h-10 md:w-10 md:h-10 lg:w-14 lg:h-14 flex-shrink-0 rounded-lg overflow-hidden bg-white/50 dark:bg-black/50',
+                          'w-10 h-10 md:w-10 md:h-10 lg:w-14 lg:h-14 flex-shrink-0 rounded-2xl overflow-hidden bg-white/50 dark:bg-black/50',
                         )}
                       >
                         {app.logo ? (
@@ -177,7 +177,7 @@ const EmblaCarousel: React.FC<PropType> = ({
 
                     <ReactMarkdown
                       className={cn(
-                        'text-sm mt-4 transition-opacity delay-500 ease-in duration-700',
+                        'text-sm mt-4 transition-opacity delay-500 ease-in duration-700 text-green-500',
                         currentIndex === index ? 'opacity-100' : 'opacity-0',
                       )}
                       disallowedElements={['a']}
