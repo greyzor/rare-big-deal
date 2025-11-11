@@ -99,7 +99,7 @@ It's free & open-source. Enjoy! 🚀
 | 🖊 | [RewriteBar](https://rewritebar.com?ref=rarebigdeal) | RewriteBar is a macOS menu bar app that allows you to rewrite text using AI. Correct grammar, translate, adjust tone, and more. | 50% OFF with code **BF2025** | 2025-12-01 |
 | ⚡ | [Compresto](https://compresto.app/pricing?ref=rarebigdeal) | Video, Image & PDF Compression for macOS. | 40% OFF with code **BFCM25** | 2025-12-01 |
 | 🪑 | [Cozy Watch](https://www.cozywatch.com) | GitHub notifications to your desktop. Track pull requests, CI updates, and mentions instantly. Stay focused on coding while knowing exactly when your attention is needed. | $4 OFF with code **BLACKFRIDAY** | 2025-12-01 |
-
+| 🎨 | [Sip](https://www.sipapp.io) | The right color every time. Sip is a modern color picker that brings ease to color organization & team collaboration. | 50% OFF with code **BF25** or **CM25** | 2025-12-01 |
 
 ### APIs, Tools & SaaS
 
@@ -182,6 +182,7 @@ It's free & open-source. Enjoy! 🚀
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 🏏 | [Clobbr](https://clobbr.app) | The app & CLI tool to load test your API endpoints. | **50% off** in the AppStore (already applied) | 2025-12-31 |
+| 🎨 | [Sip](https://www.sipapp.io) | The right color every time. Sip is a modern color picker that brings ease to color organization & team collaboration. | 50% OFF with code **BF25** or **CM25** | 2025-12-01 |
 
 
 ### Productivity
@@ -203,6 +204,7 @@ It's free & open-source. Enjoy! 🚀
 | - | - | - | - | - |
 | ⓢ | [Sitely 6](https://sitely.app) | Visual + AI Website Builder | 50% OFF (automatically applied)| 2025-12-05 |
 | 😀 | [Iconbuddy](https://iconbuddy.com) | 300k+ Open Source Icons: Search Fast. Edit Freely. Download Instantly. | $60 OFF | 2025-12-01 |
+| 🎨 | [Sip](https://www.sipapp.io) | The right color every time. Sip is a modern color picker that brings ease to color organization & team collaboration. | 50% OFF with code **BF25** or **CM25** | 2025-12-01 |
 
 
 ### Health & Fitness
