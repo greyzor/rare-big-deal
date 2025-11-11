@@ -43,7 +43,9 @@ const categoryTags = {
 };
 
 const subcategoryTags = {
-  'macOS Apps': ['macOS', 'Apps'],
+  'macOS Apps': ['macOS', 'Apps', 'Desktop Apps', 'Native Apps'],
+  'tvOS Apps': ['tvOS', 'Apps', 'TV Apps', 'Native Apps'],
+  'macOS:': ['macOS', 'Apps', 'Desktop Apps', 'Native Apps'],
   'APIs, Tools & SaaS': ['APIs', 'Tools', 'SaaS'],
   'Browser Extensions': ['Browser Extensions'],
   'Productivity & AI': ['Productivity', 'AI'],
@@ -68,7 +70,7 @@ const subcategoryTags = {
   'Analyze & Audit': ['Analyze', 'Audit'],
   'React/Next.js': ['React', 'Next.js'],
   Nuxt: ['Nuxt'],
-  iOS: ['iOS'],
+  iOS: ['iOS', 'Apps', 'Mobile Apps', 'Native Apps'],
   Flutter: ['Flutter'],
   Laravel: ['Laravel'],
   Django: ['Django'],
