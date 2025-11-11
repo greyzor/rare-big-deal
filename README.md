@@ -154,6 +154,9 @@ It's free & open-source. Enjoy! 🚀
 | 🤖 | [TypingMind](https://typingmind.com/) | Personal AI workspace. Frontend for ChatGPT, Claude, Gemini to use with your API key. Support Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | 60% OFF with code **BLACKFRIDAY2025** | 2025-12-01 |
 | 🖊 | [RewriteBar](https://rewritebar.com?ref=rarebigdeal) | RewriteBar is a macOS menu bar app that allows you to rewrite text using AI. Correct grammar, translate, adjust tone, and more. | 50% OFF with code **BF2025** | 2025-12-01 |
 | 💥 | [TypeBoost](https://www.typeboost.ai) | Build your personal AI toolkit. Use anywhere you type on Mac. Write, translate, improve, explain, brainstorm... + iOS app | **60% OFF** for 6 months with code **BF2025** | 2025-12-05 |
+| 📸 | [FaceCam](https://gracehuang.gumroad.com/l/facecam/BLACKFRIDAY25) | macOS App for Recording Face In Videos | **40% OFF** with code **BLACKFRIDAY25** | 2025-12-01 |
+| 📐 | [ResizeGenius](https://gracehuang.gumroad.com/l/resizegenius/BLACKFRIDAY25) | macOS app for Effortless Batch Resizing and Editing of Images | **40% OFF** with code **BLACKFRIDAY25** | 2025-12-01 |
+| ✏️ | [Redac](https://gracehuang.gumroad.com/l/redac/BLACKFRIDAY25) | MacOS app that makes redacting text in images easier | **40% OFF** with code **BLACKFRIDAY25** | 2025-12-01 |
 
 
 ### Other
@@ -546,6 +549,7 @@ It's free & open-source. Enjoy! 🚀
 | - | - | - | - | - |
 | 💰 | [Get Your First Client as a Freelancer](https://getyourfirstclient.freelancerpath.com/) | A complete step by step guide to get your first client as a freelancer from scratch. | **50% off** with discount code **BLACK** | 2025-12-01 |
 | 👨🏻‍💻 | [LabEx](https://labex.io/learn) | Learn Linux, DevOps & Cybersecurity with Hands-on Labs | [50% OFF for Two Years](https://labex.io/checkout?type=4&coupon=2025BF50) (Coupon: 2025BF50) and [30% OFF for One Year](https://labex.io/checkout?type=2&coupon=2025BF30) (Coupon: 2025BF30) | 2025-12-01 |
+| 🧑‍💻 | [Apple Developer Starter Pack](https://gracehuang.gumroad.com/l/bundle-ios-macos-development/BLACKFRIDAY25) | Books & Course for Swift, SwiftUI and macOS | **40% OFF** with code **BLACKFRIDAY25** | 2025-12-01 |
 
 
 ### Art Courses
@@ -567,7 +571,10 @@ It's free & open-source. Enjoy! 🚀
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 💰 | [Tracking Personal Finances using Python](https://personalfinancespython.com) | Learn double-entry bookkeeping with Python. Build a plaintext accounting system using Beancount in this comprehensive book for software developers. | **20% off** with discount code **BFCM2025** | 2025-12-31 |
-
+| 📚 | [The Swift Codebook](https://gracehuang.gumroad.com/l/swift-codebook/BLACKFRIDAY25) | A Beginner's Guide from Basics to Best Practices | **40% OFF** with code **BLACKFRIDAY25** | 2025-12-01 |
+| 3️⃣ | [Dynamic Trio](https://gracehuang.gumroad.com/l/dynamic-trio/BLACKFRIDAY25) | Building Web Applications with React, Next.js & Tailwind | **40% OFF** with code **BLACKFRIDAY25** | 2025-12-01 |
+| 😊 | [The Math Behind Retiring Early](https://gracehuang.gumroad.com/l/math-behind-retiring-early/BLACKFRIDAY25) | How to Build, Backtest, and Manage a Financial Independence Portfolio | **40% OFF** with code **BLACKFRIDAY25** | 2025-12-01 |
+| 💻 | [The SwiftUI Way](https://gracehuang.gumroad.com/l/macos-app-dev-swiftui/BLACKFRIDAY25) | macOS App Development using SwiftUI | **40% OFF** with code **BLACKFRIDAY25** | 2025-12-01 |
 
 [⬆️ All categories](#table-of-contents)
 
@@ -594,7 +601,7 @@ It's free & open-source. Enjoy! 🚀
 | - | - | - | - | - |
 | 💰 | [Gumtrends](https://gumtrends.com) | Get access to a growing dataset of 200k+ Gumroad products complete with estimated revenue. Spot opportunities by finding profitable items. | **30% OFF** on lifetime access with code **BF2025**| 2025-12-05 |
 | 💰 | [Side Projects Making $$$+](https://niftydigits.gumroad.com/l/side-projects/BF2025) | A complete collection of notion databases detailing every side project making real money posted to Hacker News threads from 2014-2024. | **30% OFF** on lifetime access with code **BF2025** | 2025-12-05 |
-
+| 💰 | [Know Your Numbers](https://gracehuang.gumroad.com/l/networth/BLACKFRIDAY25) | Personal & Family Net Worth Tracker. | **40% OFF** with code **BLACKFRIDAY25** | 2025-12-01 |
 
 ### Investment Research
 
