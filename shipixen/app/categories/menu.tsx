@@ -14,8 +14,10 @@ import clsx from 'clsx';
 const categoryEmojis: Record<string, string> = {
   Productivity: '💼',
   'Boilerplates, Startup SaaS/Tools': '🚀',
+  'Boilerplates, Starters & Libraries': '🚀',
   'AI Tools': '🤖',
   'Marketing Tools': '📈',
+  'Marketing': '📈',
   'Design Tools': '🎨',
   'Developer Tools': '💻',
   'SEO Tools': '🔍',
@@ -25,8 +27,14 @@ const categoryEmojis: Record<string, string> = {
   'Themes, Plugins': '🎛️',
   'Data Tools': '📊',
   Books: '📖',
+  Learning: '🎓',
+  Finance: '💰',
+  'tvOS Apps': '📺',
+  'iOS Apps': '📱',
   'Code Libraries': '📂',
   'Video Tools': '🎥',
+  'MacOS Apps': '🖥️',
+
 };
 
 export const Menu = ({ className }: { className?: string }) => {
