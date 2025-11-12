@@ -73,7 +73,7 @@ const EmblaCarousel: React.FC<PropType> = ({
         }}
         plugins={[
           Autoplay({
-            delay: 5000,
+            delay: 7000,
             stopOnInteraction: false,
             stopOnMouseEnter: autoplayOnHover,
           }),
@@ -104,7 +104,7 @@ const EmblaCarousel: React.FC<PropType> = ({
                     height={1600}
                     src={app.images?.[0]}
                     alt={app.title}
-                    className="w-full h-auto max-h-[500px] object-contain"
+                    className="w-full h-[600px] object-cover"
                   />
 
                   <div className="flex flex-col items-center justify-center -mt-8">

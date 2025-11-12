@@ -59,8 +59,9 @@ export const Showcase = ({
         />
 
       {showAppList ? (
-       <div>
-           <p className="text-center p-4 text-sm text-gray-500">{allAppsDescription}</p>
+       <div className='flex flex-col'>
+          <hr className="border-gray-500/50 my-10 w-8 p-0 self-center" />
+          <p className="text-center px-4 mb-6 text-sm text-gray-500/90">{allAppsDescription}</p>
 
          <ul className="grid 2xl:grid-cols-2 gap-4 px-6">
           {apps.map((post) => (
