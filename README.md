@@ -173,6 +173,7 @@ It's free & open-source. Enjoy! 🚀
 | 🤖 | [ShowUpInAI](https://showupinai.com) | Get Cited in ChatGPT and more! We push every new page to Bing, helping AI assistants cite your site. | **25% OFF** with code **BLACKFRIDAY25** | 2025-12-01 |
 | 💥 | [TranscriptionPlus](https://transcription.plus) | Advanced transcription with 99% accuracy | 50% OFF | 2025-12-05 |
 
+
 ### Lifestyle
 
 | | Name | Description | Deal | Expires on date |
