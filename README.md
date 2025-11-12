@@ -263,7 +263,6 @@ It's free & open-source. Enjoy! 🚀
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
-| ⭐ | [Hajr – Porn Blocker + Focus](https://thehajr.com) | Quit Porn Forever with HAJR. | **50% off yearly plan via [App Store offer code-link only]**(https://apps.apple.com/redeem?ctx=offercodes&id=6753204636&code=BF2025) (includes 1-week free trial) | Nov 30 2025 |
 | 💥 | [TypeBoost](https://www.typeboost.ai) | Build your personal AI toolkit. Use anywhere you type on Mac. Write, translate, improve, explain, brainstorm... + iOS app | **60% OFF** for 6 months with code **BF2025** | 2025-12-05 |
 
 
@@ -292,7 +291,7 @@ It's free & open-source. Enjoy! 🚀
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
-| ⭐ | Be the first to add a deal in this category! | | | |
+| ⭐ | [Hajr – Porn Blocker + Focus](https://thehajr.com) | Quit Porn Forever with HAJR. | **50% off yearly plan via [App Store offer code-link only]**(https://apps.apple.com/redeem?ctx=offercodes&id=6753204636&code=BF2025) (includes 1-week free trial) | Nov 30 2025 |
 
 
 [⬆️ All categories](#table-of-contents)
