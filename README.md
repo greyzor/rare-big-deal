@@ -314,7 +314,7 @@ It's free & open-source. Enjoy! 🚀
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
-| ⭐ | [Hajr – Porn Blocker + Focus](https://thehajr.com) | Quit Porn Forever with HAJR. | **50% off yearly plan via [App Store offer code-link only]**(https://apps.apple.com/redeem?ctx=offercodes&id=6753204636&code=BF2025) (includes 1-week free trial) | Nov 30 2025 |
+| ⭐ | [Hajr – Porn Blocker + Focus](https://thehajr.com) | Quit Porn Forever with HAJR. | **50% off yearly plan via [App Store offer link only](https://apps.apple.com/redeem?ctx=offercodes&id=6753204636&code=BF2025) | Nov 30 2025 |
 | 📐 | [Mathy - Math Answer Scanner](https://apps.apple.com/app/apple-store/id6746950449) | Your pocket math tutor that solves and explains equations instantly from text or a photo with AI. | **50% OFF** yearly plan with code BLACKFRIDAY2025 | 2025-12-02 |
 | 🧪 | [Chemy - AI Chemistry Answers](https://apps.apple.com/app/apple-store/id6747715456) | Your pocket chemistry tutor that solves and explains chemistry problems instantly from text or a photo wutg AI. | **50% OFF** yearly plan with code BLACKFRIDAY2025 | 2025-12-02 |
 | 📈 | [Reporting - Ad Network Reports](https://apps.apple.com/app/apple-store/id1559813249) | Track and monitor your daily, weekly, and monthly ad network revenue effortlessly in a single convenient location. | **50% OFF** lifetime plan. No code needed. | 2025-12-02 |
@@ -670,6 +670,9 @@ It's free & open-source. Enjoy! 🚀
 
 
 [⬆️ All categories](#table-of-contents)
+
+
+
 
 --------------------------------
 
