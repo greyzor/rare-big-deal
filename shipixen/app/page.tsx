@@ -49,7 +49,7 @@ const weightedBundles = [
     (bundle) =>
       !['ai-apps.js', 'mac-apps.js', 'niche-apps.js'].includes(bundle),
   ),
-];
+]
 
 const getRandomBundle = () => {
   const now = new Date();
