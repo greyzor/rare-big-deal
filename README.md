@@ -9,7 +9,7 @@ It's free & open-source. Enjoy! 🚀
 
 ## Table of Contents
 
-- [Table of Contents](#table-of-contents)
+- [**Table of Contents**](#table-of-contents)
 - [Developer Tools](#developer-tools)
   - [macOS Apps](#macos-apps)
   - [APIs, Tools \& SaaS](#apis-tools--saas)
@@ -83,7 +83,6 @@ It's free & open-source. Enjoy! 🚀
   - [Investment Research](#investment-research)
 - [Miscellaneous](#miscellaneous)
   - [All](#all)
-
 --------------------------------
 
 ## Developer Tools
@@ -101,6 +100,7 @@ It's free & open-source. Enjoy! 🚀
 | 🪑 | [Cozy Watch](https://www.cozywatch.com) | GitHub notifications to your desktop. Track pull requests, CI updates, and mentions instantly. Stay focused on coding while knowing exactly when your attention is needed. | $4 OFF with code **BLACKFRIDAY** | 2025-12-01 |
 | 📈 | [Reporting - Ad Network Reports](https://apps.apple.com/app/apple-store/id1559813249) | Track and monitor your daily, weekly, and monthly ad network revenue effortlessly in a single convenient location. | **50% OFF** lifetime plan. No code needed. | 2025-12-02 |
 | 🚀 | [DevWorkspace Pro](https://devworkspacepro.com) | Easily build and manage Docker-powered web apps. | 40% OFF with code **BLACKFRIDAY40OFF** | 2025-12-10 |
+| 🖥️ | [Wins](https://wins.cool) | Mac window manager — enhances the system App Switcher with Cmd-Tab Plus, improves Dock efficiency with Dock Preview, and offers many other practical features — all designed to feel just like Apple’s built-in features. | 40% OFF with code **BLACKFRIDAY2025** | 2025-12-12 |
 
 
 ### APIs, Tools & SaaS
@@ -202,6 +202,7 @@ It's free & open-source. Enjoy! 🚀
 | 💥 | [TypeBoost](https://www.typeboost.ai) | Build your personal AI toolkit. Use anywhere you type on Mac. Write, translate, improve, explain, brainstorm... + iOS app | **60% OFF** for 6 months with code **BF2025** | 2025-12-05 |
 | 🖊 | [Presentify](https://presentifyapp.com/) | Annotate your screen in real-time | **30% OFF** No code needed | 2025-12-01 |
 | 📝 | [Capture - Quick Notes](https://apps.apple.com/app/apple-store/id6458535284) | Easily capture your thoughts & ideas on the go and export them to your favourite apps. | **50% OFF** Lifetime plan with code BLACKFRIDAY2025 | 2025-12-02 |
+| 🖥️ | [Wins](https://wins.cool) | Mac window manager — enhances the system App Switcher with Cmd-Tab Plus, improves Dock efficiency with Dock Preview, and offers many other practical features — all designed to feel just like Apple’s built-in features. | 40% OFF with code **BLACKFRIDAY2025** | 2025-12-12 |
 
 
 ### Design Tools
