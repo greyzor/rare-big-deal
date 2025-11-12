@@ -37,7 +37,7 @@ export default function CategoryPage() {
           </p>
         }
         textPosition="center"
-        className="relative bg-gray-300/60 dark:bg-gray-900"
+        className="relative bg-gray-200/60 dark:bg-gray-900"
       ></LandingPrimaryTextCtaSection>
 
       <section className="max-w-2xl 2xl:max-w-6xl w-full mt-12 p-6">
