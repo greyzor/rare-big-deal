@@ -162,6 +162,7 @@ It's free & open-source. Enjoy! 🚀
 | 📸 | [FaceCam](https://gracehuang.gumroad.com/l/facecam/BLACKFRIDAY25) | macOS App for Recording Face In Videos | **40% OFF** with code **BLACKFRIDAY25** | 2025-12-01 |
 | 📐 | [ResizeGenius](https://gracehuang.gumroad.com/l/resizegenius/BLACKFRIDAY25) | macOS app for Effortless Batch Resizing and Editing of Images | **40% OFF** with code **BLACKFRIDAY25** | 2025-12-01 |
 | ✏️ | [Redac](https://gracehuang.gumroad.com/l/redac/BLACKFRIDAY25) | MacOS app that makes redacting text in images easier | **40% OFF** with code **BLACKFRIDAY25** | 2025-12-01 |
+| 📚 | [SpatialRead](https://spatialread.com/?utm_source=rbd) | Quickly understand complex research papers with AI-powered explanations. | **45% OFF** Lifetime deal ($49) | 2025-12-01 |
 
 
 ### Other
