@@ -98,7 +98,6 @@ It's free & open-source. Enjoy! 🚀
 | ⚡ | [Compresto](https://compresto.app/pricing?ref=rarebigdeal) | Video, Image & PDF Compression for macOS. | 40% OFF with code **BFCM25** | 2025-12-01 |
 | 🪑 | [Cozy Watch](https://www.cozywatch.com) | GitHub notifications to your desktop. Track pull requests, CI updates, and mentions instantly. Stay focused on coding while knowing exactly when your attention is needed. | $4 OFF with code **BLACKFRIDAY** | 2025-12-01 |
 | 📈 | [Reporting - Ad Network Reports](https://apps.apple.com/app/apple-store/id1559813249) | Track and monitor your daily, weekly, and monthly ad network revenue effortlessly in a single convenient location. | **50% OFF** lifetime plan. No code needed. | 2025-12-02 |
-| 🚀 | [DevWorkspace Pro](https://devworkspacepro.com) | Easily build and manage Docker-powered web apps. | 40% OFF with code **BLACKFRIDAY40OFF** | 2025-12-10 |
 | 🖥️ | [Wins](https://wins.cool) | Mac window manager — enhances the system App Switcher with Cmd-Tab Plus, improves Dock efficiency with Dock Preview, and offers many other practical features — all designed to feel just like Apple’s built-in features. | 40% OFF with code **BLACKFRIDAY2025** | 2025-12-12 |
 | 🛠️ | [SelfDevKit](https://selfdevkit.com) | 50+ essential developer tools in one desktop app. Built with Rust, works offline, privacy-focused. | 50% OFF with code **BLACKFRIDAY2025** | 2025-12-01 |
 | ⭐️ | [DevUtils](https://devutils.com)  | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY2025** | 2025-12-01 |
@@ -114,6 +113,7 @@ It's free & open-source. Enjoy! 🚀
 | 💬 | [UptimeBeats](https://uptimebeats.com/) | Uptime Monitoring and Status Pages. | **10% off** with code **BF2025** | 2025-12-01 |
 | ✉️ | [VerifyForge](https://verifyforge.com/) | Enterprise email validation API with 99%+ accuracy. Real-time validation, bulk processing, and transparent results. | **30% OFF** with code **BF2025** | 2025-12-01 |
 | 🐞 | [Telebugs](https://telebugs.com) | Self-hosted Sentry alternative for error tracking | **20% off** with discount code **BF2025** | 2025-12-01 |
+| 🚀 | [DevWorkspace Pro](https://devworkspacepro.com) | Desktop app to easily build and manage Docker-powered web apps. | 40% OFF with code **BLACKFRIDAY40OFF** | 2025-12-10 |
 | #️⃣ | [Supadata](https://supadata.ai/) | Web, Video & Social Data API for Makers | **10% OFF** with code **BF2025** for the first year. | 2025-12-01 |
 | ☁️ | [Scale to Zero AWS](https://scaletozeroaws.com) | Complete AWS serverless kit with frontend and backend. Learn to build cost-effective serverless applications that scale to zero. | 50% OFF with code **BLACKFRIDAY2025** | 2025-12-01 |
 | 🐛 | [Sentry](https://sentry.io) | Find, automatically root cause, and fix software issues before users notice. | Get **$500** in Sentry credit with code **awesome-friday** | 2025-12-01 |
