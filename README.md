@@ -180,6 +180,7 @@ It's free & open-source. Enjoy! 🚀
 | 👀 | [ChampSignal](https://champsignal.com) | ChampSignal tracks your competitors' websites, social mentions, ads, backlinks, and keywords, and sends you email alerts only when it matters. | **25% OFF** with code **BF2025** | 2025-12-01 |
 | 🤖 | [ShowUpInAI](https://showupinai.com) | Get Cited in ChatGPT and more! We push every new page to Bing, helping AI assistants cite your site. | **25% OFF** with code **BLACKFRIDAY25** | 2025-12-01 |
 | 💥 | [TranscriptionPlus](https://transcription.plus) | Advanced transcription with 99% accuracy | 50% OFF | 2025-12-05 |
+| 🎥 | [inReels.ai](https://www.inreels.ai/?utm_source=rarebigdeal) | Create videos in seconds using AI. Turn text, PDFs, or images into videos. Repurpose content for YouTube, TikTok, Reels, and more. | **50% OFF on Yearly Plans** with code **BLACKFRIDAY2025** |
 
 
 ### Lifestyle
