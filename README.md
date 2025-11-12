@@ -104,6 +104,7 @@ It's free & open-source. Enjoy! 🚀
 | 🚀 | [DevWorkspace Pro](https://devworkspacepro.com) | Easily build and manage Docker-powered web apps. | 40% OFF with code **BLACKFRIDAY40OFF** | 2025-12-10 |
 | 🖥️ | [Wins](https://wins.cool) | Mac window manager — enhances the system App Switcher with Cmd-Tab Plus, improves Dock efficiency with Dock Preview, and offers many other practical features — all designed to feel just like Apple’s built-in features. | 40% OFF with code **BLACKFRIDAY2025** | 2025-12-12 |
 | 🛠️ | [SelfDevKit](https://selfdevkit.com) | 50+ essential developer tools in one desktop app. Built with Rust, works offline, privacy-focused. | 50% OFF with code **BLACKFRIDAY2025** | 2025-12-01 |
+| ⭐️ | [DevUtils](https://devutils.com)  | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY2025** | 2025-12-01 |
 
 
 ### APIs, Tools & SaaS
