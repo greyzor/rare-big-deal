@@ -592,7 +592,8 @@ It's free & open-source. Enjoy! 🚀
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
-| ⭐ | Be the first to add a deal in this category! | | | |
+| 🧑‍🎨 | [7-Day Doodle Challenge: Learn to Draw Simple Illustrations Daily](https://doncorgi.gumroad.com/l/doodle-challenge-course/BF2025) | A fun, 7-day challenge to finally start drawing every day. No experience needed. 1 follow-along video for each day. | **70% OFF** with code **BF2025** (try the code in other courses too!) | 2025-12-05 |
+| 🕺 | [Complete Figure Drawing Course: Create Dynamic Characters](https://doncorgi.gumroad.com/l/figure-drawing/BF2025) | Complete Figure Drawing Course - Over 10 Hours Of Step by Step Videos - No experience needed. | **70% OFF** with code **BF2025** | 2025-12-01 |
 
 
 ### SEO
