@@ -213,6 +213,7 @@ const EmblaCarousel: React.FC<PropType> = ({
                 !showAutoplayProgress ? 'opacity-0' : 'opacity-100',
               )}
               ref={progressNode}
+              style={{ transform: 'translate3d(100%, 0, 0)' }}
             />
           </Button>
 
