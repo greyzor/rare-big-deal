@@ -333,7 +333,7 @@
         rgba(var(--glass-color), 0) 100%
       ),
       rgba(var(--glass-color), 0.01);
-    backdrop-filter: blur(6px);
+    /* backdrop-filter: blur(6px); */
     position: relative;
     overflow: hidden;
   }
