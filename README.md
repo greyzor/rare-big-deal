@@ -406,6 +406,7 @@ It's free & open-source. Enjoy! 🚀
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | ✉️ | [Maillayer](https://maillayer.com/) | Mailchimp alternative, self-hosted and truly yours. | **$150 off** | 2025-12-01 |
+| ✉️ | [Triggla](https://triggla.com/) | Stripe-native post-purchase and trial-rescue email automation. 60-second setup, built-in Postmark, 98%+ deliverability. | 40% off with code BLACKFRIDAY40 | 2025-11-30 |
 
 
 ### Content Creation
