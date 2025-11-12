@@ -1,5 +1,5 @@
 module.exports = {
   name: 'Best Mac Apps',
   description: "Mac apps you'll fall in love with.",
-  apps: [],
+  apps: ['Sip', 'Compresto', 'BoltAI', 'Clobbr'],
 };
