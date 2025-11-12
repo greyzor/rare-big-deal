@@ -20,6 +20,9 @@ async function main() {
 
   console.log(`[Parse App Info] 📦 Processing ${apps.length} apps...\n`);
 
+  // Track timing data for each app
+  const timingData = [];
+
   const fetchPromises = apps.map(async (app, index) => {
     const startTime = Date.now();
 
@@ -39,6 +42,13 @@ async function main() {
     }
 
     const duration = (Date.now() - startTime) / 1000;
+
+    // Store timing data for summary
+    timingData.push({
+      name: app.name,
+      duration: duration,
+      durationMs: Date.now() - startTime,
+    });
 
     if (duration > 2) {
       console.warn(
@@ -60,6 +70,24 @@ async function main() {
   console.log(`[Parse App Info]   ❌ Failed: ${failed}`);
   console.log(`[Parse App Info]   ⏱️  Total time: ${(totalElapsed / 1000).toFixed(2)}s`);
   console.log(`[Parse App Info] ========================================\n`);
+
+  // Display top 5 slowest apps
+  const slowestApps = timingData
+    .sort((a, b) => b.duration - a.duration)
+    .slice(0, 5);
+
+  if (slowestApps.length > 0) {
+    console.log(`[Parse App Info] 🐌 Top 5 Slowest Apps to Parse:`);
+    console.log(`[Parse App Info] ========================================`);
+    slowestApps.forEach((app, index) => {
+      console.log(`[Parse App Info] ${index + 1}. ${app.name}`);
+      console.log(`[Parse App Info]    ⏱️  Duration: ${app.duration.toFixed(2)}s (${app.durationMs}ms)`);
+      if (index < slowestApps.length - 1) {
+        console.log(`[Parse App Info]    ────────────────────────────────────────`);
+      }
+    });
+    console.log(`[Parse App Info] ========================================\n`);
+  }
 }
 
 main();
