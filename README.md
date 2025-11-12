@@ -81,7 +81,7 @@ It's free & open-source. Enjoy! 🚀
 - [Finance](#finance)
   - [Dashboards](#dashboards)
   - [Investment Research](#investment-research)
-  - [Tools](#tools-1)
+  - [Expense tracking](#expense-tracking)
 - [Miscellaneous](#miscellaneous)
   - [All](#all)
 
