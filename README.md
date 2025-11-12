@@ -7,8 +7,6 @@ Hi there! Feel free to submit your own deal via a [Pull Request](https://github.
 
 It's free & open-source. Enjoy! 🚀
 
-## Table of Contents
-
 - [Developer Tools](#developer-tools)
   - [macOS Apps](#macos-apps)
   - [APIs, Tools \& SaaS](#apis-tools--saas)
@@ -116,7 +114,8 @@ It's free & open-source. Enjoy! 🚀
 | 🐞 | [Telebugs](https://telebugs.com) | Self-hosted Sentry alternative for error tracking | **20% off** with discount code **BF2025** | 2025-12-01 |
 | #️⃣ | [Supadata](https://supadata.ai/) | Web, Video & Social Data API for Makers | **10% OFF** with code **BF2025** for the first year. | 2025-12-01 |
 | ☁️ | [Scale to Zero AWS](https://scaletozeroaws.com) | Complete AWS serverless kit with frontend and backend. Learn to build cost-effective serverless applications that scale to zero. | 50% OFF with code **BLACKFRIDAY2025** | 2025-12-01 |
-
+| 🐛 | [Sentry](https://sentry.io) | Find, automatically root cause, and fix software issues before users notice. | Get **$500** in Sentry credit with code **awesome-friday** | 2025-12-01 |
+| ✅ | [WishKit](https://www.wishkit.io?via=rbd) | A complete and native feedback system for your iOS and macOS App. Allow your users to submit feedback and feature requests. Collect user votes for each suggestion and identify the highest converting feature you should be focusing on implementing next. | **40% OFF** Lifetime on any plan with code **BLACKFRIDAY2025** | 2025-12-01 |
 
 ### Browser Extensions
 
@@ -197,6 +196,7 @@ It's free & open-source. Enjoy! 🚀
 | - | - | - | - | - |
 | 🏏 | [Clobbr](https://clobbr.app) | The app & CLI tool to load test your API endpoints. | **50% off** in the AppStore (already applied) | 2025-12-31 |
 | 🎨 | [Sip](https://www.sipapp.io) | The right color every time. Sip is a modern color picker that brings ease to color organization & team collaboration. | 50% OFF with code **BF25** or **CM25** | 2025-12-01 |
+| 🔍 | [Proxyman](https://proxyman.io) | Need to capture HTTPS request on your iPhone? Proxyman is what you need. Best-in-class HTTP debugging proxy for macOS. | **30% OFF** with code **BLACKFRIDAY2025** | 2025-12-01 |
 
 
 ### Productivity
@@ -212,6 +212,7 @@ It's free & open-source. Enjoy! 🚀
 | 🖊 | [Presentify](https://presentifyapp.com/) | Annotate your screen in real-time | **30% OFF** No code needed | 2025-12-01 |
 | 📝 | [Capture - Quick Notes](https://apps.apple.com/app/apple-store/id6458535284) | Easily capture your thoughts & ideas on the go and export them to your favourite apps. | **50% OFF** Lifetime plan with code BLACKFRIDAY2025 | 2025-12-02 |
 | 🖥️ | [Wins](https://wins.cool) | Mac window manager — enhances the system App Switcher with Cmd-Tab Plus, improves Dock efficiency with Dock Preview, and offers many other practical features — all designed to feel just like Apple’s built-in features. | 40% OFF with code **BLACKFRIDAY2025** | 2025-12-12 |
+| 📸 | [Xnapper](https://xnapper.com) | Take screenshots that are beautiful by default. #1 Screenshot Tool for macOS and Windows with new features including GIF recording, cloud storage, and video capture. | **30% OFF** Lifetime Premium Plan with code **BLACKFRIDAY2025** | 2025-12-01 |
 
 
 ### Design Tools
