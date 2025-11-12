@@ -9,7 +9,7 @@ It's free & open-source. Enjoy! 🚀
 
 ## Table of Contents
 
-- [Table of Contents](#table-of-contents)
+- [**Table of Contents**](#table-of-contents)
 - [Developer Tools](#developer-tools)
   - [macOS Apps](#macos-apps)
   - [APIs, Tools \& SaaS](#apis-tools--saas)
@@ -83,7 +83,6 @@ It's free & open-source. Enjoy! 🚀
   - [Investment Research](#investment-research)
 - [Miscellaneous](#miscellaneous)
   - [All](#all)
-
 --------------------------------
 
 ## Developer Tools
@@ -99,6 +98,9 @@ It's free & open-source. Enjoy! 🚀
 | 🖊 | [RewriteBar](https://rewritebar.com?ref=rarebigdeal) | RewriteBar is a macOS menu bar app that allows you to rewrite text using AI. Correct grammar, translate, adjust tone, and more. | 50% OFF with code **BF2025** | 2025-12-01 |
 | ⚡ | [Compresto](https://compresto.app/pricing?ref=rarebigdeal) | Video, Image & PDF Compression for macOS. | 40% OFF with code **BFCM25** | 2025-12-01 |
 | 🪑 | [Cozy Watch](https://www.cozywatch.com) | GitHub notifications to your desktop. Track pull requests, CI updates, and mentions instantly. Stay focused on coding while knowing exactly when your attention is needed. | $4 OFF with code **BLACKFRIDAY** | 2025-12-01 |
+| 📈 | [Reporting - Ad Network Reports](https://apps.apple.com/app/apple-store/id1559813249) | Track and monitor your daily, weekly, and monthly ad network revenue effortlessly in a single convenient location. | **50% OFF** lifetime plan. No code needed. | 2025-12-02 |
+| 🚀 | [DevWorkspace Pro](https://devworkspacepro.com) | Easily build and manage Docker-powered web apps. | 40% OFF with code **BLACKFRIDAY40OFF** | 2025-12-10 |
+| 🖥️ | [Wins](https://wins.cool) | Mac window manager — enhances the system App Switcher with Cmd-Tab Plus, improves Dock efficiency with Dock Preview, and offers many other practical features — all designed to feel just like Apple’s built-in features. | 40% OFF with code **BLACKFRIDAY2025** | 2025-12-12 |
 
 
 ### APIs, Tools & SaaS
@@ -154,6 +156,9 @@ It's free & open-source. Enjoy! 🚀
 | 🤖 | [TypingMind](https://typingmind.com/) | Personal AI workspace. Frontend for ChatGPT, Claude, Gemini to use with your API key. Support Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | 60% OFF with code **BLACKFRIDAY2025** | 2025-12-01 |
 | 🖊 | [RewriteBar](https://rewritebar.com?ref=rarebigdeal) | RewriteBar is a macOS menu bar app that allows you to rewrite text using AI. Correct grammar, translate, adjust tone, and more. | 50% OFF with code **BF2025** | 2025-12-01 |
 | 💥 | [TypeBoost](https://www.typeboost.ai) | Build your personal AI toolkit. Use anywhere you type on Mac. Write, translate, improve, explain, brainstorm... + iOS app | **60% OFF** for 6 months with code **BF2025** | 2025-12-05 |
+| 📸 | [FaceCam](https://gracehuang.gumroad.com/l/facecam/BLACKFRIDAY25) | macOS App for Recording Face In Videos | **40% OFF** with code **BLACKFRIDAY25** | 2025-12-01 |
+| 📐 | [ResizeGenius](https://gracehuang.gumroad.com/l/resizegenius/BLACKFRIDAY25) | macOS app for Effortless Batch Resizing and Editing of Images | **40% OFF** with code **BLACKFRIDAY25** | 2025-12-01 |
+| ✏️ | [Redac](https://gracehuang.gumroad.com/l/redac/BLACKFRIDAY25) | MacOS app that makes redacting text in images easier | **40% OFF** with code **BLACKFRIDAY25** | 2025-12-01 |
 
 
 ### Other
@@ -162,13 +167,18 @@ It's free & open-source. Enjoy! 🚀
 | - | - | - | - | - |
 | 🖼️ | [ThumblifyAI](https://thumblifyai.com) | Create scroll-stopping YouTube thumbnails in your own style or face with AI. | **30% OFF** with discount code **WELCOME30** | 2025-12-01 |
 | 👀 | [ChampSignal](https://champsignal.com) | ChampSignal tracks your competitors' websites, social mentions, ads, backlinks, and keywords, and sends you email alerts only when it matters. | **25% OFF** with code **BF2025** | 2025-12-01 |
+| 🤖 | [ShowUpInAI](https://showupinai.com) | Get Cited in ChatGPT and more! We push every new page to Bing, helping AI assistants cite your site. | **25% OFF** with code **BLACKFRIDAY25** | 2025-12-01 |
 
 
 ### Lifestyle
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
-| ⭐ | Be the first to add a deal in this category! | | | |
+| 💈 | [Cuts AI - Hairstyle Try On Men](https://apps.apple.com/app/apple-store/id6753205043) | The easiest way to try instant men’s haircuts and colors with a quick selfie. | **50% OFF** first week with code BLACKFRIDAY2025 | 2025-12-02 |
+| 🏡 | [Gardenly - AI Garden Design](https://apps.apple.com/app/apple-store/id6747178697) | Transform your garden instantly from one photo with AI-generated, photorealistic garden designs. | **50% OFF** first week with code BLACKFRIDAY2025 | 2025-12-02 |
+| 🥗 | [Calorific - Nutrition Tracker](https://apps.apple.com/app/apple-store/id6645043253) | Quickly capture your meals and get instant nutritional insights with AI. | **30% OFF** yearly plan with code BLACKFRIDAY2025 | 2025-12-02 |
+| 📐 | [Mathy - Math Answer Scanner](https://apps.apple.com/app/apple-store/id6746950449) | Your pocket math tutor that solves and explains equations instantly from text or a photo with AI. | **50% OFF** yearly plan with code BLACKFRIDAY2025 | 2025-12-02 |
+| 🧪 | [Chemy - AI Chemistry Answers](https://apps.apple.com/app/apple-store/id6747715456) | Your pocket chemistry tutor that solves and explains chemistry problems instantly from text or a photo wutg AI. | **50% OFF** yearly plan with code BLACKFRIDAY2025 | 2025-12-02 |
 
 
 [⬆️ All categories](#table-of-contents)
@@ -195,6 +205,8 @@ It's free & open-source. Enjoy! 🚀
 | ✨ | [TextSniper](https://textsniper.app/) | Extract text (OCR) from images/videos/PDFs, scan QR codes, and listen with text-to-speech on your Mac | 75% OFF with code **RBD2025** | 2025-12-01 |
 | 💥 | [TypeBoost](https://www.typeboost.ai) | Build your personal AI toolkit. Use anywhere you type on Mac. Write, translate, improve, explain, brainstorm... + iOS app | **60% OFF** for 6 months with code **BF2025** | 2025-12-05 |
 | 🖊 | [Presentify](https://presentifyapp.com/) | Annotate your screen in real-time | **30% OFF** No code needed | 2025-12-01 |
+| 📝 | [Capture - Quick Notes](https://apps.apple.com/app/apple-store/id6458535284) | Easily capture your thoughts & ideas on the go and export them to your favourite apps. | **50% OFF** Lifetime plan with code BLACKFRIDAY2025 | 2025-12-02 |
+| 🖥️ | [Wins](https://wins.cool) | Mac window manager — enhances the system App Switcher with Cmd-Tab Plus, improves Dock efficiency with Dock Preview, and offers many other practical features — all designed to feel just like Apple’s built-in features. | 40% OFF with code **BLACKFRIDAY2025** | 2025-12-12 |
 
 
 ### Design Tools
@@ -224,6 +236,7 @@ It's free & open-source. Enjoy! 🚀
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 🖊 | [RewriteBar](https://rewritebar.com?ref=rarebigdeal) | RewriteBar is a macOS menu bar app that allows you to rewrite text using AI. Correct grammar, translate, adjust tone, and more. | 50% OFF with code **BF2025** | 2025-12-01 |
+| 📈 | [Reporting - Ad Network Reports](https://apps.apple.com/app/apple-store/id1559813249) | Track and monitor your daily, weekly, and monthly ad network revenue effortlessly in a single convenient location. | **50% OFF** lifetime plan. No code needed. | 2025-12-02 |
 
 
 [⬆️ All categories](#table-of-contents)
@@ -246,6 +259,7 @@ It's free & open-source. Enjoy! 🚀
 | - | - | - | - | - |
 | 🖥️ | [ScreenCanvas](https://www.screencanvas.app/) | Design digital signage & message boards with custom text, images, & audio right on your Apple TV. | **50% OFF** lifetime purchase | 2025-12-01 |
 
+
 [⬆️ All categories](#table-of-contents)
 
 --------------------------------
@@ -257,6 +271,7 @@ It's free & open-source. Enjoy! 🚀
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 💥 | [TypeBoost](https://www.typeboost.ai) | Build your personal AI toolkit. Use anywhere you type on Mac. Write, translate, improve, explain, brainstorm... + iOS app | **60% OFF** for 6 months with code **BF2025** | 2025-12-05 |
+| 📝 | [Capture - Quick Notes](https://apps.apple.com/app/apple-store/id6458535284) | Easily capture your thoughts & ideas on the go and export them to your favourite apps. | **50% OFF** Lifetime plan with code BLACKFRIDAY2025 | 2025-12-02 |
 
 
 ### Productivity
@@ -264,6 +279,8 @@ It's free & open-source. Enjoy! 🚀
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 💥 | [TypeBoost](https://www.typeboost.ai) | Build your personal AI toolkit. Use anywhere you type on Mac. Write, translate, improve, explain, brainstorm... + iOS app | **60% OFF** for 6 months with code **BF2025** | 2025-12-05 |
+| 📝 | [Capture - Quick Notes](https://apps.apple.com/app/apple-store/id6458535284) | Easily capture your thoughts & ideas on the go and export them to your favourite apps. | **50% OFF** Lifetime plan with code BLACKFRIDAY2025 | 2025-12-02 |
+| 📄 | [Pify - Convert Picture to PDF](https://apps.apple.com/app/apple-store/id6748066045) | The easiest way to turn your photos and images into polished PDFs in just a few taps. | **66% OFF** Lifetime plan with code BLACKFRIDAY | 2025-12-02 |
 
 
 ### Photos & Videos
@@ -271,27 +288,32 @@ It's free & open-source. Enjoy! 🚀
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 📸 | [Once](https://once.film) | Shared disposable camera app for events—capture memories together and unlock the full gallery when the event ends. | **50% OFF** when joining the early access waitlist | 2025-12-31 |
+| 📸 | [Darkroom](https://darkroom.co) | Edit and manage your photos and videos to stand out. From quick edits to pro-level refinements. Achieve your creative vision in minutes. | **50% OFF** off your first year of our Darkroom+ membership | 2025-12-03 |
 
 
 ### Health & Fitness
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
-| ⭐ | Be the first to add a deal in this category! | | | |
+| 🥗 | [Calorific - Nutrition Tracker](https://apps.apple.com/app/apple-store/id6645043253) | Quickly capture your meals and get instant nutritional insights. | **30% OFF** yearly plan with code BLACKFRIDAY2025 | 2025-12-02 |
 
 
 ### Hobby & Lifestyle
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
-| ⭐ | Be the first to add a deal in this category! | | | |
+| 💈 | [Cuts AI - Hairstyle Try On Men](https://apps.apple.com/app/apple-store/id6753205043) | the easiest way to try instant men’s haircuts and colors with a quick selfie. | **50% OFF** first week with code BLACKFRIDAY2025 | 2025-12-02 |
+| 🏡 | [Gardenly - AI Garden Design](https://apps.apple.com/app/apple-store/id6747178697) | Transform your garden instantly from one photo with AI-generated, photorealistic garden designs. | **50% OFF** first week with code BLACKFRIDAY2025 | 2025-12-02 |
 
 
 ### Other
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
-| ⭐ | Be the first to add a deal in this category! | | | |
+| ⭐ | [Hajr – Porn Blocker + Focus](https://thehajr.com) | Quit Porn Forever with HAJR. | **50% off yearly plan via [App Store offer code-link only]**(https://apps.apple.com/redeem?ctx=offercodes&id=6753204636&code=BF2025) (includes 1-week free trial) | Nov 30 2025 |
+| 📐 | [Mathy - Math Answer Scanner](https://apps.apple.com/app/apple-store/id6746950449) | Your pocket math tutor that solves and explains equations instantly from text or a photo with AI. | **50% OFF** yearly plan with code BLACKFRIDAY2025 | 2025-12-02 |
+| 🧪 | [Chemy - AI Chemistry Answers](https://apps.apple.com/app/apple-store/id6747715456) | Your pocket chemistry tutor that solves and explains chemistry problems instantly from text or a photo wutg AI. | **50% OFF** yearly plan with code BLACKFRIDAY2025 | 2025-12-02 |
+| 📈 | [Reporting - Ad Network Reports](https://apps.apple.com/app/apple-store/id1559813249) | Track and monitor your daily, weekly, and monthly ad network revenue effortlessly in a single convenient location. | **50% OFF** lifetime plan. No code needed. | 2025-12-02 |
 
 
 [⬆️ All categories](#table-of-contents)
@@ -312,8 +334,8 @@ It's free & open-source. Enjoy! 🚀
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 🖼️ | [ThumblifyAI](https://thumblifyai.com) | Create scroll-stopping YouTube thumbnails in your own style or face with AI. | **30% OFF** with discount code **WELCOME30** | 2025-12-01 |
+| 🏡 | [Gardenly - AI Garden Design](https://apps.apple.com/app/apple-store/id6747178697) | Transform your garden instantly from one photo with AI-generated, photorealistic garden designs. | **50% OFF** first week with code BLACKFRIDAY2025 | 2025-12-02 |
 | 🖼️ | [Infography](https://infography.in) | Turn your blogs into stunning, shareable infographics. | **Black Friday Lifetime Deals** starts at **$49** | 2025-12-01 |
-
 
 
 ### Video Tools
@@ -341,6 +363,8 @@ It's free & open-source. Enjoy! 🚀
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 💥 | [TypeBoost](https://www.typeboost.ai) | Build your personal AI toolkit. Use anywhere you type on Mac. Write, translate, improve, explain, brainstorm... + iOS app | **60% OFF** for 6 months with code **BF2025** | 2025-12-05 |
+| 📝 | [Capture - Quick Notes](https://apps.apple.com/app/apple-store/id6458535284) | Easily capture your thoughts & ideas on the go and export them to your favourite apps. | **50% OFF** Lifetime plan with code BLACKFRIDAY2025 | 2025-12-02 |
+| 📄 | [Pify - Convert Picture to PDF](https://apps.apple.com/app/apple-store/id6748066045) | The easiest way to turn your photos and images into polished PDFs in just a few taps. | **66% OFF** Lifetime plan with code BLACKFRIDAY | 2025-12-02 |
 
 
 ### Marketing
@@ -370,6 +394,7 @@ It's free & open-source. Enjoy! 🚀
 | 🟪 | [PostFlow](https://postflow.app?ref=rare-big-deal) | Social media scheduler and platform to manage ALL your social media content. One click, all platforms, hours saved. | **30% OFF (LIFETIME)** with code **BF2025** | 2025-12-01 |
 | 🔄 | [PostSyncer](https://postsyncer.com) | Sync and schedule your social media posts across multiple platforms. Features AI-powered content creation with Veo 3, Sora 2, Nano Banana, and other image and video models. | **20% OFF** for a year with discount code **RAREBIGDEAL** | 2025-12-31 |
 | 📢 | [SocialRails](https://socialrails.com) | Create content, post everywhere. Schedule to 9 social platforms and create content with built-in AI tools. | 20% OFF forever with code:  **AI20** | 2029-01-01 |
+| 📸 | [PostCapture](https://postcapture.com) | Turn any social post into a beautiful, professional image! | **30% OFF** with code **BLACKFRIDAY25** | 2025-12-01 |
 
 
 ### Email Marketing
@@ -401,7 +426,7 @@ It's free & open-source. Enjoy! 🚀
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | ⭐ | [Subreddit Traffic Tracker](https://subreddittraffic.live/) | Reach maximum Reddit traffic by finding the best times to post. Track 400+ subreddits activity and optimize your posting schedule to increase your brand awareness and traffic. | 30% OFF on all plans with code **BLACKFRIDAY2025** | |
-
+| 📈 | [Reporting - Ad Network Reports](https://apps.apple.com/app/apple-store/id1559813249) | Track and monitor your daily, weekly, and monthly ad network revenue effortlessly in a single convenient location. | **50% OFF** lifetime plan. No code needed. | 2025-12-02 |
 
 ### Website Builders
 
@@ -414,7 +439,7 @@ It's free & open-source. Enjoy! 🚀
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
-| ⭐ | Be the first to add a deal in this category! | | | |
+| 🌐 | [BorderPrep](https://borderprep.com) | Arrive Ready for Any Country | **50% OFF** product feature | 2025-12-01 |
 
 
 ### Other
@@ -422,6 +447,7 @@ It's free & open-source. Enjoy! 🚀
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 📊 | [Branding5](https://branding5.com)| Define your brand and optimize your marketing strategy in just minutes with AI| **50% OFF** with code **BLACKFRIDAY** | 2025-12-01 |
+| 🔗 | [LinkNest](https://linknest.sh) | Create a professional link-in-bio page with unlimited links, custom domains, and advanced analytics | **90% OFF** with code **SAVE90** | 2025-12-01 |
 
 
 [⬆️ All categories](#table-of-contents)
@@ -434,7 +460,7 @@ It's free & open-source. Enjoy! 🚀
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
-| ⭐ | Be the first to add a deal in this category! | | | |
+| 🐶 | [BacklinkDog](https://backlinkdog.com)| Stop losing SEO juice from removed or changed backlinks. We monitor your backlinks and alert you when they change.| **50% OFF** with code **BLACKFRIDAY50** | 2025-12-01 |
 
 
 ### Tools
@@ -548,6 +574,7 @@ It's free & open-source. Enjoy! 🚀
 | - | - | - | - | - |
 | 💰 | [Get Your First Client as a Freelancer](https://getyourfirstclient.freelancerpath.com/) | A complete step by step guide to get your first client as a freelancer from scratch. | **50% off** with discount code **BLACK** | 2025-12-01 |
 | 👨🏻‍💻 | [LabEx](https://labex.io/learn) | Learn Linux, DevOps & Cybersecurity with Hands-on Labs | [50% OFF for Two Years](https://labex.io/checkout?type=4&coupon=2025BF50) (Coupon: 2025BF50) and [30% OFF for One Year](https://labex.io/checkout?type=2&coupon=2025BF30) (Coupon: 2025BF30) | 2025-12-01 |
+| 🧑‍💻 | [Apple Developer Starter Pack](https://gracehuang.gumroad.com/l/bundle-ios-macos-development/BLACKFRIDAY25) | Books & Course for Swift, SwiftUI and macOS | **40% OFF** with code **BLACKFRIDAY25** | 2025-12-01 |
 
 
 ### Art Courses
@@ -569,7 +596,10 @@ It's free & open-source. Enjoy! 🚀
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 💰 | [Tracking Personal Finances using Python](https://personalfinancespython.com) | Learn double-entry bookkeeping with Python. Build a plaintext accounting system using Beancount in this comprehensive book for software developers. | **20% off** with discount code **BFCM2025** | 2025-12-31 |
-
+| 📚 | [The Swift Codebook](https://gracehuang.gumroad.com/l/swift-codebook/BLACKFRIDAY25) | A Beginner's Guide from Basics to Best Practices | **40% OFF** with code **BLACKFRIDAY25** | 2025-12-01 |
+| 3️⃣ | [Dynamic Trio](https://gracehuang.gumroad.com/l/dynamic-trio/BLACKFRIDAY25) | Building Web Applications with React, Next.js & Tailwind | **40% OFF** with code **BLACKFRIDAY25** | 2025-12-01 |
+| 😊 | [The Math Behind Retiring Early](https://gracehuang.gumroad.com/l/math-behind-retiring-early/BLACKFRIDAY25) | How to Build, Backtest, and Manage a Financial Independence Portfolio | **40% OFF** with code **BLACKFRIDAY25** | 2025-12-01 |
+| 💻 | [The SwiftUI Way](https://gracehuang.gumroad.com/l/macos-app-dev-swiftui/BLACKFRIDAY25) | macOS App Development using SwiftUI | **40% OFF** with code **BLACKFRIDAY25** | 2025-12-01 |
 
 [⬆️ All categories](#table-of-contents)
 
@@ -582,7 +612,7 @@ It's free & open-source. Enjoy! 🚀
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | ⭐ | Be the first to add a deal in this category! | | | |
-
+| 🥗 | [Calorific - Nutrition Tracker](https://apps.apple.com/app/apple-store/id6645043253) | Quickly capture your meals and get instant nutritional insights. | **30% OFF** yearly plan with code BLACKFRIDAY2025 | 2025-12-02 |
 
 [⬆️ All categories](#table-of-contents)
 
@@ -596,7 +626,7 @@ It's free & open-source. Enjoy! 🚀
 | - | - | - | - | - |
 | 💰 | [Gumtrends](https://gumtrends.com) | Get access to a growing dataset of 200k+ Gumroad products complete with estimated revenue. Spot opportunities by finding profitable items. | **30% OFF** on lifetime access with code **BF2025**| 2025-12-05 |
 | 💰 | [Side Projects Making $$$+](https://niftydigits.gumroad.com/l/side-projects/BF2025) | A complete collection of notion databases detailing every side project making real money posted to Hacker News threads from 2014-2024. | **30% OFF** on lifetime access with code **BF2025** | 2025-12-05 |
-
+| 💰 | [Know Your Numbers](https://gracehuang.gumroad.com/l/networth/BLACKFRIDAY25) | Personal & Family Net Worth Tracker. | **40% OFF** with code **BLACKFRIDAY25** | 2025-12-01 |
 
 ### Investment Research
 
@@ -617,6 +647,7 @@ It's free & open-source. Enjoy! 🚀
 | 📅 | [ShiftApp](https://shiftapp.com/black-friday) | Smart, simple staff scheduling. Build rosters, manage shifts, and notify staff in seconds. | **70% OFF** for **6 MONTHS** | 2025-12-05 |
 | ⭐ | [OneManDB](https://OneManDB.com) | A database of 1000+ founders making $10k–$100k/month. Get validated ideas and Strategies | **30% OFF** with code **RAREBIGDEAL** | 2025-12-01 |
 | 💬 | [Ticketping](https://ticketping.com/) | Customer Support straight from Slack | 3 months **FREE** and **50% OFF** for next 6 months | 2025-12-31 |
+| 🔐 | [Eternal Vault](https://eternalvault.app) | Secure bridge between your life and your loved ones | **20% OFF** on all plans (incl lifetime) using code **RAREBIGDEAL** | 2025-12-31 |
 
 
 [⬆️ All categories](#table-of-contents)
