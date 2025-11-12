@@ -142,7 +142,7 @@ const EmblaCarousel: React.FC<PropType> = ({
                     height={1600}
                     src={app.images?.[0]}
                     alt={app.title}
-                    className="w-full h-auto rounded-xl max-h-[650px]"
+                    className="w-full h-auto rounded-xl max-h-[250px] md:max-h-[450px] lg:max-h-[650px]"
                   />
 
                   <div className="flex flex-col items-center justify-center -mt-8">
