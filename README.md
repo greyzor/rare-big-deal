@@ -347,7 +347,7 @@ It's free & open-source. Enjoy! 🚀
 | 🖼️ | [ThumblifyAI](https://thumblifyai.com) | Create scroll-stopping YouTube thumbnails in your own style or face with AI. | **30% OFF** with discount code **WELCOME30** | 2025-12-01 |
 | 🏡 | [Gardenly - AI Garden Design](https://apps.apple.com/app/apple-store/id6747178697) | Transform your garden instantly from one photo with AI-generated, photorealistic garden designs. | **50% OFF** first week with code BLACKFRIDAY | 2025-12-02 |
 | 🖼️ | [Infography](https://infography.in) | Turn your blogs into stunning, shareable infographics. | **Black Friday Lifetime Deals** starts at **$49** | 2025-12-01 |
-
+| 🎨 | [IconSprint](https://iconsprint.com) | Create iOS and Android app icons with dark mode, tinted, and mono variants in one click. | **40% OFF** with code **BF2025** | 2025-12-02 |
 
 ### Video Tools
 
