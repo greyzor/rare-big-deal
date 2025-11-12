@@ -431,7 +431,7 @@ It's free & open-source. Enjoy! 🚀
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
-| ⭐ | Be the first to add a deal in this category! | | | |
+| 🌐 | [BorderPrep](https://borderprep.com) | Arrive Ready for Any Country | **50% OFF** product feature | 2025-12-01 |
 
 
 ### Other
