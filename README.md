@@ -364,6 +364,7 @@ It's free & open-source. Enjoy! 🚀
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 🎬 | [Recut](https://getrecut.com) | Save time on audio and video editing! It cuts out the pauses automatically, better than AI tools | **$50 OFF** one-time purchase | 2025-12-01 |
+| 🎥 | [TranslateMom](https://translate.mom/) | Instantly caption, translate, or dub HD videos in 100+ languages with natural voices, GPT-4o dubbing, and priority exports (2,000 min/mo, 29 languages, 30-day storage). | **70% OFF** Annual Pro Plan — $159 (reg. $528) with code **BLACK** | 2025-12-02 |
 
 
 ### Social
