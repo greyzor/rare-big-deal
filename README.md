@@ -143,6 +143,8 @@ It's free & open-source. Enjoy! 🚀
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 📃 | [Page AI](https://pageai.pro) | The website generator that designs and writes clean code. | **50% OFF** with discount code **BF2025** | 2025-12-01 |
+| ⚡ | [BoltAI](https://boltai.com/buy?via=rarebigdeal) | All AI models in one native app — ultra-fast, 100+ pro features. | 50% OFF with code **BFCM25** | 2025-12-01 |
+| ⚡ | [PDF Pals](https://pdfpals.com/buy?via=rarebigdeal) | Instantly chat with any PDF on your Mac. Native, fast and respect your privacy. | 50% OFF with code **BFCM25** | 2025-12-01 |
 
 
 ### Productivity
@@ -284,14 +286,12 @@ It's free & open-source. Enjoy! 🚀
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
-| ⭐ | Be the first to add a deal in this category! | | | |
 | 🥗 | [Calorific - Nutrition Tracker](https://apps.apple.com/app/apple-store/id6645043253) | Quickly capture your meals and get instant nutritional insights. | **30% OFF** yearly plan with code BLACKFRIDAY2025 | 2025-12-02 |
 
 ### Hobby & Lifestyle
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
-| ⭐ | Be the first to add a deal in this category! | | | |
 | 💈 | [Cuts AI - Hairstyle Try On Men](https://apps.apple.com/app/apple-store/id6753205043) | the easiest way to try instant men’s haircuts and colors with a quick selfie. | **50% OFF** first week with code BLACKFRIDAY2025 | 2025-12-02 |
 | 🏡 | [Gardenly - AI Garden Design](https://apps.apple.com/app/apple-store/id6747178697) | Transform your garden instantly from one photo with AI-generated, photorealistic garden designs. | **50% OFF** first week with code BLACKFRIDAY2025 | 2025-12-02 |
 
@@ -299,10 +299,11 @@ It's free & open-source. Enjoy! 🚀
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
-| ⭐ | Be the first to add a deal in this category! | | | |
+| ⭐ | [Hajr – Porn Blocker + Focus](https://thehajr.com) | Quit Porn Forever with HAJR. | **50% off yearly plan via [App Store offer code-link only]**(https://apps.apple.com/redeem?ctx=offercodes&id=6753204636&code=BF2025) (includes 1-week free trial) | Nov 30 2025 |
 | 📐 | [Mathy - Math Answer Scanner](https://apps.apple.com/app/apple-store/id6746950449) | Your pocket math tutor that solves and explains equations instantly from text or a photo with AI. | **50% OFF** yearly plan with code BLACKFRIDAY2025 | 2025-12-02 |
 | 🧪 | [Chemy - AI Chemistry Answers](https://apps.apple.com/app/apple-store/id6747715456) | Your pocket chemistry tutor that solves and explains chemistry problems instantly from text or a photo wutg AI. | **50% OFF** yearly plan with code BLACKFRIDAY2025 | 2025-12-02 |
 | 📈 | [Reporting - Ad Network Reports](https://apps.apple.com/app/apple-store/id1559813249) | Track and monitor your daily, weekly, and monthly ad network revenue effortlessly in a single convenient location. | **50% OFF** lifetime plan. No code needed. | 2025-12-02 |
+
 
 [⬆️ All categories](#table-of-contents)
 
@@ -555,7 +556,7 @@ It's free & open-source. Enjoy! 🚀
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 💰 | [Get Your First Client as a Freelancer](https://getyourfirstclient.freelancerpath.com/) | A complete step by step guide to get your first client as a freelancer from scratch. | **50% off** with discount code **BLACK** | 2025-12-01 |
-| 👨🏻‍💻 | [**LabEx**](https://labex.io/learn) | Learn Linux, DevOps & Cybersecurity with Hands-on Labs | [50% OFF for Two Years](https://labex.io/checkout?type=4&coupon=2025BF50) (Coupon: 2025BF50) and [30% OFF for One Year](https://labex.io/checkout?type=2&coupon=2025BF30) (Coupon: 2025BF30) | 2025-12-01 |
+| 👨🏻‍💻 | [LabEx](https://labex.io/learn) | Learn Linux, DevOps & Cybersecurity with Hands-on Labs | [50% OFF for Two Years](https://labex.io/checkout?type=4&coupon=2025BF50) (Coupon: 2025BF50) and [30% OFF for One Year](https://labex.io/checkout?type=2&coupon=2025BF30) (Coupon: 2025BF30) | 2025-12-01 |
 
 
 ### Art Courses
