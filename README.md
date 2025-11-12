@@ -81,6 +81,7 @@ It's free & open-source. Enjoy! 🚀
 - [Finance](#finance)
   - [Dashboards](#dashboards)
   - [Investment Research](#investment-research)
+  - [Expense tracking](#expense-tracking)
 - [Miscellaneous](#miscellaneous)
   - [All](#all)
 --------------------------------
@@ -644,6 +645,13 @@ It's free & open-source. Enjoy! 🚀
 | 💰 | [Wall St. Rank](https://www.wallstrank.com) | Piggyback off insights from the world's best hedge funds and research analysts. | **50% OFF** Yearly plan with code **RBD2025**| 2025-12-31 |
 
 
+### Expense tracking
+
+| | Name | Description | Deal | Expires on date |
+| - | - | - | - | - |
+| 💰 | [Amounthly](https://www.amounthly.com/) | Easily track and manage all your recurring payments in one place | **50% OFF** on lifetime access with code **BF2025** | 2025-12-31 |
+
+
 [⬆️ All categories](#table-of-contents)
 
 --------------------------------
@@ -651,6 +659,7 @@ It's free & open-source. Enjoy! 🚀
 ## Miscellaneous
 
 ### All
+
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 📅 | [ShiftApp](https://shiftapp.com/black-friday) | Smart, simple staff scheduling. Build rosters, manage shifts, and notify staff in seconds. | **70% OFF** for **6 MONTHS** | 2025-12-05 |
