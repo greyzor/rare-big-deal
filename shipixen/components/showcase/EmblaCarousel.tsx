@@ -37,7 +37,7 @@ const EmblaCarousel: React.FC<PropType> = ({
   const progressNode = useRef<HTMLDivElement>(null);
   const [currentIndex, setCurrentIndex] = useState(0);
   const pathname = usePathname();
-  const isCategoryPage = pathname?.includes('/categories') ?? false;
+  const isCategoryPage = (pathname?.includes('/categories') || pathname?.includes('/handpicked-deals')) ?? false;
 
   const { showAutoplayProgress } = useAutoplayProgress(api, progressNode);
 

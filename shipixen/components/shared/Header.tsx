@@ -19,7 +19,7 @@ const Header = ({
   return (
     <div
       className={cn(
-        'bg-gray-300/60 dark:bg-gray-900 w-full flex items-center justify-center',
+        'bg-gray-200/60 dark:bg-gray-900 w-full flex items-center justify-center',
         containerClassName,
       )}
     >

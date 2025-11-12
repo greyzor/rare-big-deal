@@ -43,7 +43,7 @@ export const Showcase = ({
   return (
     <div
       className={cn(
-        'flex flex-col max-w-4xl 2xl:max-w-7xl w-full bg-gray-300/60 dark:bg-gray-900 rounded-xl py-6',
+        'flex flex-col max-w-4xl 2xl:max-w-7xl w-full bg-gray-200/60 dark:bg-gray-900 rounded-xl py-6',
         className,
       )}
     >
@@ -63,7 +63,7 @@ export const Showcase = ({
           <hr className="border-gray-500/50 my-10 w-8 p-0 self-center" />
           <p className="text-center px-4 mb-6 text-sm text-gray-500/90">{allAppsDescription}</p>
 
-         <ul className="grid 2xl:grid-cols-2 gap-4 px-6">
+         <ul className="grid grid-cols-1 gap-4 px-6">
           {apps.map((post) => (
             <PostItem key={post.slug} post={post} showImage={true} />
           ))}

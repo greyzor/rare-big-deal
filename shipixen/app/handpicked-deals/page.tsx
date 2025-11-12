@@ -62,7 +62,7 @@ export default async function AllBundles() {
           </p>
         }
         textPosition="center"
-        className="relative bg-gray-300/60 dark:bg-gray-900"
+        className="relative bg-gray-200/60 dark:bg-gray-900"
       >
         <div className="flex flex-col items-center justify-center">
           <div className="flex flex-wrap justify-center gap-2">
@@ -87,7 +87,7 @@ export default async function AllBundles() {
         </div>
       </LandingPrimaryTextCtaSection>
 
-      <section className="max-w-2xl 2xl:max-w-6xl w-full mb-12">
+      <section className="max-w-3xl 2xl:max-w-3xl w-full mb-12">
         <Showcase
           key={'best-apps'}
           className="mt-8"
