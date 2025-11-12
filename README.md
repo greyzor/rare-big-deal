@@ -179,11 +179,11 @@ It's free & open-source. Enjoy! 🚀
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
-| 💈 | [Cuts AI - Hairstyle Try On Men](https://apps.apple.com/app/apple-store/id6753205043) | The easiest way to try instant men’s haircuts and colors with a quick selfie. | **50% OFF** first week with code BLACKFRIDAY2025 | 2025-12-02 |
-| 🏡 | [Gardenly - AI Garden Design](https://apps.apple.com/app/apple-store/id6747178697) | Transform your garden instantly from one photo with AI-generated, photorealistic garden designs. | **50% OFF** first week with code BLACKFRIDAY2025 | 2025-12-02 |
-| 🥗 | [Calorific - Nutrition Tracker](https://apps.apple.com/app/apple-store/id6645043253) | Quickly capture your meals and get instant nutritional insights with AI. | **30% OFF** yearly plan with code BLACKFRIDAY2025 | 2025-12-02 |
-| 📐 | [Mathy - Math Answer Scanner](https://apps.apple.com/app/apple-store/id6746950449) | Your pocket math tutor that solves and explains equations instantly from text or a photo with AI. | **50% OFF** yearly plan with code BLACKFRIDAY2025 | 2025-12-02 |
-| 🧪 | [Chemy - AI Chemistry Answers](https://apps.apple.com/app/apple-store/id6747715456) | Your pocket chemistry tutor that solves and explains chemistry problems instantly from text or a photo wutg AI. | **50% OFF** yearly plan with code BLACKFRIDAY2025 | 2025-12-02 |
+| 💈 | [Cuts AI - Hairstyle Try On Men](https://apps.apple.com/app/apple-store/id6753205043) | The easiest way to try instant men’s haircuts and colors with a quick selfie. | **50% OFF** first week with code BLACKFRIDAY | 2025-12-02 |
+| 🏡 | [Gardenly - AI Garden Design](https://apps.apple.com/app/apple-store/id6747178697) | Transform your garden instantly from one photo with AI-generated, photorealistic garden designs. | **50% OFF** first week with code BLACKFRIDAY | 2025-12-02 |
+| 🥗 | [Calorific - Nutrition Tracker](https://apps.apple.com/app/apple-store/id6645043253) | Quickly capture your meals and get instant nutritional insights with AI. | **30% OFF** yearly plan with code BLACKFRIDAY | 2025-12-02 |
+| 📐 | [Mathy - Math Answer Scanner](https://apps.apple.com/app/apple-store/id6746950449) | Your pocket math tutor that solves and explains equations instantly from text or a photo with AI. | **50% OFF** yearly plan with code BLACKFRIDAY | 2025-12-02 |
+| 🧪 | [Chemy - AI Chemistry Answers](https://apps.apple.com/app/apple-store/id6747715456) | Your pocket chemistry tutor that solves and explains chemistry problems instantly from text or a photo wutg AI. | **50% OFF** yearly plan with code BLACKFRIDAY | 2025-12-02 |
 
 
 [⬆️ All categories](#table-of-contents)
@@ -211,7 +211,7 @@ It's free & open-source. Enjoy! 🚀
 | ✨ | [TextSniper](https://textsniper.app/) | Extract text (OCR) from images/videos/PDFs, scan QR codes, and listen with text-to-speech on your Mac | 75% OFF with code **RBD2025** | 2025-12-01 |
 | 💥 | [TypeBoost](https://www.typeboost.ai) | Build your personal AI toolkit. Use anywhere you type on Mac. Write, translate, improve, explain, brainstorm... + iOS app | **60% OFF** for 6 months with code **BF2025** | 2025-12-05 |
 | 🖊 | [Presentify](https://presentifyapp.com/) | Annotate your screen in real-time | **30% OFF** No code needed | 2025-12-01 |
-| 📝 | [Capture - Quick Notes](https://apps.apple.com/app/apple-store/id6458535284) | Easily capture your thoughts & ideas on the go and export them to your favourite apps. | **50% OFF** Lifetime plan with code BLACKFRIDAY2025 | 2025-12-02 |
+| 📝 | [Capture - Quick Notes](https://apps.apple.com/app/apple-store/id6458535284) | Easily capture your thoughts & ideas on the go and export them to your favourite apps. | **50% OFF** Lifetime plan with code BLACKFRIDAY | 2025-12-02 |
 | 🖥️ | [Wins](https://wins.cool) | Mac window manager — enhances the system App Switcher with Cmd-Tab Plus, improves Dock efficiency with Dock Preview, and offers many other practical features — all designed to feel just like Apple’s built-in features. | 40% OFF with code **BLACKFRIDAY2025** | 2025-12-12 |
 
 
@@ -278,7 +278,7 @@ It's free & open-source. Enjoy! 🚀
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 💥 | [TypeBoost](https://www.typeboost.ai) | Build your personal AI toolkit. Use anywhere you type on Mac. Write, translate, improve, explain, brainstorm... + iOS app | **60% OFF** for 6 months with code **BF2025** | 2025-12-05 |
-| 📝 | [Capture - Quick Notes](https://apps.apple.com/app/apple-store/id6458535284) | Easily capture your thoughts & ideas on the go and export them to your favourite apps. | **50% OFF** Lifetime plan with code BLACKFRIDAY2025 | 2025-12-02 |
+| 📝 | [Capture - Quick Notes](https://apps.apple.com/app/apple-store/id6458535284) | Easily capture your thoughts & ideas on the go and export them to your favourite apps. | **50% OFF** Lifetime plan with code BLACKFRIDAY | 2025-12-02 |
 
 
 ### Productivity
@@ -286,7 +286,7 @@ It's free & open-source. Enjoy! 🚀
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 💥 | [TypeBoost](https://www.typeboost.ai) | Build your personal AI toolkit. Use anywhere you type on Mac. Write, translate, improve, explain, brainstorm... + iOS app | **60% OFF** for 6 months with code **BF2025** | 2025-12-05 |
-| 📝 | [Capture - Quick Notes](https://apps.apple.com/app/apple-store/id6458535284) | Easily capture your thoughts & ideas on the go and export them to your favourite apps. | **50% OFF** Lifetime plan with code BLACKFRIDAY2025 | 2025-12-02 |
+| 📝 | [Capture - Quick Notes](https://apps.apple.com/app/apple-store/id6458535284) | Easily capture your thoughts & ideas on the go and export them to your favourite apps. | **50% OFF** Lifetime plan with code BLACKFRIDAY | 2025-12-02 |
 | 📄 | [Pify - Convert Picture to PDF](https://apps.apple.com/app/apple-store/id6748066045) | The easiest way to turn your photos and images into polished PDFs in just a few taps. | **66% OFF** Lifetime plan with code BLACKFRIDAY | 2025-12-02 |
 
 
@@ -302,15 +302,15 @@ It's free & open-source. Enjoy! 🚀
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
-| 🥗 | [Calorific - Nutrition Tracker](https://apps.apple.com/app/apple-store/id6645043253) | Quickly capture your meals and get instant nutritional insights. | **30% OFF** yearly plan with code BLACKFRIDAY2025 | 2025-12-02 |
+| 🥗 | [Calorific - Nutrition Tracker](https://apps.apple.com/app/apple-store/id6645043253) | Quickly capture your meals and get instant nutritional insights. | **30% OFF** yearly plan with code BLACKFRIDAY | 2025-12-02 |
 
 
 ### Hobby & Lifestyle
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
-| 💈 | [Cuts AI - Hairstyle Try On Men](https://apps.apple.com/app/apple-store/id6753205043) | the easiest way to try instant men’s haircuts and colors with a quick selfie. | **50% OFF** first week with code BLACKFRIDAY2025 | 2025-12-02 |
-| 🏡 | [Gardenly - AI Garden Design](https://apps.apple.com/app/apple-store/id6747178697) | Transform your garden instantly from one photo with AI-generated, photorealistic garden designs. | **50% OFF** first week with code BLACKFRIDAY2025 | 2025-12-02 |
+| 💈 | [Cuts AI - Hairstyle Try On Men](https://apps.apple.com/app/apple-store/id6753205043) | the easiest way to try instant men’s haircuts and colors with a quick selfie. | **50% OFF** first week with code BLACKFRIDAY | 2025-12-02 |
+| 🏡 | [Gardenly - AI Garden Design](https://apps.apple.com/app/apple-store/id6747178697) | Transform your garden instantly from one photo with AI-generated, photorealistic garden designs. | **50% OFF** first week with code BLACKFRIDAY | 2025-12-02 |
 
 
 ### Other
@@ -318,8 +318,8 @@ It's free & open-source. Enjoy! 🚀
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | ⭐ | [Hajr – Porn Blocker + Focus](https://thehajr.com) | Quit Porn Forever with HAJR. | **50% off yearly plan via [App Store offer link only](https://apps.apple.com/redeem?ctx=offercodes&id=6753204636&code=BF2025) | Nov 30 2025 |
-| 📐 | [Mathy - Math Answer Scanner](https://apps.apple.com/app/apple-store/id6746950449) | Your pocket math tutor that solves and explains equations instantly from text or a photo with AI. | **50% OFF** yearly plan with code BLACKFRIDAY2025 | 2025-12-02 |
-| 🧪 | [Chemy - AI Chemistry Answers](https://apps.apple.com/app/apple-store/id6747715456) | Your pocket chemistry tutor that solves and explains chemistry problems instantly from text or a photo wutg AI. | **50% OFF** yearly plan with code BLACKFRIDAY2025 | 2025-12-02 |
+| 📐 | [Mathy - Math Answer Scanner](https://apps.apple.com/app/apple-store/id6746950449) | Your pocket math tutor that solves and explains equations instantly from text or a photo with AI. | **50% OFF** yearly plan with code BLACKFRIDAY | 2025-12-02 |
+| 🧪 | [Chemy - AI Chemistry Answers](https://apps.apple.com/app/apple-store/id6747715456) | Your pocket chemistry tutor that solves and explains chemistry problems instantly from text or a photo wutg AI. | **50% OFF** yearly plan with code BLACKFRIDAY | 2025-12-02 |
 | 📈 | [Reporting - Ad Network Reports](https://apps.apple.com/app/apple-store/id1559813249) | Track and monitor your daily, weekly, and monthly ad network revenue effortlessly in a single convenient location. | **50% OFF** lifetime plan. No code needed. | 2025-12-02 |
 
 
@@ -341,7 +341,7 @@ It's free & open-source. Enjoy! 🚀
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 🖼️ | [ThumblifyAI](https://thumblifyai.com) | Create scroll-stopping YouTube thumbnails in your own style or face with AI. | **30% OFF** with discount code **WELCOME30** | 2025-12-01 |
-| 🏡 | [Gardenly - AI Garden Design](https://apps.apple.com/app/apple-store/id6747178697) | Transform your garden instantly from one photo with AI-generated, photorealistic garden designs. | **50% OFF** first week with code BLACKFRIDAY2025 | 2025-12-02 |
+| 🏡 | [Gardenly - AI Garden Design](https://apps.apple.com/app/apple-store/id6747178697) | Transform your garden instantly from one photo with AI-generated, photorealistic garden designs. | **50% OFF** first week with code BLACKFRIDAY | 2025-12-02 |
 | 🖼️ | [Infography](https://infography.in) | Turn your blogs into stunning, shareable infographics. | **Black Friday Lifetime Deals** starts at **$49** | 2025-12-01 |
 
 
@@ -370,7 +370,7 @@ It's free & open-source. Enjoy! 🚀
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 💥 | [TypeBoost](https://www.typeboost.ai) | Build your personal AI toolkit. Use anywhere you type on Mac. Write, translate, improve, explain, brainstorm... + iOS app | **60% OFF** for 6 months with code **BF2025** | 2025-12-05 |
-| 📝 | [Capture - Quick Notes](https://apps.apple.com/app/apple-store/id6458535284) | Easily capture your thoughts & ideas on the go and export them to your favourite apps. | **50% OFF** Lifetime plan with code BLACKFRIDAY2025 | 2025-12-02 |
+| 📝 | [Capture - Quick Notes](https://apps.apple.com/app/apple-store/id6458535284) | Easily capture your thoughts & ideas on the go and export them to your favourite apps. | **50% OFF** Lifetime plan with code BLACKFRIDAY | 2025-12-02 |
 | 📄 | [Pify - Convert Picture to PDF](https://apps.apple.com/app/apple-store/id6748066045) | The easiest way to turn your photos and images into polished PDFs in just a few taps. | **66% OFF** Lifetime plan with code BLACKFRIDAY | 2025-12-02 |
 
 
@@ -628,7 +628,7 @@ It's free & open-source. Enjoy! 🚀
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | ⭐ | Be the first to add a deal in this category! | | | |
-| 🥗 | [Calorific - Nutrition Tracker](https://apps.apple.com/app/apple-store/id6645043253) | Quickly capture your meals and get instant nutritional insights. | **30% OFF** yearly plan with code BLACKFRIDAY2025 | 2025-12-02 |
+| 🥗 | [Calorific - Nutrition Tracker](https://apps.apple.com/app/apple-store/id6645043253) | Quickly capture your meals and get instant nutritional insights. | **30% OFF** yearly plan with code BLACKFRIDAY | 2025-12-02 |
 
 [⬆️ All categories](#table-of-contents)
 
