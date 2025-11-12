@@ -9,7 +9,6 @@ It's free & open-source. Enjoy! 🚀
 
 ## Table of Contents
 
-- [**Table of Contents**](#table-of-contents)
 - [Developer Tools](#developer-tools)
   - [macOS Apps](#macos-apps)
   - [APIs, Tools \& SaaS](#apis-tools--saas)
