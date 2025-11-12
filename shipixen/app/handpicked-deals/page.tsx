@@ -6,6 +6,7 @@ import { Showcase } from '@/components/showcase/Showcase';
 import { picksIndex } from '@/data/picks/index';
 import stats from '@/data/stats';
 import Link from 'next/link';
+import bestApps from '@/data/picks/best-apps';
 
 const avatars = [
   {
@@ -39,12 +40,13 @@ const loadBundles = () => {
     picksIndex.map(async (bundleName) => {
       const m = await import(`@/data/picks/${bundleName}`);
       return m.default;
-    }),
+    })
   );
 };
 
 export default async function AllBundles() {
   const bundles = await loadBundles();
+  const filteredBundles = bundles.filter((bundle) => bundle.name !== 'Best Apps');
   const users = stats.contributors || 0;
 
   return (
@@ -85,13 +87,22 @@ export default async function AllBundles() {
         </div>
       </LandingPrimaryTextCtaSection>
 
-      <section className="max-w-2xl 2xl:max-w-6xl w-full">
-        {bundles.map((bundle, index) => (
+      <section className="max-w-2xl 2xl:max-w-6xl w-full mb-12">
+        <Showcase
+          key={'best-apps'}
+          className="mt-8"
+          bundle={bestApps}
+          autoplayOnHover
+          showAppList={true}
+        />
+
+        {filteredBundles.map((bundle, index) => (
           <Showcase
             key={index}
             className="mt-8"
             bundle={bundle}
             autoplayOnHover
+            showAppList={true}
           />
         ))}
       </section>

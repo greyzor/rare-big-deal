@@ -7,6 +7,7 @@ import { slug } from 'github-slugger';
 import './css/embla.css';
 import { CoreContent } from '@shipixen/pliny/utils/contentlayer';
 import { cn } from '@/lib/utils';
+import { PostItem } from '@/components/blog/home/PostItem';
 
 const OPTIONS: EmblaOptionsType = { loop: true };
 
@@ -14,6 +15,8 @@ export const Showcase = ({
   className,
   bundle,
   autoplayOnHover = false,
+  showAppList = false,
+  allAppsDescription = 'All handpicked apps in this category',
 }: {
   className?: string;
   bundle: {
@@ -22,6 +25,8 @@ export const Showcase = ({
     apps: string[];
   };
   autoplayOnHover?: boolean;
+  showAppList?: boolean;
+  allAppsDescription?: string;
 }) => {
   const apps = bundle.apps
     .map((appName) =>
@@ -47,11 +52,25 @@ export const Showcase = ({
         <p className="text-sm mb-8">{bundle.description}</p>
       </div>
 
-      <EmblaCarousel
-        apps={apps}
-        options={OPTIONS}
-        autoplayOnHover={autoplayOnHover}
-      />
+       <EmblaCarousel
+          apps={apps}
+          options={OPTIONS}
+          autoplayOnHover={autoplayOnHover}
+        />
+
+      {showAppList ? (
+       <div>
+           <p className="text-center p-4 text-sm text-gray-500">{allAppsDescription}</p>
+
+         <ul className="grid 2xl:grid-cols-2 gap-4 px-6">
+          {apps.map((post) => (
+            <PostItem key={post.slug} post={post} showImage={true} />
+          ))}
+        </ul>
+       </div>
+      ) : (
+       <></>
+      )}
     </div>
   );
 };
