@@ -26,7 +26,7 @@ export const useAutoplayProgress = <ProgressElement extends HTMLElement>(
     }
 
     node.style.animationName = 'none';
-    node.style.transform = 'translate3d(0,0,0)';
+    node.style.transform = 'translate3d(100%, 0, 0)';
 
     rafId.current = window.requestAnimationFrame(() => {
       timeoutId.current = window.setTimeout(() => {
@@ -36,7 +36,7 @@ export const useAutoplayProgress = <ProgressElement extends HTMLElement>(
     });
 
     setShowAutoplayProgress(true);
-  }, []);
+  }, [progressNode]);
 
   useEffect(() => {
     const autoplay = emblaApi?.plugins()?.autoplay;
@@ -45,7 +45,13 @@ export const useAutoplayProgress = <ProgressElement extends HTMLElement>(
     emblaApi
       .on('autoplay:timerset', () => startProgress(autoplay.timeUntilNext()))
       .on('autoplay:timerstopped', () => setShowAutoplayProgress(false));
-  }, [emblaApi]);
+
+    // Initialize progress if autoplay is already running
+    const timeUntilNext = autoplay.timeUntilNext();
+    if (timeUntilNext !== null) {
+      startProgress(timeUntilNext);
+    }
+  }, [emblaApi, startProgress]);
 
   useEffect(() => {
     return () => {
