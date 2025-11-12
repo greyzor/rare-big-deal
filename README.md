@@ -151,6 +151,7 @@ It's free & open-source. Enjoy! 🚀
 | ⚡ | [BoltAI](https://boltai.com/buy?via=rarebigdeal) | All AI models in one native app — ultra-fast, 100+ pro features. | 50% OFF with code **BFCM25** | 2025-12-01 |
 | ⚡ | [PDF Pals](https://pdfpals.com/buy?via=rarebigdeal) | Instantly chat with any PDF on your Mac. Native, fast and respect your privacy. | 50% OFF with code **BFCM25** | 2025-12-01 |
 | 📸 | [Promptlight](https://promptlight.app) | Spotlight-like launcher for your AI Prompts. | **40% OFF** Lifetime Version with code **BF2025** | 2025-12-01 |
+| ✍️ | [Kerlig](https://www.kerlig.com/) | AI Writing Assistant & Chat for macOS. Write replies on Slack and Mail using your tone of voice. Fix spelling before sending a message. Summarize websites and YouTube videos. | 20 x **BF40** 40% OFF and 100 x **BF20** 20% OFF  | 2025-12-02 |
 
 
 ### Productivity
@@ -201,6 +202,7 @@ It's free & open-source. Enjoy! 🚀
 | 🎨 | [Sip](https://www.sipapp.io) | The right color every time. Sip is a modern color picker that brings ease to color organization & team collaboration. | 50% OFF with code **BF25** or **CM25** | 2025-12-01 |
 | 🔍 | [Proxyman](https://proxyman.io) | Need to capture HTTPS request on your iPhone? Proxyman is what you need. Best-in-class HTTP debugging proxy for macOS. | **30% OFF** with code **BLACKFRIDAY2025** | 2025-12-01 |
 | 📸 | [Promptlight](https://promptlight.app) | Spotlight-like launcher for your AI Prompts. | **40% OFF** Lifetime Version with code **BF2025** | 2025-12-01 |
+| 🌐 | [LocalCan](https://www.localcan.com/) | #1 Ngrok alternative. Without subscription. With .local domains and top-rated UX (Mac / Windows) | 10 x **BF40** 40% OFF and 100 x **BF20** 20% OFF | 2025-12-02 |
 
 
 ### Productivity
