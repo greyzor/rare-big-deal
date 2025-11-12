@@ -43,7 +43,7 @@ export const Showcase = ({
   return (
     <div
       className={cn(
-        'flex flex-col max-w-4xl 2xl:max-w-7xl w-full bg-primary-100/10 rounded-xl py-6',
+        'flex flex-col max-w-4xl 2xl:max-w-7xl w-full bg-gray-300/60 dark:bg-gray-900 rounded-xl py-6',
         className,
       )}
     >
@@ -52,11 +52,11 @@ export const Showcase = ({
         <p className="text-sm mb-8">{bundle.description}</p>
       </div>
 
-       <EmblaCarousel
-          apps={apps}
-          options={OPTIONS}
-          autoplayOnHover={autoplayOnHover}
-        />
+      <EmblaCarousel
+        apps={apps}
+        options={OPTIONS}
+        autoplayOnHover={autoplayOnHover}
+      />
 
       {showAppList ? (
        <div className='flex flex-col'>

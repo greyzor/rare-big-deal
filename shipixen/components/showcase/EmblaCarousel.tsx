@@ -18,6 +18,7 @@ import {
   CarouselItem,
   CarouselApi,
 } from '@/components/shared/ui/carousel';
+import { usePathname } from 'next/navigation';
 
 const fallbackImage = '/static/images/logo.png';
 
@@ -35,6 +36,8 @@ const EmblaCarousel: React.FC<PropType> = ({
   const [api, setApi] = useState<CarouselApi>();
   const progressNode = useRef<HTMLDivElement>(null);
   const [currentIndex, setCurrentIndex] = useState(0);
+  const pathname = usePathname();
+  const isCategoryPage = pathname?.includes('/categories') ?? false;
 
   const { showAutoplayProgress } = useAutoplayProgress(api, progressNode);
 
@@ -104,7 +107,12 @@ const EmblaCarousel: React.FC<PropType> = ({
                     height={1600}
                     src={app.images?.[0]}
                     alt={app.title}
-                    className="w-full h-[600px] object-cover"
+                    className={cn(
+                      'w-full object-contain',
+                      isCategoryPage
+                        ? 'h-[350px] md:h-[300px] lg:h-[450px]'
+                        : 'h-[350px] md:h-[450px] lg:h-[650px]',
+                    )}
                   />
 
                   <div className="flex flex-col items-center justify-center -mt-8">

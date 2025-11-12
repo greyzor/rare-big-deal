@@ -387,6 +387,10 @@
   @apply xl:max-w-7xl;
 }
 
+.container-gigawide {
+  @apply xl:max-w-[1400px];
+}
+
 /**
  * MDX requirements
  */
