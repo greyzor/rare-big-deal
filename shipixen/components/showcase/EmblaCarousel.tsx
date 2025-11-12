@@ -142,11 +142,11 @@ const EmblaCarousel: React.FC<PropType> = ({
                     height={1600}
                     src={app.images?.[0]}
                     alt={app.title}
-                    className="w-full h-auto rounded-xl max-h-[500px]"
+                    className="w-full h-auto rounded-xl max-h-[650px]"
                   />
 
                   <div className="flex flex-col items-center justify-center -mt-8">
-                    <div className="flex gap-2 bg-white/90 dark:bg-black/90 backdrop-blur-xl rounded-xl py-2 px-3 items-center">
+                    <div className="flex gap-2 bg-white/90 dark:bg-black/90 backdrop-blur-xl rounded-xl py-2 px-2 items-center">
                       <figure
                         className={clsx(
                           'w-10 h-10 md:w-10 md:h-10 lg:w-14 lg:h-14 flex-shrink-0 rounded-2xl overflow-hidden bg-white/50 dark:bg-black/50',
@@ -221,7 +221,7 @@ const EmblaCarousel: React.FC<PropType> = ({
             variant="ghost"
             onClick={onNextButtonClick}
             className={clsx(
-              `embla__progress relative overflow-hidden flex items-center gap-2 pt-2 pb-4 px-3 h-14 md:min-w-32 bg-white dark:bg-black`,
+              `embla__progress relative overflow-hidden flex items-center gap-2 pt-3 pb-4 px-3 h-14 md:min-w-32 bg-white dark:bg-black`,
             )}
           >
             <div className="border-gradient-rainbow absolute w-full bottom-0"></div>
@@ -232,11 +232,11 @@ const EmblaCarousel: React.FC<PropType> = ({
                 height={200}
                 src={nextApp.logo as string}
                 alt={nextApp.title}
-                className="w-10 h-10 rounded-md"
+                className="w-10 h-10 rounded-xl"
               />
             ) : (
               <div
-                className="w-10 h-10 rounded-md"
+                className="w-10 h-10 rounded-xl"
                 style={{
                   backgroundImage: `url(${fallbackImage})`,
                   backgroundColor: hashStringToColor(nextApp.title),
