@@ -49,7 +49,7 @@ const weightedBundles = [
     (bundle) =>
       !['ai-apps.js', 'mac-apps.js', 'niche-apps.js'].includes(bundle),
   ),
-];
+]
 
 const getRandomBundle = () => {
   const now = new Date();
@@ -83,7 +83,7 @@ export default async function Home() {
           </p>
         }
         textPosition="center"
-        className="relative bg-gradient-to-b from-gray-300/60 to-transparent dark:from-gray-900 dark:to-transparent !pb-6"
+        className="relative bg-gradient-to-b from-gray-200/60 to-transparent dark:from-gray-900 dark:to-transparent !pb-6"
         effectComponent={<LandingWavesCtaBg />}
       >
         <div className="flex flex-col items-center justify-center">

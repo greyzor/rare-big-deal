@@ -1,7 +1,6 @@
 import React, { useEffect, useRef, useState, useCallback } from 'react';
-import useEmblaCarousel from 'embla-carousel-react';
 import Autoplay from 'embla-carousel-autoplay';
-import { EmblaOptionsType, EmblaCarouselType } from 'embla-carousel';
+import { EmblaOptionsType } from 'embla-carousel';
 import Link from 'next/link';
 import { CoreContent } from '@shipixen/pliny/utils/contentlayer';
 import { Blog } from 'shipixen-contentlayer/generated';
@@ -13,54 +12,15 @@ import clsx from 'clsx';
 import ReactMarkdown from 'react-markdown';
 import { hashStringToColor } from '@/components/shared/util/hash-string-color';
 import { cn } from '@/lib/utils';
-
-type UsePrevNextButtonsType = {
-  prevBtnDisabled: boolean;
-  nextBtnDisabled: boolean;
-  onPrevButtonClick: () => void;
-  onNextButtonClick: () => void;
-};
+import {
+  Carousel,
+  CarouselContent,
+  CarouselItem,
+  CarouselApi,
+} from '@/components/shared/ui/carousel';
+import { usePathname } from 'next/navigation';
 
 const fallbackImage = '/static/images/logo.png';
-
-export const usePrevNextButtons = (
-  emblaApi: EmblaCarouselType | undefined,
-  onButtonClick?: (emblaApi: EmblaCarouselType) => void,
-): UsePrevNextButtonsType => {
-  const [prevBtnDisabled, setPrevBtnDisabled] = useState(true);
-  const [nextBtnDisabled, setNextBtnDisabled] = useState(true);
-
-  const onPrevButtonClick = useCallback(() => {
-    if (!emblaApi) return;
-    emblaApi.scrollPrev();
-    if (onButtonClick) onButtonClick(emblaApi);
-  }, [emblaApi, onButtonClick]);
-
-  const onNextButtonClick = useCallback(() => {
-    if (!emblaApi) return;
-    emblaApi.scrollNext();
-    if (onButtonClick) onButtonClick(emblaApi);
-  }, [emblaApi, onButtonClick]);
-
-  const onSelect = useCallback((emblaApi: EmblaCarouselType) => {
-    setPrevBtnDisabled(!emblaApi.canScrollPrev());
-    setNextBtnDisabled(!emblaApi.canScrollNext());
-  }, []);
-
-  useEffect(() => {
-    if (!emblaApi) return;
-
-    onSelect(emblaApi);
-    emblaApi.on('reInit', onSelect).on('select', onSelect);
-  }, [emblaApi, onSelect]);
-
-  return {
-    prevBtnDisabled,
-    nextBtnDisabled,
-    onPrevButtonClick,
-    onNextButtonClick,
-  };
-};
 
 type PropType = {
   apps: CoreContent<Blog>[];
@@ -73,76 +33,86 @@ const EmblaCarousel: React.FC<PropType> = ({
   options,
   autoplayOnHover = false,
 }) => {
-  const [emblaRef, emblaApi] = useEmblaCarousel(
-    {
-      loop: true, // Enable loop mode
-      ...options,
-    },
-    [
-      Autoplay({
-        delay: 5000,
-        stopOnInteraction: false,
-        stopOnMouseEnter: autoplayOnHover,
-      }),
-    ],
-  );
-
+  const [api, setApi] = useState<CarouselApi>();
   const progressNode = useRef<HTMLDivElement>(null);
-
-  const { showAutoplayProgress } = useAutoplayProgress(emblaApi, progressNode);
-
   const [currentIndex, setCurrentIndex] = useState(0);
+  const pathname = usePathname();
+  const isCategoryPage = (pathname?.includes('/categories') || pathname?.includes('/handpicked-deals')) ?? false;
+
+  const { showAutoplayProgress } = useAutoplayProgress(api, progressNode);
 
   const onSelect = useCallback(() => {
-    if (!emblaApi) return;
-    setCurrentIndex(emblaApi.selectedScrollSnap());
-  }, [emblaApi]);
+    if (!api) return;
+    setCurrentIndex(api.selectedScrollSnap());
+  }, [api]);
 
   useEffect(() => {
-    if (!emblaApi) return;
-    emblaApi.on('select', onSelect);
+    if (!api) return;
+    api.on('select', onSelect);
     onSelect();
-  }, [emblaApi, onSelect]);
+  }, [api, onSelect]);
 
-  // Restore navigation buttons functionality
-  const {
-    prevBtnDisabled,
-    nextBtnDisabled,
-    onPrevButtonClick,
-    onNextButtonClick,
-  } = usePrevNextButtons(emblaApi);
+  const scrollPrev = useCallback(() => {
+    api?.scrollPrev();
+  }, [api]);
+
+  const scrollNext = useCallback(() => {
+    api?.scrollNext();
+  }, [api]);
+
+  const canScrollPrev = api?.canScrollPrev() ?? false;
+  const canScrollNext = api?.canScrollNext() ?? false;
 
   // Calculate next app index with looping
   const nextIndex = (currentIndex + 1) % apps.length;
   const nextApp = apps[nextIndex];
 
   return (
-    <div className="embla group relative flex flex-col w-full">
-      <div className="overflow-hidden relative" ref={emblaRef}>
-        <div className="embla__container">
+    <div className="group relative flex flex-col w-full">
+      <Carousel
+        opts={{
+          loop: true,
+          ...options,
+        }}
+        plugins={[
+          Autoplay({
+            delay: 7000,
+            stopOnInteraction: false,
+            stopOnMouseEnter: autoplayOnHover,
+          }),
+        ]}
+        setApi={setApi}
+        className="w-full"
+      >
+        <CarouselContent className="-ml-0">
           {apps.map((app, index) => {
             const tintColor = hashStringToColor(app.title);
 
             return (
-              <div
+              <CarouselItem
+                key={index}
                 className={clsx(
-                  'embla__slide w-full flex items-center justify-center transition-opacity duration-500 ease-in-out',
+                  'pl-0 flex items-center justify-center transition-opacity duration-500 ease-in-out',
                   index === currentIndex
                     ? 'opacity-100 grayscale-0'
                     : 'opacity-50 grayscale',
                 )}
-                key={index}
               >
                 <Link
                   href={`/products/${app.slug}`}
-                  className="flex flex-col w-full"
+                  className="flex flex-col w-full items-center"
                 >
                   <Image
                     width={1600}
                     height={1600}
                     src={app.images?.[0]}
                     alt={app.title}
-                    className="w-full h-auto rounded-xl max-h-[250px] md:max-h-[450px] lg:max-h-[650px]"
+                    className={cn(
+                      'w-full object-contain',
+                      isCategoryPage
+                        ? 'h-[350px] md:h-[300px] lg:h-[450px]'
+                        : 'h-[350px] md:h-[450px] lg:h-[650px]',
+                    )}
                   />
 
                   <div className="flex flex-col items-center justify-center -mt-8">
@@ -186,40 +156,40 @@ const EmblaCarousel: React.FC<PropType> = ({
                     </ReactMarkdown>
                   </div>
                 </Link>
-              </div>
+              </CarouselItem>
             );
           })}
-        </div>
-      </div>
+        </CarouselContent>
 
-      {/* Navigation buttons */}
-      <div className="hidden md:flex absolute z-10 w-full h-full pointer-events-none items-center justify-between">
-        <Button
-          onClick={onPrevButtonClick}
-          disabled={prevBtnDisabled}
-          className="relative -left-10 pointer-events-auto opacity-0 group-hover:opacity-100 transition-all duration-500 ease-in-out hover:bg-transparent dark:hover:bg-transparent hover:scale-125"
-          size="icon"
-          variant="ghost"
-        >
-          <ChevronLeftIcon className="w-20 h-20 m-2" />
-        </Button>
-        <Button
-          onClick={onNextButtonClick}
-          disabled={nextBtnDisabled}
-          className="relative -right-10 pointer-events-auto opacity-0 group-hover:opacity-100 transition-all duration-500 ease-in-out hover:bg-transparent dark:hover:bg-transparent hover:scale-125"
-          size="icon"
-          variant="ghost"
-        >
-          <ChevronRightIcon className="w-20 h-20 m-2" />
-        </Button>
-      </div>
+        {/* Navigation buttons */}
+        <div className="hidden md:flex absolute z-10 w-full h-full pointer-events-none items-center justify-between top-0 left-0">
+          <Button
+            onClick={scrollPrev}
+            disabled={!canScrollPrev}
+            className="relative -left-10 pointer-events-auto opacity-0 group-hover:opacity-100 transition-all duration-500 ease-in-out hover:bg-transparent dark:hover:bg-transparent hover:scale-125"
+            size="icon"
+            variant="ghost"
+          >
+            <ChevronLeftIcon className="w-20 h-20 m-2" />
+          </Button>
+          <Button
+            onClick={scrollNext}
+            disabled={!canScrollNext}
+            className="relative -right-10 pointer-events-auto opacity-0 group-hover:opacity-100 transition-all duration-500 ease-in-out hover:bg-transparent dark:hover:bg-transparent hover:scale-125"
+            size="icon"
+            variant="ghost"
+          >
+            <ChevronRightIcon className="w-20 h-20 m-2" />
+          </Button>
+        </div>
+      </Carousel>
 
       {/* Additional markup such as progress indicators */}
       <div className="absolute w-full -top-24 flex gap-2 items-center justify-end p-2">
         <div className="flex gap-1 items-end flex-col">
           <Button
             variant="ghost"
-            onClick={onNextButtonClick}
+            onClick={scrollNext}
             className={clsx(
               `embla__progress relative overflow-hidden flex items-center gap-2 pt-3 pb-4 px-3 h-14 md:min-w-32 bg-white dark:bg-black`,
             )}
@@ -251,6 +221,7 @@ const EmblaCarousel: React.FC<PropType> = ({
                 !showAutoplayProgress ? 'opacity-0' : 'opacity-100',
               )}
               ref={progressNode}
+              style={{ transform: 'translate3d(100%, 0, 0)' }}
             />
           </Button>
 

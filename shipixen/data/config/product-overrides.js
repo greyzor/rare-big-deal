@@ -66,6 +66,9 @@ module.exports = {
       ogImage: '/public/static/images/overrides/ai-scraper/ogImage.png',
       tags: ['AI', 'Automation', 'Developer', 'Machine Learning', 'Tools'],
     },
+    'ai-seo-course': {
+      ogImage: '/public/static/images/overrides/ai-seo-course/ogImage.png',
+    },
     airview: {
       logo: '/public/static/images/overrides/airview/logo.png',
       ogImage: '/public/static/images/overrides/airview/ogImage.png',
@@ -434,6 +437,20 @@ module.exports = {
     donkeycarrot: {
       tags: ['Efficiency', 'macOS', 'Productivity', 'Salary Tracker', 'Tools'],
     },
+    draftly: {
+      metaTitle: 'The All-in-One LinkedIn Companion for Savvy Professionals',
+      metaDescription:
+        'Effortlessly supercharge your LinkedIn presence with personalised content creation, automated scheduling, and thoughtful engagement!',
+      tags: [
+        'AI',
+        'AI Tools',
+        'Content Creation',
+        'LinkedIn Automation',
+        'LinkedIn Growth',
+        'LinkedIn Tool',
+        'LinkedIn Engagement',
+      ],
+    },
     extreviewbot: {
       tags: [
         'Analytics',
@@ -749,19 +766,8 @@ module.exports = {
         'This bundle is made of all the books I have written about soccer betting. The individual purchase of these books would cost you €40. If you purchase the bundle you will save €15 which is a 37% discount on the full price.',
       tags: ['Books', 'Learning', 'Programming'],
     },
-    draftly: {
-      metaTitle: 'The All-in-One LinkedIn Companion for Savvy Professionals',
-      metaDescription:
-        'Effortlessly supercharge your LinkedIn presence with personalised content creation, automated scheduling, and thoughtful engagement!',
-      tags: [
-        'AI',
-        'AI Tools',
-        'Content Creation',
-        'LinkedIn Automation',
-        'LinkedIn Growth',
-        'LinkedIn Tool',
-        'LinkedIn Engagement',
-      ],
+    'magicspace-seo': {
+      ogImage: '/public/static/images/overrides/magicspace-seo/ogImage.png',
     },
     'mail-mastery': {
       metaDescription:
@@ -1028,6 +1034,9 @@ module.exports = {
         'Video Tools',
       ],
     },
+    redac: {
+      ogImage: '/public/static/images/overrides/redac/ogImage.webp',
+    },
     redreach: {
       tags: [
         'Marketing',
@@ -1083,6 +1092,9 @@ module.exports = {
         'Screenshot API',
         'Tools',
       ],
+    },
+    'semantic-pen': {
+      ogImage: '/public/static/images/overrides/semantic-pen/ogImage.jpg',
     },
     'seo-gets': {
       tags: ['Analytics', 'Marketing', 'Optimization', 'SEO'],
@@ -1309,6 +1321,12 @@ module.exports = {
     },
     thennow: {
       tags: ['Memories', 'Organization', 'Photography', 'Tools'],
+    },
+    thumblifyai: {
+      ogImage: '/public/static/images/overrides/thumblifyai/ogImage.jpg',
+    },
+    ticketping: {
+      ogImage: '/public/static/images/overrides/ticketping/ogImage.jpg',
     },
     'tim-time-tracker': {
       logo: '/public/static/images/overrides/tim-time-tracker/logo.png',
