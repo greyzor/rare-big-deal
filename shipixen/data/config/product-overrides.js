@@ -39,6 +39,18 @@ module.exports = {
         'Web Development',
       ],
     },
+    'adhd-structure-planner-simple': {
+      tags: [
+        'Productivity',
+        'Tools',
+        'Mac',
+        'ADHD',
+        'Planning',
+        'Organization',
+      ],
+      metaDescription:
+        '**Get the discount by redeeming the code [in the AppStore by following this link](https://apps.apple.com/redeem?ctx=offercodes&id=6742843891&code=CODE)**.\n\nADHD Structure Planner is the all-in-one productivity app designed for ADHD minds and anyone who craves clarity in their day.',
+    },
     'affonso-io': {
       metaDescription:
         'Turn affiliate marketing into a reliable growth channel for your SaaS. Our automated platform helps you launch, manage and scale profitable partner programs without the technical hassle.',
