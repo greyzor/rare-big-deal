@@ -523,7 +523,7 @@ It's free & open-source. Enjoy! 🚀
 | - | - | - | - | - |
 | 🚢 | [Shipixen](https://shipixen.com) | In 5 minutes, go from nothing → deployed codebase. | **$100 OFF** on all licenses with code **BF2025** | 2025-12-01 |
 | 📁 | [Dirstarter](https://dirstarter.com?discountCode=BF2025) | Launch Your Directory Website and Start Making Money Today | **40% OFF** on all tiers with code **BF2025** | 2025-12-01 |
-
+| 🔥 | [Nextless.js React SaaS Boilerplate](https://nextlessjs.com) | Full-stack Next.js + Serverless SaaS boilerplate with Auth, Payments, Teams, Dashboards - TypeScript & Tailwind on AWS. | **66% OFF** on Single license - includes 3 databases instead of 1 (PostgreSQL, MySQL, MongoDB) | 2025-12-03 |
 
 ### Nuxt
 
