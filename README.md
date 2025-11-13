@@ -160,6 +160,7 @@ It's free & open-source. Enjoy! 🚀
 | ⚡ | [PDF Pals](https://pdfpals.com/buy?via=rarebigdeal) | Instantly chat with any PDF on your Mac. Native, fast and respect your privacy. | 50% OFF with code **BFCM25** | 2025-12-01 |
 | 📸 | [Promptlight](https://promptlight.app) | Spotlight-like launcher for your AI Prompts. | **40% OFF** Lifetime Version with code **BF2025** | 2025-12-01 |
 | ✍️ | [Kerlig](https://www.kerlig.com/) | AI Writing Assistant & Chat for macOS. Write replies on Slack and Mail using your tone of voice. Fix spelling before sending a message. Summarize websites and YouTube videos. | 20 x **BF40** 40% OFF and 100 x **BF20** 20% OFF  | 2025-12-02 |
+| 🐇 | [RabbitHoles AI](https://rabbitholes.ai/?utm_source=danmindru) | Chat with AI models on an infinite canvas; Bring your own API keys, and all models in one app with local storage of data | 51% OFF with code **BLACKFRIDAY2025** | 2025-12-01
 
 
 ### Productivity
