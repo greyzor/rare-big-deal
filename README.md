@@ -194,6 +194,8 @@ It's free & open-source. Enjoy! 🚀
 | 💥 | [TranscriptionPlus](https://transcription.plus) | Advanced transcription with 99% accuracy | 50% OFF | 2025-12-05 |
 | 🎥 | [inReels.ai](https://www.inreels.ai/?utm_source=rarebigdeal) | Create videos in seconds using AI. Turn text, PDFs, or images into videos. Repurpose content for YouTube, TikTok, Reels, and more. | **50% OFF on Yearly Plans** with code **BLACKFRIDAY2025** |
 | 💥 | [Firsto](https://firsto.co/?utm_source=rarebigdeal) | New Product launch platform where every product gets seen | **20% OFF All Launch & Sponsor Spots** with code **BLACKFRIDAY** |
+| 🎧 | [Audio Video To Text](https://www.audiovideototext.com) | Convert audio and video files to text, PDF, WORD, or SRT. Accurate AI transcription in 98+ languages. Perfect for content creators, journalists, students. | **50% OFF top plan** (get 50 hours for $25) | 2025-12-31 |
+| 🐾 | [PetShot Pro](https://www.petportraitgenerator.ai) | Turn your pet photos into stunning AI pet portraits. Upload pictures of your furry friends, pick from 100+ styles, and get high-quality AI pet art in seconds. | **50% OFF on all plans** (no coupon code required) | 2025-12-31 |
 
 
 ### Lifestyle
@@ -246,6 +248,7 @@ It's free & open-source. Enjoy! 🚀
 | 🖥️ | [ScreenSnap Pro](https://screensnap.pro/?utm_source=bf) | Turn ordinary screenshots into stunning visuals in seconds. Add gorgeous backgrounds, annotate with 14 tools, and cloud share instantly.| 50% OFF Lifetime and Subscription **EZNZQWNW** | 2025-12-30 |
 | 🗜️ | [Zipic](https://zipic.app?ref=fndxmacappspro) | Media file Optimization | A Mac image compression tool that optimizes images while preserving quality. Features multiple formats, batch processing, automated workflows, and local processing. | 33% OFF Lifetime Plan with code **BF2025**. Starts on 2025-11-20 |  2025-12-02  |
 | 🔋 | [Juicy – Mac Battery Alerts](https://apps.apple.com/us/app/juicy-battery-alerts-health/id6752221257) | Get beautiful Mac battery alerts at any level, track battery health and monitor temperature. All from a beautiful Mac menu bar icon. | **50% OFF** with code "BF25" | 2025-12-02
+| 🔎 | [Fenn](https://usefenn.com/?utm=rare-big-deal) | AI File Search Agent for MacOS. 100% private. | 50% OFF with code **BLACKFRIDAY** | 2025-12-01 |
 
 
 ### Design Tools
@@ -437,8 +440,10 @@ It's free & open-source. Enjoy! 🚀
 | 🔄 | [PostSyncer](https://postsyncer.com) | Sync and schedule your social media posts across multiple platforms. Features AI-powered content creation with Veo 3, Sora 2, Nano Banana, and other image and video models. | **20% OFF** for a year with discount code **RAREBIGDEAL** | 2025-12-31 |
 | 📢 | [SocialRails](https://socialrails.com) | Create content, post everywhere. Schedule to 9 social platforms and create content with built-in AI tools. | 20% OFF forever with code:  **AI20** | 2029-01-01 |
 | 📸 | [PostCapture](https://postcapture.com) | Turn any social post into a beautiful, professional image! | **30% OFF** with code **BLACKFRIDAY25** | 2025-12-01 |
+| ⭐ | [WordPress to Buffer Pro](https://www.wpzinc.com/plugins/wordpress-to-buffer-pro/) | Automatically send content to your Buffer account for scheduled publishing to Facebook, X, Instagram, Threads, LinkedIn, Pinterest, Mastodon, Bluesky, TikTok and Google Business. | 30% OFF with code **BF2025** | 2025-12-01 |
 | 🚀 | [SortPin.com](https://sortpin.com) | SortPin for Pinterest is the ultimate tool for Pinterest lovers. Unlock hidden pin data, discover viral pins, filter ads effortlessly, find relevant boards, and download images and videos easily. Step up your Pinterest game with SortPin. | (Yearly plan) 40% OFF with code **BLACKFRIDAY2025** | 2025-12-01 |
 | 🚀 | [Redreach](https://redreach.ai) | Reddit Marketing Tool: Turn Reddit traffic into customers. Finds high impact Reddit conversations to help you naturally promote your product, send automated DMs and get more sales. | 30% OFF with code **BF25** (on all subscription plans) | 2025-12-02
+| ⭐ | [Social Post Flow](https://www.socialpostflow.com) | Automatically send WordPress content for scheduled publishing to Facebook, X, Instagram, Threads, LinkedIn, Pinterest and Mastodon. | 20% OFF with code **BF2025** | 2025-12-01 |
 
 
 ### Email Marketing
@@ -459,6 +464,7 @@ It's free & open-source. Enjoy! 🚀
 | ✍️ | [Semantic Pen](https://www.semanticpen.com/) | AI-powered content writer that helps you create high-quality, SEO-optimized content for blogs, marketing, and more. | **20% OFF** with code **20BF2025** | 2025-12-31 |
 | ✍️ | [Fast SEO Fix](https://www.fastseofix.com) | Grow Your Organic Traffic with Automated SEO. | **50% OFF** with code **BETA50** | 2025-12-31 |
 | ✨ | [Postel](https://postel.app) | Create content so good it gets you followers. It's like having the best creators you follow writing content for you. Postel analyzes thousands of viral posts to create content that performs while keeping your voice. | **30% OFF** forever on yearly plan with code **BF2025** | 2025-12-01 |
+| ⭐ | [Page Generator Pro](https://www.wpzinc.com/plugins/page-generator-pro/) | Automatically mass build local SEO, pSEO, GEO sites, directories or content at scale. 25+ Page Builder, SEO and Schema Plugin integrations + AI dynamic content generation | 30% OFF with code **BF2025** | 2025-12-01 |
 
 
 ### Affiliate Marketing
@@ -482,6 +488,7 @@ It's free & open-source. Enjoy! 🚀
 | - | - | - | - | - |
 | 📃 | [Page AI](https://pageai.pro) | The website generator that designs and writes clean code. | **50% OFF** with code **BF2025** | 2025-12-01 |
 | 🛟 | [HelpKit](https://www.helpkit.so) | Notion to Help Center & Doc Site. Turn your Notion pages into a professional knowledge base. Comes with an embeddable widget, full-text search, AI chatbot, analytics, article reactions and more! | 30% OFF on all plans with code **BLACKFRIDAY25** | 2025-12-02
+| ⭐ | [Page Generator Pro](https://www.wpzinc.com/plugins/page-generator-pro/) | Automatically mass build local SEO, pSEO, GEO sites, directories or content at scale. 25+ Page Builder, SEO and Schema Plugin integrations + AI dynamic content generation | 30% OFF with code **BF2025** | 2025-12-01 |
 
 
 ### Ads & Paid listings
@@ -630,6 +637,13 @@ It's free & open-source. Enjoy! 🚀
 | 👨🏻‍💻 | [LabEx](https://labex.io/learn) | Learn Linux, DevOps & Cybersecurity with Hands-on Labs | [50% OFF for Two Years](https://labex.io/checkout?type=4&coupon=2025BF50) (Coupon: 2025BF50) and [30% OFF for One Year](https://labex.io/checkout?type=2&coupon=2025BF30) (Coupon: 2025BF30) | 2025-12-01 |
 | 🧑‍💻 | [Apple Developer Starter Pack](https://gracehuang.gumroad.com/l/bundle-ios-macos-development/BLACKFRIDAY25) | Books & Course for Swift, SwiftUI and macOS | **40% OFF** with code **BLACKFRIDAY25** | 2025-12-01 |
 | 🪝 | [Custom React Hooks Crash Course: Learn Hooks Through 6 Apps](https://www.udemy.com/course/custom-react-hooks-crash-course/?couponCode=BLACKFRIDAY_2025) | In this course, through 6 small applications, we'll recreate hooks and patterns that are commonly used in production web applications. If you’re preparing for a coding interview or working on a large-scale project, knowing how to use custom hooks in React is invaluable. | 50% OFF with code **BLACKFRIDAY_2025** |
+| 👨🏻‍💻 | [secubri.com ](https://www.secubri.com/security/) | Security Awareness Training - Keep your Business Safe, Understand the Danger| [50% OFF](https://www.secubri.com/security/) | 1st Training Only |
+
+### Educational Games
+
+| | Name | Description | Deal | Expires on date |
+| - | - | - | - | - |
+| 👨🏻‍💻 | [realorslop.fun ](https://realorslop.fun) | Fun Educational Game - Guess if an image is AISlop or Real and learn how to spot it in the future| [Free](https://realorslop.fun) | 2026-01-01 |
 
 
 ### Art Courses
