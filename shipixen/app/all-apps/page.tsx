@@ -53,7 +53,10 @@ export default function AllAppsPage() {
                 return false;
               }
 
-              if (['Learning'].includes(post.categories[0])) {
+              if (
+                post.categories?.[0] &&
+                ['Learning'].includes(post.categories[0])
+              ) {
                 return false;
               }
 
