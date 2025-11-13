@@ -184,6 +184,7 @@ It's free & open-source. Enjoy! 🚀
 | 🎤 | [Voicetypr](https://voicetypr.com) | AI-powered offline voice to text app for founders & AI builders. Build 3x faster with your voice. High accuracy, blazing fast on your device. One-time purchase, no subscription. Available on macOS and Windows | **30% OFF** on Lifetime deal (already applied) | 2025-11-20 |
 | 🚀 | [Git Digest](https://gitdigest.ai/?utm_source=rbd) | Ship faster with automated code reports. Get daily summaries of your GitHub repos via email or Slack, automatically categorized and analyzed for impact. | 40% OFF with code **BLACKFRIDAY2025** | 2025-11-29 |
 | 📚 | [TTS Reader AI](https://apps.apple.com/us/app/id6746346171)| Unlimited listening with premium realistic AI voices. Supports PDF, EPUB, Kindle, and more. | Annual plan: **$9.99** (no VAT, automatically applied)| 2025-11-30 |
+| ✍️ | [Rephrase AI](https://www.rephraseai.com/) | Find the perfect words, every time. Transform rough drafts into writing that connects and converts. | 40% OFF with code **BLACKFRIDAY2025** | 2025-12-01 |
 
 
 ### Other
@@ -376,7 +377,7 @@ It's free & open-source. Enjoy! 🚀
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
-| ⭐ | Be the first to add a deal in this category! | | | |
+| 🖼️ | [Background Remover](https://www.backgroundremover.com/) | Backgrounds gone in one click. No Photoshop required. Studio-quality precision with lightning-fast processing. Supports JPG, PNG, WEBP. | 40% OFF with code **BLACKFRIDAY2025** | 2025-12-01 |
 
 
 ### AI Design Tools
