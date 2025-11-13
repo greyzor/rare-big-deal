@@ -246,6 +246,7 @@ It's free & open-source. Enjoy! 🚀
 | 🖥️ | [ScreenSnap Pro](https://screensnap.pro/?utm_source=bf) | Turn ordinary screenshots into stunning visuals in seconds. Add gorgeous backgrounds, annotate with 14 tools, and cloud share instantly.| 50% OFF Lifetime and Subscription **EZNZQWNW** | 2025-12-30 |
 | 🗜️ | [Zipic](https://zipic.app?ref=fndxmacappspro) | Media file Optimization | A Mac image compression tool that optimizes images while preserving quality. Features multiple formats, batch processing, automated workflows, and local processing. | 33% OFF Lifetime Plan with code **BF2025**. Starts on 2025-11-20 |  2025-12-02  |
 | 🔋 | [Juicy – Mac Battery Alerts](https://apps.apple.com/us/app/juicy-battery-alerts-health/id6752221257) | Get beautiful Mac battery alerts at any level, track battery health and monitor temperature. All from a beautiful Mac menu bar icon. | **50% OFF** with code "BF25" | 2025-12-02
+| 🔎 | [Fenn](https://usefenn.com/?utm=rare-big-deal) | AI File Search Agent for MacOS. 100% private. | 50% OFF with code **BLACKFRIDAY** | 2025-12-01 |
 
 
 ### Design Tools
