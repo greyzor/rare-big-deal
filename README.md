@@ -170,6 +170,7 @@ It's free & open-source. Enjoy! 🚀
 | 📐 | [ResizeGenius](https://gracehuang.gumroad.com/l/resizegenius/BLACKFRIDAY25) | macOS app for Effortless Batch Resizing and Editing of Images | **40% OFF** with code **BLACKFRIDAY25** | 2025-12-01 |
 | ✏️ | [Redac](https://gracehuang.gumroad.com/l/redac/BLACKFRIDAY25) | MacOS app that makes redacting text in images easier | **40% OFF** with code **BLACKFRIDAY25** | 2025-12-01 |
 | 📚 | [SpatialRead](https://spatialread.com/?utm_source=rbd) | Quickly understand complex research papers with AI-powered explanations. | **45% OFF** Lifetime deal ($49) | 2025-12-01 |
+| 🎤 | [Voicetypr](https://voicetypr.com) | AI-powered offline voice to text app for founders & AI builders. Build 3x faster with your voice. High accuracy, blazing fast on your device. One-time purchase, no subscription. Available on macOS and Windows | **30% OFF** on Lifetime deal (already applied) | 2025-11-20 |
 
 
 ### Other
