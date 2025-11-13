@@ -106,6 +106,7 @@ It's free & open-source. Enjoy! 🚀
 | 🧑‍💻 | [Tower](https://www.git-tower.com/) | Powerful, native Git client for Mac and Windows, with undo, drag and drop, workflows, and support for Stacked Branches | 30% OFF any plan for new customers only (no coupon code needed) | 2025-12-07 |
 | 🐭 | [Lasso](https://thelasso.app) | Grid-based, intuitive and fast Window Manager. Ideal for developers and multi-window environments | **50% OFF** on Single and Personal licence types with code **BLACKFRIDAY25** | 2025-12-03 |
 | 🔑 | [KeygenGo](https://keygengo.5km.tech) | Licensing & Distribution | A native macOS app that transforms your Keygen.sh experience. Manage licenses, track users, and monitor products through an elegant visual interface. | 50% OFF Lifetime Plan with code **BF2025**. Starts on 2025-11-20 |  2025-12-02  |
+| ☁️ | [DNSDeck](https://apps.apple.com/us/app/dnsdeck-manage-dns-zones/id6753925998?utm_source=BF-2025) | A powerful macOS DNS zone management client for CloudFlare and AWS Route 53. | ****50% OFF**** ($4.99) one-time purchase via the App Store | 2025-12-10 |
 
 
 ### APIs, Tools & SaaS
