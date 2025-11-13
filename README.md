@@ -104,6 +104,7 @@ It's free & open-source. Enjoy! 🚀
 | 📸 | [Promptlight](https://promptlight.app) | Spotlight-like launcher for your AI Prompts. | **40% OFF** Lifetime Version with code **BF2025** | 2025-12-01 |
 | ⚡ | [HTTP Toolkit](https://httptoolkit.com/?ref=rare-big-deal) | Open-source cross-platform HTTP debugger & client, with instant one-click setup for Android, Docker, node.js & more | **50% off** forever on annual subscriptions, with code **BLACKFRIDAY25** | 2025-12-03 |
 | 🧑‍💻 | [Tower](https://www.git-tower.com/) | Powerful, native Git client for Mac and Windows, with undo, drag and drop, workflows, and support for Stacked Branches | 30% OFF any plan for new customers only (no coupon code needed) | 2025-12-07 |
+| 🐭 | [Lasso](https://thelasso.app) | Grid-based, intuitive and fast Window Manager. Ideal for developers and multi-window environments | **50% OFF** on Single and Personal licence types with code **BLACKFRIDAY25** | 2025-12-03 |
 
 
 ### APIs, Tools & SaaS
