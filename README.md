@@ -70,6 +70,7 @@ It's free & open-source. Enjoy! 🚀
   - [Libraries \& More](#libraries--more)
 - [Learning](#learning)
   - [Courses](#courses)
+  - [Educational Games](#educational-games)
   - [Art Courses](#art-courses)
   - [SEO](#seo)
   - [Books](#books)
@@ -127,6 +128,7 @@ It's free & open-source. Enjoy! 🚀
 | 🌟 | [WinWinKit](https://winwinkit.com?ref=rbd) | Affiliates & referrals platform for mobile apps. | **100 Free Users** with code **RARE100** | 2025-12-01 |
 | 🔐 | [iScan.today](https://iscan.today) | Discover Hidden Secrets Worth Thousands. | **50% off** with discount code **ISCANBF25** | 2025-12-01 |
 | 🔻 | [IsDown.app](https://isdown.app) | Never miss a vendor outage again! The best status page aggregator + uptime monitoring + status pages. | **25% OFF** in Starter & Pro plan with code **BF2025** | 2025-12-01 |
+| 🌐 | [DomainDetails Pro](https://domaindetails.com) | Advanced domain research & monitoring — ownership data, alerts, sales intelligence, and portfolio tools for professionals. | **50% OFF** on Pro with code **BFCM25** | 2025-12-01 |
 
 
 ### Browser Extensions
@@ -539,6 +541,7 @@ It's free & open-source. Enjoy! 🚀
 | 🔍 | [AI SEO Tracker](https://aiseotracker.com) | AI SEO tracking and analysis tool for LLM SEO. Track rankings, analyze competitors, and optimize content for AI search engines. Helps businesses appear in AI search results and citations. | **25% OFF** with code **BF25** | 2025-12-01 |
 | 📊 | [Promptwatch](https://promptwatch.com) | Promptwatch tracks your visibility in AI search like ChatGPT, captures real prompts and volumes, helps you create content, monitors social citations, and keeps your brand top-of-mind. | **50% OFF** with code **BF50** | 2025-12-01 |
 | 🚀 | [GSCTool.com](https://www.gsctool.com/) | Effortlessly clean up your search console account with our Chrome extension, supporting Google Search Console, Bing Webmaster Tools and Yandex. (bulk url removal, bulk indexing url, bulk inspection url to Google, Bing & Yandex) | (Yearly plan) 40% OFF with code **BLACKFRIDAY2025** | 2025-12-01 |
+| 🌐 | [DomainDetails Pro](https://domaindetails.com) | Advanced domain research & monitoring — ownership data, alerts, sales intelligence, and portfolio tools for professionals. | **50% OFF** on Pro with code **BFCM25** | 2025-12-01 |
 
 
 ### Analyze & Audit
