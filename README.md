@@ -412,7 +412,7 @@ It's free & open-source. Enjoy! 🚀
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
-| ⭐ | Be the first to add a deal in this category! | | | |
+| 🗄️ | [Motherboard](https://trymotherboard.com/?utm_source=rarebigdeal) | Motherboard brings all your key metrics into one dashboard. Works with any website. Saves you hours every week. Needs zero coding. | **BF2K25** (40% off) | Never |
 
 
 [⬆️ All categories](#table-of-contents)
