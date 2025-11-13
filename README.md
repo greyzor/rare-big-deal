@@ -521,6 +521,7 @@ It's free & open-source. Enjoy! 🚀
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 🚢 | [Shipixen](https://shipixen.com) | In 5 minutes, go from nothing → deployed codebase. | **$100 OFF** on all licenses with code **BF2025** | 2025-12-01 |
+| ⚡️ | [Indie Kit](https://indiekit.pro/) | World's First AI-optimized NextJS 16 boilerplate with all the features you need to build your SaaS, AI, or B2B application and get it to market faster. | Min. **$270 OFF** + MicroSaaS Playbook worth $150| 2025-12-01 |
 | 📁 | [Dirstarter](https://dirstarter.com?discountCode=BF2025) | Launch Your Directory Website and Start Making Money Today | **40% OFF** on all tiers with code **BF2025** | 2025-12-01 |
 
 
