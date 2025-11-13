@@ -610,6 +610,7 @@ It's free & open-source. Enjoy! 🚀
 | - | - | - | - | - |
 | 👨🏻‍💻 | [realorslop.fun ](https://realorslop.fun) | Fun Educational Game - Guess if an image is AISlop or Real and learn how to spot it in the future| [Free](https://realorslop.fun) | 2026-01-01 |
 
+
 ### Art Courses
 
 | | Name | Description | Deal | Expires on date |
