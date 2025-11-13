@@ -17,6 +17,8 @@ import {
   CarouselContent,
   CarouselItem,
   CarouselApi,
+  CarouselNext,
+  CarouselPrevious,
 } from '@/components/shared/ui/carousel';
 import { usePathname } from 'next/navigation';
 
@@ -37,7 +39,10 @@ const EmblaCarousel: React.FC<PropType> = ({
   const progressNode = useRef<HTMLDivElement>(null);
   const [currentIndex, setCurrentIndex] = useState(0);
   const pathname = usePathname();
-  const isCategoryPage = (pathname?.includes('/categories') || pathname?.includes('/handpicked-deals')) ?? false;
+  const isCategoryPage =
+    (pathname?.includes('/categories') ||
+      pathname?.includes('/handpicked-deals')) ??
+    false;
 
   const { showAutoplayProgress } = useAutoplayProgress(api, progressNode);
 
@@ -110,22 +115,41 @@ const EmblaCarousel: React.FC<PropType> = ({
                     className={cn(
                       'w-full object-contain',
                       isCategoryPage
-                        ? 'h-[350px] md:h-[300px] lg:h-[450px]'
-                        : 'h-[350px] md:h-[450px] lg:h-[650px]',
+                        ? 'h-[220px] sm:h-[300px] md:h-[350px] lg:h-[450px]'
+                        : 'h-[220px] md:h-[350px] xl:h-[650px]',
                     )}
                   />
 
                   <div className="flex flex-col items-center justify-center -mt-8">
                     <div className="flex gap-2 bg-white/90 dark:bg-black/90 backdrop-blur-xl rounded-xl py-2 px-2 items-center">
+                      {app.logo ? (
+                        <Image
+                          aria-hidden="true"
+                          className="absolute w-full h-full left-0 top-0 -z-100 opacity-20 dark:opacity-20 saturate-200 dark:saturate-[3] blur-2xl bg-cover"
+                          src={app.logo}
+                          alt={app.title}
+                          width={200}
+                          height={200}
+                        />
+                      ) : (
+                        <div
+                          className="absolute w-full h-full left-0 top-0 -z-100 opacity-20 dark:opacity-20 saturate-200 dark:saturate-[3] blur-2xl bg-cover"
+                          style={{
+                            backgroundImage: `url(${fallbackImage})`,
+                            backgroundColor: tintColor,
+                          }}
+                        />
+                      )}
+
                       <figure
                         className={clsx(
-                          'w-10 h-10 md:w-10 md:h-10 lg:w-14 lg:h-14 flex-shrink-0 rounded-2xl overflow-hidden bg-white/50 dark:bg-black/50',
+                          'w-10 h-10 md:w-12 md:h-12 lg:w-16 lg:h-16 flex-shrink-0 rounded-[20px] overflow-hidden bg-white/50 dark:bg-black/50',
                         )}
                       >
                         {app.logo ? (
                           <Image
                             src={app.logo}
-                            alt="Product Thumbnail"
+                            alt={app.title}
                             width={200}
                             height={200}
                             className="dark:bg-white/20"
@@ -162,26 +186,8 @@ const EmblaCarousel: React.FC<PropType> = ({
         </CarouselContent>
 
         {/* Navigation buttons */}
-        <div className="hidden md:flex absolute z-10 w-full h-full pointer-events-none items-center justify-between top-0 left-0">
-          <Button
-            onClick={scrollPrev}
-            disabled={!canScrollPrev}
-            className="relative -left-10 pointer-events-auto opacity-0 group-hover:opacity-100 transition-all duration-500 ease-in-out hover:bg-transparent dark:hover:bg-transparent hover:scale-125"
-            size="icon"
-            variant="ghost"
-          >
-            <ChevronLeftIcon className="w-20 h-20 m-2" />
-          </Button>
-          <Button
-            onClick={scrollNext}
-            disabled={!canScrollNext}
-            className="relative -right-10 pointer-events-auto opacity-0 group-hover:opacity-100 transition-all duration-500 ease-in-out hover:bg-transparent dark:hover:bg-transparent hover:scale-125"
-            size="icon"
-            variant="ghost"
-          >
-            <ChevronRightIcon className="w-20 h-20 m-2" />
-          </Button>
-        </div>
+        <CarouselPrevious className="left-4" />
+        <CarouselNext className="right-4" />
       </Carousel>
 
       {/* Additional markup such as progress indicators */}
@@ -191,7 +197,7 @@ const EmblaCarousel: React.FC<PropType> = ({
             variant="ghost"
             onClick={scrollNext}
             className={clsx(
-              `embla__progress relative overflow-hidden flex items-center gap-2 pt-3 pb-4 px-3 h-14 md:min-w-32 bg-white dark:bg-black`,
+              `embla__progress relative overflow-hidden flex items-center gap-2 pt-3 pb-4 px-3 h-10 md:h-14 md:min-w-32 bg-white dark:bg-black`,
             )}
           >
             <div className="border-gradient-rainbow absolute w-full bottom-0"></div>
@@ -202,11 +208,11 @@ const EmblaCarousel: React.FC<PropType> = ({
                 height={200}
                 src={nextApp.logo as string}
                 alt={nextApp.title}
-                className="w-10 h-10 rounded-xl"
+                className="w-6 h-6 md:w-10 md:h-10 rounded-xl"
               />
             ) : (
               <div
-                className="w-10 h-10 rounded-xl"
+                className="w-6 h-6 md:w-10 md:h-10 rounded-xl"
                 style={{
                   backgroundImage: `url(${fallbackImage})`,
                   backgroundColor: hashStringToColor(nextApp.title),

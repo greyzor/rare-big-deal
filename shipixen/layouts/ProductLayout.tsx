@@ -18,13 +18,7 @@ import ScrollTop from '@/components/shared/ScrollTop';
 import { hashStringToColor } from '@/components/shared/util/hash-string-color';
 import clsx from 'clsx';
 import { PostItem } from '@/components/blog/home/PostItem';
-import {
-  Carousel,
-  CarouselContent,
-  CarouselItem,
-  CarouselNext,
-  CarouselPrevious,
-} from '@/components/shared/ui/carousel';
+import { ProductCarousel } from '@/components/shared/ui/product-carousel';
 
 const postDateTemplate: Intl.DateTimeFormatOptions = {
   year: 'numeric',
@@ -281,41 +275,7 @@ export default function PostLayout({
                 </div>
 
                 {hasMultipleImages ? (
-                  <div className="w-full relative mb-2 -mt-5 md:-mt-8 max-h-[380px] sm:max-h-[450px] select-none">
-                    <Carousel
-                      opts={{
-                        align: 'start',
-                        loop: true,
-                        slidesToScroll: 1,
-                        containScroll: 'trimSnaps',
-                      }}
-                      className="w-full h-full"
-                    >
-                      <CarouselContent className="-ml-2 md:-ml-4">
-                        {images.map((image, index) => (
-                          <CarouselItem
-                            key={index}
-                            className="pl-2 md:pl-4 basis-auto"
-                          >
-                            <div className="relative h-full">
-                              <Image
-                                src={image}
-                                alt={`${title} - Image ${index + 1}`}
-                                width={1240}
-                                height={640}
-                                className="bg-white rounded-md h-[380px] sm:h-[450px] w-auto"
-                              />
-                              {/* <div className="absolute bottom-4 right-4 bg-black/50 text-white text-xs px-2 py-1 rounded-md backdrop-blur-sm">
-                                {index + 1} / {images.length}
-                              </div> */}
-                            </div>
-                          </CarouselItem>
-                        ))}
-                      </CarouselContent>
-                      <CarouselPrevious className="left-4" />
-                      <CarouselNext className="right-4" />
-                    </Carousel>
-                  </div>
+                  <ProductCarousel images={images} title={title} />
                 ) : (
                   firstImage && (
                     <Image
