@@ -24,11 +24,13 @@ function processTitle(title: string): string {
     const index = title.indexOf(delimiter);
     if (index !== -1) {
       // Check if this delimiter is part of an exception
-      const isException = exceptions.some(exception => {
+      const isException = exceptions.some((exception) => {
         const exceptionIndex = title.indexOf(exception);
         if (exceptionIndex === -1) return false;
         // Check if the delimiter is within the exception boundaries
-        return index >= exceptionIndex && index < exceptionIndex + exception.length;
+        return (
+          index >= exceptionIndex && index < exceptionIndex + exception.length
+        );
       });
 
       if (!isException) {
@@ -64,7 +66,7 @@ export function PostItem({
   } = post;
   const firstImage = images?.[0];
   const [showDescription, setShowDescription] = useState(false);
-  const fallbackImage = '/static/images/logo.png';
+  const fallbackImage = '/static/images/fallback.png';
   const tintColor = hashStringToColor(title);
   const processedTitle = processTitle(title);
 

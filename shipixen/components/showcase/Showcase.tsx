@@ -48,8 +48,8 @@ export const Showcase = ({
       )}
     >
       <div className="flex flex-col gap-1 px-6">
-        <h2 className="text-2xl font-bold">{bundle.name}</h2>
-        <p className="text-sm mb-8">{bundle.description}</p>
+        <h2 className="text-lg md:text-2xl font-bold">{bundle.name}</h2>
+        <p className="text-xs md:text-sm mb-8 mr-16">{bundle.description}</p>
       </div>
 
       <EmblaCarousel
