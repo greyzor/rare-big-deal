@@ -49,7 +49,7 @@ export default async function Home() {
       <LandingPrimaryTextCtaSection
         title="Rare Deals and Discounts"
         descriptionComponent={
-          <p className="max-w-3xl">
+          <p className="text-sm md:text-base max-w-3xl">
             Limited time deals on the best <strong>iOS Apps</strong>,{' '}
             <strong>Mac Apps</strong>, <strong>SaaS</strong>,{' '}
             <strong>AI</strong> and <strong>Web Apps</strong>. <br />
@@ -73,7 +73,7 @@ export default async function Home() {
 
             <Button
               size="xl"
-              className="backdrop-blur-[2px] bg-white/30 dark:bg-black/40"
+              className="backdrop-blur-[2px] bg-white/30 dark:bg-black/40 border-2 border-gray-500/10"
             >
               <Link href="/categories/developer-tools">All Categories</Link>
             </Button>
@@ -99,7 +99,7 @@ export default async function Home() {
 
       {/* <BundleShowcase className="mt-8" /> */}
 
-      <section className="max-w-2xl 2xl:max-w-6xl w-full mt-12 p-6">
+      <section className="max-w-2xl 2xl:max-w-6xl w-full mt-2 p-6">
         <HomeList />
       </section>
 
