@@ -237,7 +237,7 @@ It's free & open-source. Enjoy! 🚀
 | ⓢ | [Sitely 6](https://sitely.app) | Visual + AI Website Builder | 50% OFF (automatically applied)| 2025-12-05 |
 | 😀 | [Iconbuddy](https://iconbuddy.com) | 300k+ Open Source Icons: Search Fast. Edit Freely. Download Instantly. | $60 OFF | 2025-12-01 |
 | 🎨 | [Sip](https://www.sipapp.io) | The right color every time. Sip is a modern color picker that brings ease to color organization & team collaboration. | 50% OFF with code **BF25** or **CM25** | 2025-12-01 |
-| 📹 | [ScreeSage Pro](https://screensage.pro?ref=danmindru) | A screen recording app on maOS that simultaneously captures your screen, webcam, microphone. Create 2D/3D auto zoom with cursor tracking for beautiful demos; smooth A‑roll/B‑roll switching for beautiful vlogs | 53% OFF with code **BFS2025L** | 2025-12-12 |
+| 📹 | [ScreenSage Pro](https://screensage.pro?ref=danmindru) | A screen recording app on maOS that simultaneously captures your screen, webcam, microphone. Create 2D/3D auto zoom with cursor tracking for beautiful demos; smooth A‑roll/B‑roll switching for beautiful vlogs | 53% OFF with code **BFS2025L** | 2025-12-12 |
 
 
 ### Health & Fitness
