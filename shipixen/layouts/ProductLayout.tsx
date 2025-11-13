@@ -129,7 +129,7 @@ export default function PostLayout({
   const firstImage = images[0];
   const hasMultipleImages = images.length > 1;
   const tintColor = hashStringToColor(title);
-  const fallbackImage = '/static/images/logo.png';
+  const fallbackImage = '/static/images/fallback.png';
 
   // Check if we have app store data
   const hasAppStoreData = !!(

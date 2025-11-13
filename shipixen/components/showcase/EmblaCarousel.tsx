@@ -22,7 +22,7 @@ import {
 } from '@/components/shared/ui/carousel';
 import { usePathname } from 'next/navigation';
 
-const fallbackImage = '/static/images/logo.png';
+const fallbackImage = '/static/images/fallback.png';
 
 type PropType = {
   apps: CoreContent<Blog>[];
