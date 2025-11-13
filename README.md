@@ -104,6 +104,7 @@ It's free & open-source. Enjoy! 🚀
 | 📸 | [Promptlight](https://promptlight.app) | Spotlight-like launcher for your AI Prompts. | **40% OFF** Lifetime Version with code **BF2025** | 2025-12-01 |
 | ⚡ | [HTTP Toolkit](https://httptoolkit.com/?ref=rare-big-deal) | Open-source cross-platform HTTP debugger & client, with instant one-click setup for Android, Docker, node.js & more | **50% off** forever on annual subscriptions, with code **BLACKFRIDAY25** | 2025-12-03 |
 | 🧑‍💻 | [Tower](https://www.git-tower.com/) | Powerful, native Git client for Mac and Windows, with undo, drag and drop, workflows, and support for Stacked Branches | 30% OFF any plan for new customers only (no coupon code needed) | 2025-12-07 |
+| 🛡️ | [DeskVault](https://deskvault.app/) | All your Stripe accounts in one fast, powerful, private desktop app | **30% OFF** with code **BF2025** | 2025-12-12 |
 
 
 ### APIs, Tools & SaaS
@@ -210,6 +211,7 @@ It's free & open-source. Enjoy! 🚀
 | 📸 | [Promptlight](https://promptlight.app) | Spotlight-like launcher for your AI Prompts. | **40% OFF** Lifetime Version with code **BF2025** | 2025-12-01 |
 | 🌐 | [LocalCan](https://www.localcan.com/) | #1 Ngrok alternative. Without subscription. With .local domains and top-rated UX (Mac / Windows) | 10 x **BF40** 40% OFF and 100 x **BF20** 20% OFF | 2025-12-02 |
 | ⚡ | [HTTP Toolkit](https://httptoolkit.com/?ref=rare-big-deal) | Open-source HTTP debugger & client, with instant one-click setup for Android, Docker, node.js & more | **50% off** forever on annual subscriptions, with code **BLACKFRIDAY25** | 2025-12-03 |
+| 🛡️ | [DeskVault](https://deskvault.app/) | All your Stripe accounts in one fast, powerful, private desktop app | **30% OFF** with code **BF2025** | 2025-12-12 |
 
 
 ### Productivity
