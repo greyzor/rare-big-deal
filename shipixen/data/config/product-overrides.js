@@ -385,6 +385,12 @@ module.exports = {
     'dark-sleep': {
       tags: ['Fitness', 'Health', 'Wellness'],
     },
+    darkroom: {
+      tags: ['Photos & Videos', 'Productivity', 'Tools'],
+      ogImage: '/public/static/images/overrides/darkroom/ogImage.png',
+      logo: '/public/static/images/overrides/darkroom/logo.png',
+      metaTitle: 'Darkroom - Craft Stunning Photos and Videos That Stand Out',
+    },
     deskrest: {
       tags: [
         'Developer',
@@ -1304,7 +1310,8 @@ module.exports = {
     taprefer: {
       tags: ['Affiliate Marketing', 'Marketing', 'Promotion'],
       metaTitle: 'Find Affiliate Programs to Earn',
-      metaDescription: 'The biggest & latest affiliate programs directory, where content creators can easily find affiliate programs for their niche in minutes.',
+      metaDescription:
+        'The biggest & latest affiliate programs directory, where content creators can easily find affiliate programs for their niche in minutes.',
       logo: '/public/static/images/overrides/taprefer/logo.png',
       ogImage: '/public/static/images/overrides/taprefer/ogImage.webp',
     },
