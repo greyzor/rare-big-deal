@@ -106,6 +106,7 @@ It's free & open-source. Enjoy! 🚀
 | 🧑‍💻 | [Tower](https://www.git-tower.com/) | Powerful, native Git client for Mac and Windows, with undo, drag and drop, workflows, and support for Stacked Branches | 30% OFF any plan for new customers only (no coupon code needed) | 2025-12-07 |
 
 
+
 ### APIs, Tools & SaaS
 
 | | Name | Description | Deal | Expires on date |
@@ -227,6 +228,7 @@ It's free & open-source. Enjoy! 🚀
 | 🖥️ | [Wins](https://wins.cool) | Mac window manager — enhances the system App Switcher with Cmd-Tab Plus, improves Dock efficiency with Dock Preview, and offers many other practical features — all designed to feel just like Apple’s built-in features. | 40% OFF with code **BLACKFRIDAY2025** | 2025-12-12 |
 | 📸 | [Xnapper](https://xnapper.com) | Take screenshots that are beautiful by default. #1 Screenshot Tool for macOS and Windows with new features including GIF recording, cloud storage, and video capture. | **30% OFF** Lifetime Premium Plan with code **BLACKFRIDAY2025** | 2025-12-01 |
 | 🕑 | [Chronoid](https://chronoid.app?utm=rare-big-deal) | AI-powered time tracking with website blocking and productivity insights. Automatically categorize activities, block distractions, stay focused, all private on Mac. | 50% OFF with code **BLACKFRIDAY** | 2025-12-04 |
+| 🔋 | [Juicy – Mac Battery Alerts](https://apps.apple.com/us/app/juicy-battery-alerts-health/id6752221257) | Get beautiful Mac battery alerts at any level, track battery health and monitor temperature. All from a beautiful Mac menu bar icon. | **50% OFF** with code "BF25" | 2025-12-02
 
 
 ### Design Tools
@@ -416,6 +418,7 @@ It's free & open-source. Enjoy! 🚀
 | 🔄 | [PostSyncer](https://postsyncer.com) | Sync and schedule your social media posts across multiple platforms. Features AI-powered content creation with Veo 3, Sora 2, Nano Banana, and other image and video models. | **20% OFF** for a year with discount code **RAREBIGDEAL** | 2025-12-31 |
 | 📢 | [SocialRails](https://socialrails.com) | Create content, post everywhere. Schedule to 9 social platforms and create content with built-in AI tools. | 20% OFF forever with code:  **AI20** | 2029-01-01 |
 | 📸 | [PostCapture](https://postcapture.com) | Turn any social post into a beautiful, professional image! | **30% OFF** with code **BLACKFRIDAY25** | 2025-12-01 |
+| 🚀 | [Redreach](https://redreach.ai) | Reddit Marketing Tool: Turn Reddit traffic into customers. Finds high impact Reddit conversations to help you naturally promote your product, send automated DMs and get more sales. | 30% OFF with code **BF25** (on all subscription plans) | 2025-12-02
 
 
 ### Email Marketing
@@ -457,6 +460,7 @@ It's free & open-source. Enjoy! 🚀
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 📃 | [Page AI](https://pageai.pro) | The website generator that designs and writes clean code. | **50% OFF** with code **BF2025** | 2025-12-01 |
+| 🛟 | [HelpKit](https://www.helpkit.so) | Notion to Help Center & Doc Site. Turn your Notion pages into a professional knowledge base. Comes with an embeddable widget, full-text search, AI chatbot, analytics, article reactions and more! | 30% OFF on all plans with code **BLACKFRIDAY25** | 2025-12-02
 
 
 ### Ads & Paid listings
