@@ -446,6 +446,7 @@ It's free & open-source. Enjoy! 🚀
 | - | - | - | - | - |
 | 🗄️ | [Motherboard](https://trymotherboard.com/?utm_source=rarebigdeal) | Motherboard brings all your key metrics into one dashboard. Works with any website. Saves you hours every week. Needs zero coding. | **BF2K25** (40% off) | Never |
 | 📚 | [TTS Reader AI](https://apps.apple.com/us/app/id6746346171)| Unlimited listening with premium realistic AI voices. Supports PDF, EPUB, Kindle, and more. | Annual plan: **$9.99** (no VAT, automatically applied)| 2025-11-30 |
+| 📚 | [Guidejar](https://www.guidejar.com/?utm_source=rare-big-deal) | Guidejar helps teams document how things work through AI-powered interactive walkthroughs that keep everyone aligned and up to speed. | **25% OFF** with code **BFCM25** | 2025-12-02 |
 
 
 [⬆️ All categories](#table-of-contents)
