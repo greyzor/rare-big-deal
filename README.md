@@ -189,6 +189,7 @@ It's free & open-source. Enjoy! 🚀
 | 📚 | [TTS Reader AI](https://apps.apple.com/us/app/id6746346171)| Unlimited listening with premium realistic AI voices. Supports PDF, EPUB, Kindle, and more. | Annual plan: **$9.99** (no VAT, automatically applied)| 2025-11-30 |
 | ✍️ | [Rephrase AI](https://www.rephraseai.com/) | Find the perfect words, every time. Transform rough drafts into writing that connects and converts. | 40% OFF with code **BLACKFRIDAY2025** | 2025-12-01 |
 | 💥 | [SmartTask](https://www.smarttask.io?ref=rarebigdeal) | AI Powered Project Management Software - Track and manage your processes in one place | **50% OFF for Two Years** (Coupon: 2025BF50) and **30% OFF for One Year** (Coupon: 2025BF30) | 2025-12-05 |
+| 🎤 | [LetsVocal](https://letsvocal.com) | AI-Powered Voice Generation & Text-to-Speech | **20% OFF** with discount code **LETSVOCAL20** | 2025-12-01 |
 
 
 ### Other
