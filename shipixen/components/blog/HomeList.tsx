@@ -203,7 +203,7 @@ export default function HomeList({
             numberOfPosts={numberOfPosts}
             showImage={showImage}
             showCaseClass="mt-4"
-            hideCarousels={['AI Tools']}
+            hideCarousels={[]}
           />
         ))}
 
