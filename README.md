@@ -126,6 +126,7 @@ It's free & open-source. Enjoy! 🚀
 | ✅ | [WishKit](https://www.wishkit.io?via=rbd) | A complete and native feedback system for your iOS and macOS App. Allow your users to submit feedback and feature requests. Collect user votes for each suggestion and identify the highest converting feature you should be focusing on implementing next. | **40% OFF** Lifetime on any plan with code **BLACKFRIDAY2025** | 2025-12-01 |
 | 🌟 | [WinWinKit](https://winwinkit.com?ref=rbd) | Affiliates & referrals platform for mobile apps. | **100 Free Users** with code **RARE100** | 2025-12-01 |
 | 🔐 | [iScan.today](https://iscan.today) | Discover Hidden Secrets Worth Thousands. | **50% off** with discount code **ISCANBF25** | 2025-12-01 |
+| 🔻 | [IsDown.app](https://isdown.app) | Never miss a vendor outage again! The best status page aggregator + uptime monitoring + status pages. | **25% OFF** in Starter & Pro plan with code **BF2025** | 2025-12-01 |
 
 
 ### Browser Extensions
