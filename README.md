@@ -391,6 +391,8 @@ It's free & open-source. Enjoy! 🚀
 | 🏡 | [Gardenly - AI Garden Design](https://apps.apple.com/app/apple-store/id6747178697) | Transform your garden instantly from one photo with AI-generated, photorealistic garden designs. | **50% OFF** first week with code BLACKFRIDAY | 2025-12-02 |
 | 🖼️ | [Infography](https://infography.in) | Turn your blogs into stunning, shareable infographics. | **Black Friday Lifetime Deals** starts at **$49** | 2025-12-01 |
 | 🎨 | [IconSprint](https://iconsprint.com) | Create iOS and Android app icons with dark mode, tinted, and mono variants in one click. | **40% OFF** with code **BF2025** | 2025-12-02 |
+| 🛋️ | [Instant Interior AI](https://InstantInteriorAI.com) | Transform any space with AI-generated interior design. Virtually stage or redesign interiors in seconds — perfect for professionals and homeowners. | **30% OFF** all plans with code BLACKFRIDAY30 | 2025-11-29 |
+
 
 
 ### Video Tools
