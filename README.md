@@ -161,6 +161,7 @@ It's free & open-source. Enjoy! 🚀
 | 📸 | [Promptlight](https://promptlight.app) | Spotlight-like launcher for your AI Prompts. | **40% OFF** Lifetime Version with code **BF2025** | 2025-12-01 |
 | ✍️ | [Kerlig](https://www.kerlig.com/) | AI Writing Assistant & Chat for macOS. Write replies on Slack and Mail using your tone of voice. Fix spelling before sending a message. Summarize websites and YouTube videos. | 20 x **BF40** 40% OFF and 100 x **BF20** 20% OFF  | 2025-12-02 |
 | 🐇 | [RabbitHoles AI](https://rabbitholes.ai/?utm_source=danmindru) | Chat with AI models on an infinite canvas; Bring your own API keys, and all models in one app with local storage of data | 51% OFF with code **BLACKFRIDAY2025** | 2025-12-01
+| ⭐ | [Prompty](https://prompty.to/?utm_source=tonybf) | A unified LLM playground to manage prompts, compare models, and debug AI prompts with ease. | **50% OFF** Lifetime Pro Plan with code **BLACKFRIDAY50** | 2025-12-01 |
 
 
 ### Productivity
