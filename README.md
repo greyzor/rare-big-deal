@@ -140,6 +140,7 @@ It's free & open-source. Enjoy! 🚀
 | 📢 | [SocialRails](https://socialrails.com) | Create content, post everywhere. Schedule to 9 social platforms and create content with built-in AI tools. | 20% OFF forever with code:  **AI20** | 2029-01-01 |
 | 💥 | [TypeBoost](https://www.typeboost.ai) | Build your personal AI toolkit. Use anywhere you type on Mac. Write, translate, improve, explain, brainstorm... + iOS app | **60% OFF** for 6 months with code **BF2025** | 2025-12-05 |
 | 💥 | [WhisperUI](https://whisperui.com/pricing) | Affordable, accurate transcription powered by OpenAI Whisper | 55% OFF | 2025-12-05 |
+| 💰 | [HyperWhisper](https://hyperwhisper.com/?utm_source=danmindru) | Highly customizable speech-to-text. Ultra-fast and accurate. Offline models. 8+ STT providers. | 50% OFF Lifetime **BLACKFRIDAY2025** |
 
 
 [⬆️ All categories](#table-of-contents)
