@@ -32,23 +32,26 @@ export function ProductCarousel({
     >
       <Carousel
         opts={{
-          align: 'start',
+          align: 'center',
           loop: true,
           slidesToScroll: 1,
           containScroll: 'trimSnaps',
         }}
         className="w-full h-full"
       >
-        <CarouselContent className="-ml-2 md:-ml-4">
+        <CarouselContent className="-ml-2 md:-ml-4 h-full">
           {images.map((image, index) => (
-            <CarouselItem key={index} className="pl-2 md:pl-4 basis-full">
-              <div className="relative h-full">
+            <CarouselItem
+              key={index}
+              className="pl-2 md:pl-4 basis-[95%] sm:basis-auto h-full"
+            >
+              <div className="relative h-full flex items-center justify-center">
                 <Image
                   src={image}
                   alt={`${title} - Image ${index + 1}`}
                   width={1240}
                   height={640}
-                  className="bg-white rounded-md w-auto"
+                  className="bg-white rounded-md w-full sm:w-auto max-h-[380px] sm:max-h-[450px] object-contain"
                 />
               </div>
             </CarouselItem>
