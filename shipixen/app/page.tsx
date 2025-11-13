@@ -9,8 +9,7 @@ import { Button } from '@/components/shared/ui/button';
 import HomeList from '@/components/blog/HomeList';
 import stats from '@/data/stats';
 import { metadata } from '@/data/config/metadata';
-import { Showcase } from '@/components/showcase/Showcase';
-import { picksIndex } from '@/data/picks/index';
+// import { BundleShowcase } from '@/components/showcase/BundleShowcase';
 import Link from 'next/link';
 import { LandingWavesCtaBg } from '@/components/landing/cta-backgrounds/LandingWavesCtaBg';
 
@@ -41,32 +40,7 @@ const avatars = [
   },
 ];
 
-const weightedBundles = [
-  ...Array(3).fill('ai-apps.js'),
-  ...Array(2).fill('mac-apps.js'),
-  ...Array(2).fill('niche-apps.js'),
-  ...picksIndex.filter(
-    (bundle) =>
-      !['ai-apps.js', 'mac-apps.js', 'niche-apps.js'].includes(bundle),
-  ),
-]
-
-const getRandomBundle = () => {
-  const now = new Date();
-  const minutes = now.getMinutes();
-  const randomIndex =
-    (Math.floor(minutes / 20) + now.getHours()) % weightedBundles.length;
-  return weightedBundles[randomIndex];
-};
-
-const loadBundle = async (bundleName) => {
-  const m = await import(`@/data/picks/${bundleName}`);
-  return m.default;
-};
-
 export default async function Home() {
-  const bundleName = getRandomBundle();
-  const bundle = await loadBundle(bundleName);
   const users = stats.contributors || 0;
 
   return (
@@ -75,7 +49,7 @@ export default async function Home() {
       <LandingPrimaryTextCtaSection
         title="Rare Deals and Discounts"
         descriptionComponent={
-          <p className="max-w-3xl">
+          <p className="text-sm md:text-base max-w-3xl">
             Limited time deals on the best <strong>iOS Apps</strong>,{' '}
             <strong>Mac Apps</strong>, <strong>SaaS</strong>,{' '}
             <strong>AI</strong> and <strong>Web Apps</strong>. <br />
@@ -99,7 +73,7 @@ export default async function Home() {
 
             <Button
               size="xl"
-              className="backdrop-blur-[2px] bg-white/30 dark:bg-black/40"
+              className="backdrop-blur-[2px] bg-white/30 dark:bg-black/40 border-2 border-gray-500/10"
             >
               <Link href="/categories/developer-tools">All Categories</Link>
             </Button>
@@ -123,9 +97,9 @@ export default async function Home() {
         </div>
       </LandingPrimaryTextCtaSection>
 
-      {bundle && <Showcase className="mt-8" bundle={bundle} />}
+      {/* <BundleShowcase className="mt-8" /> */}
 
-      <section className="max-w-2xl 2xl:max-w-6xl w-full mt-12 p-6">
+      <section className="max-w-2xl 2xl:max-w-6xl w-full mt-2 p-6">
         <HomeList />
       </section>
 
