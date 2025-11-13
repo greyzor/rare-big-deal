@@ -218,6 +218,7 @@ It's free & open-source. Enjoy! 🚀
 | 🧪 | [Chemy - AI Chemistry Answers](https://apps.apple.com/app/apple-store/id6747715456) | Your pocket chemistry tutor that solves and explains chemistry problems instantly from text or a photo wutg AI. | **50% OFF** yearly plan with code BLACKFRIDAY | 2025-12-02 |
 | 🌅 | [BringBack AI](https://bringback.pro) | AI service to restore, enhance, and animate old or damaged photos. | **10% OFF** with code MEMORIES | 2025-12-31 |
 | 📸 | [Unrealshot AI](https://www.unrealshot.com) | Generates realistic professional photoshoots (headshots, corporate, glamour, founder looks) from your selfies using AI. High-quality, fast results. | **15% OFF** all photo packs with code WELCOME15 | 2025-11-30 |
+| 👗 | [swapOutfit](https://www.swapoutfit.com) | Try on any outfit virtually using AI — see how clothes fit and look on you before buying. | **15% OFF** all credit packs with code **BLACKFRIDAY2025** | 2025-12-02 |
 
 
 [⬆️ All categories](#table-of-contents)
