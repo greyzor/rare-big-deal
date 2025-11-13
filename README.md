@@ -105,6 +105,7 @@ It's free & open-source. Enjoy! 🚀
 | ⚡ | [HTTP Toolkit](https://httptoolkit.com/?ref=rare-big-deal) | Open-source cross-platform HTTP debugger & client, with instant one-click setup for Android, Docker, node.js & more | **50% off** forever on annual subscriptions, with code **BLACKFRIDAY25** | 2025-12-03 |
 | 🧑‍💻 | [Tower](https://www.git-tower.com/) | Powerful, native Git client for Mac and Windows, with undo, drag and drop, workflows, and support for Stacked Branches | 30% OFF any plan for new customers only (no coupon code needed) | 2025-12-07 |
 | 🐭 | [Lasso](https://thelasso.app) | Grid-based, intuitive and fast Window Manager. Ideal for developers and multi-window environments | **50% OFF** on Single and Personal licence types with code **BLACKFRIDAY25** | 2025-12-03 |
+| 🔑 | [KeygenGo](https://keygengo.5km.tech) | Licensing & Distribution | A native macOS app that transforms your Keygen.sh experience. Manage licenses, track users, and monitor products through an elegant visual interface. | 50% OFF Lifetime Plan with code **BF2025**. Starts on 2025-11-20 |  2025-12-02  |
 
 
 ### APIs, Tools & SaaS
@@ -173,7 +174,7 @@ It's free & open-source. Enjoy! 🚀
 | 📐 | [ResizeGenius](https://gracehuang.gumroad.com/l/resizegenius/BLACKFRIDAY25) | macOS app for Effortless Batch Resizing and Editing of Images | **40% OFF** with code **BLACKFRIDAY25** | 2025-12-01 |
 | ✏️ | [Redac](https://gracehuang.gumroad.com/l/redac/BLACKFRIDAY25) | MacOS app that makes redacting text in images easier | **40% OFF** with code **BLACKFRIDAY25** | 2025-12-01 |
 | 📚 | [SpatialRead](https://spatialread.com/?utm_source=rbd) | Quickly understand complex research papers with AI-powered explanations. | **45% OFF** Lifetime deal ($49) | 2025-12-01 |
-
+|  | [Orchard](https://orchard.5km.tech) | Productivity | Orchard bridges MCP‑compatible AI assistants with your Apple ecosystem, turning plain language into real actions across native macOS apps—privately, instantly, and locally. | 50% OFF Lifetime Plan with code **BF2025**. Starts on 2025-11-20 |  2025-12-02  |
 
 ### Other
 
@@ -231,6 +232,7 @@ It's free & open-source. Enjoy! 🚀
 | 📸 | [Xnapper](https://xnapper.com) | Take screenshots that are beautiful by default. #1 Screenshot Tool for macOS and Windows with new features including GIF recording, cloud storage, and video capture. | **30% OFF** Lifetime Premium Plan with code **BLACKFRIDAY2025** | 2025-12-01 |
 | 🕑 | [Chronoid](https://chronoid.app?utm=rare-big-deal) | AI-powered time tracking with website blocking and productivity insights. Automatically categorize activities, block distractions, stay focused, all private on Mac. | 50% OFF with code **BLACKFRIDAY** | 2025-12-04 |
 | 🖥️ | [ScreenSnap Pro](https://screensnap.pro/?utm_source=bf) | Turn ordinary screenshots into stunning visuals in seconds. Add gorgeous backgrounds, annotate with 14 tools, and cloud share instantly.| 50% OFF Lifetime and Subscription **EZNZQWNW** | 2025-12-30 |
+| 🗜️ | [Zipic](https://zipic.app?ref=fndxmacappspro) | Media file Optimization | A Mac image compression tool that optimizes images while preserving quality. Features multiple formats, batch processing, automated workflows, and local processing. | 33% OFF Lifetime Plan with code **BF2025**. Starts on 2025-11-20 |  2025-12-02  |
 
 
 ### Design Tools
@@ -262,6 +264,7 @@ It's free & open-source. Enjoy! 🚀
 | - | - | - | - | - |
 | 🖊 | [RewriteBar](https://rewritebar.com?ref=rarebigdeal) | RewriteBar is a macOS menu bar app that allows you to rewrite text using AI. Correct grammar, translate, adjust tone, and more. | 50% OFF with code **BF2025** | 2025-12-01 |
 | 📈 | [Reporting - Ad Network Reports](https://apps.apple.com/app/apple-store/id1559813249) | Track and monitor your daily, weekly, and monthly ad network revenue effortlessly in a single convenient location. | **50% OFF** lifetime plan. No code needed. | 2025-12-02 |
+| ⏲️ | [TimeGo-Clock](https://apps.apple.com/cn/app/timego-clock/id6448658165?l=en-GB&mt=12) | Focus & Time | TimeGo is a lightweight timer app with a fresh 2.0 Ul. Create custom countdown combinations for your workflow. | 50%+ OFF. Starts on 2025-11-20 |  2025-12-02  |
 
 
 [⬆️ All categories](#table-of-contents)
