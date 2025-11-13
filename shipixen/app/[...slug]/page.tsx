@@ -121,12 +121,15 @@ export default async function Page({ params }: { params: { slug: string[] } }) {
 
     // Look up product info from overrides
     const productInfo = productOverrides.overrides[slug];
-    const productTitle = productInfo?.metaTitle || slug.split('-').map(word =>
-      word.charAt(0).toUpperCase() + word.slice(1)
-    ).join(' ');
+    const productTitle =
+      productInfo?.metaTitle ||
+      slug
+        .split('-')
+        .map((word) => word.charAt(0).toUpperCase() + word.slice(1))
+        .join(' ');
     const productDescription = productInfo?.metaDescription;
     const logo = productInfo?.logo;
-    const fallbackImage = '/static/images/logo.png';
+    const fallbackImage = '/static/images/fallback.png';
     const tintColor = hashStringToColor(productTitle);
 
     // Get top 20 popular deals
@@ -208,8 +211,6 @@ export default async function Page({ params }: { params: { slug: string[] } }) {
           )}
 
           <div className="mt-8 space-y-4">
-
-
             {productDescription && (
               <p className="text-sm text-gray-600 dark:text-gray-400 max-w-2xl py-4 mx-auto">
                 {productDescription}
@@ -217,7 +218,8 @@ export default async function Page({ params }: { params: { slug: string[] } }) {
             )}
 
             <p className="text-xl text-gray-800 dark:text-gray-200">
-              The deal for <span className='font-semibold'>{productTitle}</span> is not available at the moment.
+              The deal for <span className="font-semibold">{productTitle}</span>{' '}
+              is not available at the moment.
             </p>
 
             <p className="text-sm text-gray-500 dark:text-gray-500 mt-2">
@@ -228,7 +230,7 @@ export default async function Page({ params }: { params: { slug: string[] } }) {
 
         {topDeals.length > 0 && (
           <>
-            <Separator className='my-12' />
+            <Separator className="my-12" />
             <section className="max-w-2xl 2xl:max-w-6xl w-full p-6 mb-12">
               <div className="text-center mb-8">
                 <h2 className="text-2xl font-bold text-gray-900 dark:text-gray-100">
