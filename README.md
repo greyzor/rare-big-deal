@@ -419,6 +419,7 @@ It's free & open-source. Enjoy! 🚀
 | ⭐ | [WordPress to Buffer Pro](https://www.wpzinc.com/plugins/wordpress-to-buffer-pro/) | Automatically send content to your Buffer account for scheduled publishing to Facebook, X, Instagram, Threads, LinkedIn, Pinterest, Mastodon, Bluesky, TikTok and Google Business. | 30% OFF with code **BF2025** | 2025-12-01 |
 | ⭐ | [Social Post Flow](https://www.socialpostflow.com) | Automatically send WordPress content for scheduled publishing to Facebook, X, Instagram, Threads, LinkedIn, Pinterest and Mastodon. | 20% OFF with code **BF2025** | 2025-12-01 |
 
+
 ### Email Marketing
 
 | | Name | Description | Deal | Expires on date |
