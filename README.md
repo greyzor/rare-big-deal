@@ -337,6 +337,7 @@ It's free & open-source. Enjoy! 🚀
 | 📝 | [Capture - Quick Notes](https://apps.apple.com/app/apple-store/id6458535284) | Easily capture your thoughts & ideas on the go and export them to your favourite apps. | **50% OFF** Lifetime plan with code BLACKFRIDAY | 2025-12-02 |
 | 📄 | [Pify - Convert Picture to PDF](https://apps.apple.com/app/apple-store/id6748066045) | The easiest way to turn your photos and images into polished PDFs in just a few taps. | **66% OFF** Lifetime plan with code BLACKFRIDAY | 2025-12-02 |
 | 📚 | [TTS Reader AI](https://apps.apple.com/us/app/id6746346171)| Unlimited listening with premium realistic AI voices. Supports PDF, EPUB, Kindle, and more. | Annual plan: **$9.99** (no VAT, automatically applied)| 2025-11-30 |
+| 🔥 | [ADHD Structure Planner - Simple](https://apps.apple.com/us/app/adhd-structure-planner-simple/id6742843891) | Structure Your Day. Unlock Your Focus. | **50% OFF** Lifetime with code MASTERY | 2025-12-05 |
 
 
 ### Photos & Videos
@@ -427,6 +428,7 @@ It's free & open-source. Enjoy! 🚀
 | 💥 | [TypeBoost](https://www.typeboost.ai) | Build your personal AI toolkit. Use anywhere you type on Mac. Write, translate, improve, explain, brainstorm... + iOS app | **60% OFF** for 6 months with code **BF2025** | 2025-12-05 |
 | 📝 | [Capture - Quick Notes](https://apps.apple.com/app/apple-store/id6458535284) | Easily capture your thoughts & ideas on the go and export them to your favourite apps. | **50% OFF** Lifetime plan with code BLACKFRIDAY | 2025-12-02 |
 | 📄 | [Pify - Convert Picture to PDF](https://apps.apple.com/app/apple-store/id6748066045) | The easiest way to turn your photos and images into polished PDFs in just a few taps. | **66% OFF** Lifetime plan with code BLACKFRIDAY | 2025-12-02 |
+| 🔥 | [ADHD Structure Planner - Simple](https://apps.apple.com/us/app/adhd-structure-planner-simple/id6742843891) | Structure Your Day. Unlock Your Focus. | **50% OFF** Lifetime with code MASTERY | 2025-12-05 |
 
 ### Team Project Management Software
 | | Name | Description | Deal | Expires on date |
