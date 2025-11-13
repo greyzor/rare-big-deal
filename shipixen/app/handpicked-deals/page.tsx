@@ -7,6 +7,7 @@ import { picksIndex } from '@/data/picks/index';
 import stats from '@/data/stats';
 import Link from 'next/link';
 import bestApps from '@/data/picks/best-apps';
+import { LandingShapesCtaBg } from '@/components/landing/cta-backgrounds/LandingShapesCtaBg';
 
 const avatars = [
   {
@@ -40,13 +41,15 @@ const loadBundles = () => {
     picksIndex.map(async (bundleName) => {
       const m = await import(`@/data/picks/${bundleName}`);
       return m.default;
-    })
+    }),
   );
 };
 
 export default async function AllBundles() {
   const bundles = await loadBundles();
-  const filteredBundles = bundles.filter((bundle) => bundle.name !== 'Best Apps');
+  const filteredBundles = bundles.filter(
+    (bundle) => bundle.name !== 'Best Apps',
+  );
   const users = stats.contributors || 0;
 
   return (
@@ -63,6 +66,7 @@ export default async function AllBundles() {
         }
         textPosition="center"
         className="relative bg-gray-200/60 dark:bg-gray-900"
+        effectComponent={<LandingShapesCtaBg variant="primary" />}
       >
         <div className="flex flex-col items-center justify-center">
           <div className="flex flex-wrap justify-center gap-2">
