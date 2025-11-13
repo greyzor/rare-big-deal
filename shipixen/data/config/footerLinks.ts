@@ -9,28 +9,50 @@ export const footerLinks: Array<{
     columnName: 'Popular Categories',
     links: [
       {
-        href: '/categories/design-tools',
-        title: 'Design Tools',
+        href: '/categories/ai-tools',
+        title: 'AI Tools',
       },
       {
-        href: '/categories/seo-tools',
-        title: 'SEO Tools',
+        href: '/categories/macos-apps',
+        title: 'MacOS Apps',
       },
       {
-        href: '/categories/health-and-fitness',
-        title: 'Health and Fitness',
+        href: '/categories/developer-tools',
+        title: 'Developer Tools',
+      },
+    ],
+  },
+
+  {
+    columnName: 'Categories',
+    links: [
+      {
+        href: '/categories/ai-tools',
+        title: 'AI Tools',
       },
       {
-        href: '/categories/finance',
-        title: 'Finance',
+        href: '/categories/developer-tools',
+        title: 'Developer Tools',
       },
       {
-        href: '/categories/mailing-lists-newsletters--blogs',
-        title: 'Mailing Lists & Newsletters',
+        href: '/categories/ios-apps',
+        title: 'iOS Apps',
       },
       {
-        href: '/categories/productized-services',
-        title: 'Productized Services',
+        href: '/categories/macos-apps',
+        title: 'MacOS Apps',
+      },
+      {
+        href: '/categories/productivity',
+        title: 'Productivity',
+      },
+      {
+        href: '/categories/marketing',
+        title: 'Marketing',
+      },
+      {
+        href: '/categories/learning',
+        title: 'Learning',
       },
       {
         href: '/categories/miscellaneous',
@@ -40,53 +62,14 @@ export const footerLinks: Array<{
   },
 
   {
-    columnName: 'Categories',
-    links: [
-      {
-        href: '/categories/developer-tools',
-        title: 'Developer Tools',
-      },
-      {
-        href: '/categories/ai-tools',
-        title: 'AI Tools',
-      },
-      {
-        href: '/categories/macos-apps',
-        title: 'MacOS Apps',
-      },
-      {
-        href: '/categories/ios-apps',
-        title: 'iOS Apps',
-      },
-
-      {
-        href: '/categories/productivity',
-        title: 'Productivity',
-      },
-      {
-        href: '/categories/marketing',
-        title: 'Marketing',
-      },
-
-      {
-        href: '/categories/boilerplates-starters--libraries',
-        title: 'Boilerplates & Libraries',
-      },
-      {
-        href: '/categories/learning',
-        title: 'Learning',
-      },
-    ],
-  },
-
-  {
     columnName: 'Company',
     links: [
       { href: '/', title: 'Home' },
-      { href: '/categories', title: 'All Categories' },
+      { href: '/categories/developer-tools', title: 'All Categories' },
       { href: '/handpicked-deals', title: 'Staff Picks' },
       { href: '/most-popular', title: 'Most Popular' },
       { href: '/all-deals', title: 'All Deals' },
+      { href: '/all-apps', title: 'All Apps' },
       {
         href: 'https://github.com/danmindru/rare-big-deal/issues/130',
         title: 'Submit',
