@@ -399,7 +399,7 @@ It's free & open-source. Enjoy! 🚀
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
-| ⭐ | Be the first to add a deal in this category! | | | |
+| 📚 | [Guidejar](https://www.guidejar.com/?utm_source=rare-big-deal) | Guidejar helps teams document how things work through AI-powered interactive walkthroughs that keep everyone aligned and up to speed. | **25% OFF** with code **BFCM25** | 2025-12-02 |
 
 
 [⬆️ All categories](#table-of-contents)
