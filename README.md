@@ -80,7 +80,6 @@ It's free & open-source. Enjoy! 🚀
   - [Dashboards](#dashboards)
   - [Investment Research](#investment-research)
   - [Expense tracking](#expense-tracking)
-- [Sales Tools](#sales-tools)
 - [Miscellaneous](#miscellaneous)
   - [All](#all)
 
@@ -475,7 +474,9 @@ It's free & open-source. Enjoy! 🚀
 | ⭐ | [Social Post Flow](https://www.socialpostflow.com) | Automatically send WordPress content for scheduled publishing to Facebook, X, Instagram, Threads, LinkedIn, Pinterest and Mastodon. | 20% OFF with code **BF2025** | 2025-12-01 |
 | 📥 | [Bluesky Inbox](https://www.blueskyinbox.com/) | Real-time Bluesky keyword and author tracking from the comfort and privacy of your browser. | **30% OFF** with code **BF2025** | 2025-12-12 |
 
+
 ### Sales Tools
+
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 💰 | [Saleshandy](https://www.saleshandy.com/pricing/) | AI-powered B2B cold email outreach platform that helps businesses automate and scale their lead generation efforts. | **Flat 50% OFF** with code **BFCM50** | 2025-12-01 |
