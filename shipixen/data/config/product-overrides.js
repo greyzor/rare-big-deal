@@ -39,6 +39,18 @@ module.exports = {
         'Web Development',
       ],
     },
+    'adhd-structure-planner-simple': {
+      tags: [
+        'Productivity',
+        'Tools',
+        'Mac',
+        'ADHD',
+        'Planning',
+        'Organization',
+      ],
+      metaDescription:
+        '**Get the discount by redeeming the code [in the AppStore by following this link](https://apps.apple.com/redeem?ctx=offercodes&id=6742843891&code=CODE)**.\n\nADHD Structure Planner is the all-in-one productivity app designed for ADHD minds and anyone who craves clarity in their day.',
+    },
     'affonso-io': {
       metaDescription:
         'Turn affiliate marketing into a reliable growth channel for your SaaS. Our automated platform helps you launch, manage and scale profitable partner programs without the technical hassle.',
@@ -384,6 +396,12 @@ module.exports = {
     },
     'dark-sleep': {
       tags: ['Fitness', 'Health', 'Wellness'],
+    },
+    darkroom: {
+      tags: ['Photos & Videos', 'Productivity', 'Tools'],
+      ogImage: '/public/static/images/overrides/darkroom/ogImage.png',
+      logo: '/public/static/images/overrides/darkroom/logo.png',
+      metaTitle: 'Darkroom - Craft Stunning Photos and Videos That Stand Out',
     },
     deskrest: {
       tags: [
@@ -1304,7 +1322,8 @@ module.exports = {
     taprefer: {
       tags: ['Affiliate Marketing', 'Marketing', 'Promotion'],
       metaTitle: 'Find Affiliate Programs to Earn',
-      metaDescription: 'The biggest & latest affiliate programs directory, where content creators can easily find affiliate programs for their niche in minutes.',
+      metaDescription:
+        'The biggest & latest affiliate programs directory, where content creators can easily find affiliate programs for their niche in minutes.',
       logo: '/public/static/images/overrides/taprefer/logo.png',
       ogImage: '/public/static/images/overrides/taprefer/ogImage.webp',
     },
