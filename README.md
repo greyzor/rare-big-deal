@@ -52,8 +52,6 @@ It's free & open-source. Enjoy! 🚀
   - [Website Builders](#website-builders)
   - [Ads \& Paid listings](#ads--paid-listings)
   - [Other](#other-3)
-- [Sales Tools](#sales-tools)
-   - [Saleshandy](#saleshandy)
 - [SEO Tools](#seo-tools)
   - [Backlinks](#backlinks)
   - [Tools](#tools)
@@ -82,6 +80,7 @@ It's free & open-source. Enjoy! 🚀
   - [Dashboards](#dashboards)
   - [Investment Research](#investment-research)
   - [Expense tracking](#expense-tracking)
+- [Sales Tools](#sales-tools)
 - [Miscellaneous](#miscellaneous)
   - [All](#all)
 
