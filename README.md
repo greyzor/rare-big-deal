@@ -413,7 +413,6 @@ It's free & open-source. Enjoy! 🚀
 | 👵 | [TranslateMom](https://translate.mom/) | Instantly caption, translate, or dub HD videos in 100+ languages with natural voices, GPT-4o dubbing, and priority exports (2,000 min/mo, 29 languages, 30-day storage). | **70% OFF** Annual Pro Plan — $159 (reg. $528) with code **BLACK** | 2025-12-02 |
 
 
-
 ### Social
 
 | | Name | Description | Deal | Expires on date |
