@@ -476,6 +476,13 @@ It's free & open-source. Enjoy! 🚀
 | 📥 | [Bluesky Inbox](https://www.blueskyinbox.com/) | Real-time Bluesky keyword and author tracking from the comfort and privacy of your browser. | **30% OFF** with code **BF2025** | 2025-12-12 |
 
 
+### Sales Tools
+
+| | Name | Description | Deal | Expires on date |
+| - | - | - | - | - |
+| 💰 | [Saleshandy](https://www.saleshandy.com/pricing/) | AI-powered B2B cold email outreach platform that helps businesses automate and scale their lead generation efforts. | **Flat 50% OFF** with code **BFCM50** | 2025-12-01 |
+
+
 ### Email Marketing
 
 | | Name | Description | Deal | Expires on date |
