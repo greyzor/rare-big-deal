@@ -52,6 +52,8 @@ It's free & open-source. Enjoy! 🚀
   - [Website Builders](#website-builders)
   - [Ads \& Paid listings](#ads--paid-listings)
   - [Other](#other-3)
+- [Sales Tools](#sales-tools)
+   - [Saleshandy](#saleshandy)
 - [SEO Tools](#seo-tools)
   - [Backlinks](#backlinks)
   - [Tools](#tools)
@@ -473,6 +475,11 @@ It's free & open-source. Enjoy! 🚀
 | 🚀 | [Redreach](https://redreach.ai) | Reddit Marketing Tool: Turn Reddit traffic into customers. Finds high impact Reddit conversations to help you naturally promote your product, send automated DMs and get more sales. | 30% OFF with code **BF25** (on all subscription plans) | 2025-12-02
 | ⭐ | [Social Post Flow](https://www.socialpostflow.com) | Automatically send WordPress content for scheduled publishing to Facebook, X, Instagram, Threads, LinkedIn, Pinterest and Mastodon. | 20% OFF with code **BF2025** | 2025-12-01 |
 | 📥 | [Bluesky Inbox](https://www.blueskyinbox.com/) | Real-time Bluesky keyword and author tracking from the comfort and privacy of your browser. | **30% OFF** with code **BF2025** | 2025-12-12 |
+
+### Sales Tools
+| | Name | Description | Deal | Expires on date |
+| - | - | - | - | - |
+| 💰 | [Saleshandy](https://www.saleshandy.com/pricing/) | AI-powered B2B cold email outreach platform that helps businesses automate and scale their lead generation efforts. | **Flat 50% OFF** with code **BFCM50** | 2025-12-01 |
 
 
 ### Email Marketing
