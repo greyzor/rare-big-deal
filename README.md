@@ -379,6 +379,8 @@ It's free & open-source. Enjoy! 🚀
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | ⭐ | Be the first to add a deal in this category! | | | |
+| ⭐ | [flowjoy](https://www.flowjoy.online) | Automate your growth loop across SEO, Reddit, X in minutes not hours | **LIFETIME DEAL** | 2025-12-15 |
+
 
 
 ### Other
@@ -420,6 +422,8 @@ It's free & open-source. Enjoy! 🚀
 | ⭐ | [Verbatik AI](https://verbatik.com) | Unlimited text-to-speech and voice cloning across 150+ languages. Generate voiceovers, custom voices, music, videos, sound effects, auto captions and AI conversations — instantly and without limits.| **50% OFF** for a year with discount code **BFCM2025** | 2025-12-31 |
 | 📢 | [SocialRails](https://socialrails.com) | Create content, post everywhere. Schedule to 9 social platforms and create content with built-in AI tools. | 20% OFF forever with code:  **AI20** | 2029-01-01 |
 | ✍️ | [Semantic Pen](https://www.semanticpen.com/) | AI-powered content writer that helps you create high-quality, SEO-optimized content for blogs, marketing, and more. | **20% OFF** with code **20BF2025** | 2025-12-31 |
+| ⭐ | [flowjoy](https://www.flowjoy.online) | Automate your growth loop across SEO, Reddit, X in minutes not hours | **LIFETIME DEAL** | 2025-12-15 |
+
 
 
 ### Affiliate Marketing
@@ -492,6 +496,7 @@ It's free & open-source. Enjoy! 🚀
 | - | - | - | - | - |
 | ⭐ | Be the first to add a deal in this category! | | | |
 | 🎯 | [MagicSpace SEO](https://magicspace.agency) | SEO consulting agency providing blog posts, link building, and content strategy for SaaS companies. Works with clients like Chatbase, Tolt, Cheateye, JustSext, Outseta, and Kerberus. | **25% OFF** with code **BF25** | 2025-12-01 |
+| ⭐ | [flowjoy](https://www.flowjoy.online) | Automate your growth loop across SEO, Reddit, X in minutes not hours | **LIFETIME DEAL** | 2025-12-15 |
 
 
 [⬆️ All categories](#table-of-contents)
