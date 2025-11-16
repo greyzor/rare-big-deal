@@ -680,6 +680,8 @@ It's free & open-source. Enjoy! 🚀
 | 🧑‍💻 | [Apple Developer Starter Pack](https://gracehuang.gumroad.com/l/bundle-ios-macos-development/BLACKFRIDAY25) | Books & Course for Swift, SwiftUI and macOS | **40% OFF** with code **BLACKFRIDAY25** | 2025-12-01 |
 | 🪝 | [Custom React Hooks Crash Course: Learn Hooks Through 6 Apps](https://www.udemy.com/course/custom-react-hooks-crash-course/?couponCode=BLACKFRIDAY_2025) | In this course, through 6 small applications, we'll recreate hooks and patterns that are commonly used in production web applications. If you’re preparing for a coding interview or working on a large-scale project, knowing how to use custom hooks in React is invaluable. | 50% OFF with code **BLACKFRIDAY_2025** |
 | 👨🏻‍💻 | [secubri.com ](https://www.secubri.com/security/) | Security Awareness Training - Keep your Business Safe, Understand the Danger| [50% OFF](https://www.secubri.com/security/) | 1st Training Only |
+| 💡 | [Superframeworks Idea Bank ](https://superframeworks.com/idea-bank) | 40+ SEO Validated Ideas | 100% OFF with Code BFCM25 |
+| 🫂 | [Indie Masterminds Community](https://indiemasterminds.com/) | Tight Knit Community of Indie Hackers going from 0 to $5K MRR | 50% OFF with Code BFCM25 |
 
 
 ### Educational Games
