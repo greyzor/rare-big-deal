@@ -624,6 +624,10 @@ It's free & open-source. Enjoy! 🚀
 | 🔥 | [Nextless.js React SaaS Boilerplate](https://nextlessjs.com) | Full-stack Next.js + Serverless SaaS boilerplate with Auth, Payments, Teams, Dashboards - TypeScript & Tailwind on AWS. | **66% OFF** on Single license - includes 3 databases instead of 1 (PostgreSQL, MySQL, MongoDB) | 2025-12-03 |
 | 🚀 | [LaunchFast](https://www.launchfa.st/) | Save hours with complete SaaS starter kits for Next.js, SvelteKit, and Astro — including SEO, auth, payments, docs, analytics, and more. | **$50 OFF** using `BLACKFRIDAY` | 2025-12-01 |
 
+### Astro
+| | Name | Description | Deal | Expires on date |
+| - | - | - | - | - |
+| 🚀 | [Lexington Themes](https://lexingtonthemes.com) | Premium Astro and Tailwind CSS themes. The biggest Astro collection with 39 premium themes. Trusted by 7,000+ freelancers, startups, and agencies — Awarded by Astro. | **40% OFF** on Full Access - Includes lifetime access to all templates + new additions and liftetime support | 2025-12-01 |
 
 ### Nuxt
 
