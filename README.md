@@ -440,10 +440,13 @@ It's free & open-source. Enjoy! 🚀
 | 🔥 | [ADHD Structure Planner - Simple](https://apps.apple.com/us/app/adhd-structure-planner-simple/id6742843891) | Structure Your Day. Unlock Your Focus. | **50% OFF** Lifetime with code MASTERY | 2025-12-05 |
 | ⭐ | [Luckynote](https://www.luckynote.io/?ref=danbf&promocode=DANBF50) | WhatsApp style note app that feels like texting yourself. Dump thoughts, links, files and tasks into one fast thread and actually find them later. | 50% OFF Lifetime - **DANBF50** | 2025-12-01 |
 
+
 ### Team Project Management Software
+
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 💥 | [SmartTask](https://www.smarttask.io?ref=rarebigdeal) | AI Powered Project Management Software - Track and manage your processes in one place | **50% OFF for Two Years** (Coupon: 2025BF50) and **30% OFF for One Year** (Coupon: 2025BF30) | 2025-12-05 |
+
 
 ### Marketing
 
@@ -517,6 +520,7 @@ It's free & open-source. Enjoy! 🚀
 | 📃 | [TapRefer](https://TapRefer.com) | The biggest & latest affiliate programs directory | **80% OFF** with code **BFCM25** | 2025-12-01 |
 | 🌟 | [WinWinKit](https://winwinkit.com?ref=rbd) | Affiliates & referrals platform for mobile apps. | **100 Free Users** with code **RARE100** | 2025-12-01 |
 
+
 ### Analytics
 
 | | Name | Description | Deal | Expires on date |
@@ -524,6 +528,7 @@ It's free & open-source. Enjoy! 🚀
 | ⭐ | [Subreddit Traffic Tracker](https://subreddittraffic.live/) | Reach maximum Reddit traffic by finding the best times to post. Track 400+ subreddits activity and optimize your posting schedule to increase your brand awareness and traffic. | 30% OFF on all plans with code **BLACKFRIDAY2025** | |
 | 📈 | [Reporting - Ad Network Reports](https://apps.apple.com/app/apple-store/id1559813249) | Track and monitor your daily, weekly, and monthly ad network revenue effortlessly in a single convenient location. | **50% OFF** lifetime plan. No code needed. | 2025-12-02 |
 | 📈 | [viral.app](https://viral.app) | UGC analytics platform to track TikTok, Instagram, and YouTube performance for brands and agencies. | **30% OFF** the first 3 months on monthly plans with code **viralblackfriday30**. | 2025-12-07 |
+| 📈 | [Rising Trends](https://www.risingtrends.co) | Never miss a trending niche again! (Get access to 12,000 trending markets as well trending apps, mega trends and niche reports) | **40% OFF** with code **BF2025**. | 2025-12-07 |
 
 
 ### Website Builders
@@ -549,6 +554,7 @@ It's free & open-source. Enjoy! 🚀
 | 📊 | [Branding5](https://branding5.com)| Define your brand and optimize your marketing strategy in just minutes with AI| **50% OFF** with code **BLACKFRIDAY** | 2025-12-01 |
 | 🔗 | [LinkNest](https://linknest.sh) | Create a professional link-in-bio page with unlimited links, custom domains, and advanced analytics | **90% OFF** with code **SAVE90** | 2025-12-01 |
 | 📈 | [NameKnow.com](https://NameKnow.com) | Curated Domain Name Marketplace| **20% OFF** with code **RAREBIGDEAL2025**. | 2025-12-07 |
+
 
 
 [⬆️ All categories](#table-of-contents)
@@ -586,7 +592,6 @@ It's free & open-source. Enjoy! 🚀
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
-| ⭐ | Be the first to add a deal in this category! | | | |
 | 🎯 | [MagicSpace SEO](https://magicspace.agency) | SEO consulting agency providing blog posts, link building, and content strategy for SaaS companies. Works with clients like Chatbase, Tolt, Cheateye, JustSext, Outseta, and Kerberus. | **25% OFF** with code **BF25** | 2025-12-01 |
 
 
@@ -733,7 +738,6 @@ It's free & open-source. Enjoy! 🚀
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
-| ⭐ | Be the first to add a deal in this category! | | | |
 | 🥗 | [Calorific - Nutrition Tracker](https://apps.apple.com/app/apple-store/id6645043253) | Quickly capture your meals and get instant nutritional insights. | **30% OFF** yearly plan with code BLACKFRIDAY | 2025-12-02 |
 
 
@@ -783,7 +787,6 @@ It's free & open-source. Enjoy! 🚀
 
 
 [⬆️ All categories](#table-of-contents)
-
 
 
 
