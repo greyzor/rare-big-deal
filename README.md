@@ -198,6 +198,7 @@ It's free & open-source. Enjoy! 🚀
 | ⭐ | [Luckynote](https://www.luckynote.io/?ref=danbf&promocode=DANBF50) | WhatsApp style note app that feels like texting yourself. Dump thoughts, links, files and tasks into one fast thread and actually find them later. | 50% OFF Lifetime - **DANBF50** | 2025-12-01 |
 | 📃 | [Invoice Mama](https://invoicemama.com) | 10 second invoices are here, upgrade your finance stack! | **50% OFF** with discount code **BF50** | 2025-12-01 |
 | 🍿 | [ClipCreator.ai](https://clipcreator.ai/?ref=rarebigdeal) | Create stunning faceless videos in minutes, not days! Grow your TikTok, YouTube, or Instagram faster with stunning AI-powered video creation. No skills needed - set and forget! We handle the rest.  | 40% OFF first month with code **BF2025** | 2025-12-02 |
+| 🚀 | [Side Space](https://www.sidespace.app) | The World‘s First AI Assistant for your Tabs | **40% OFF** with discount code **BF40** | 2025-12-01 |
 
 
 ### Other
