@@ -191,7 +191,7 @@ It's free & open-source. Enjoy! 🚀
 | 💥 | [SmartTask](https://www.smarttask.io?ref=rarebigdeal) | AI Powered Project Management Software - Track and manage your processes in one place | **50% OFF for Two Years** (Coupon: 2025BF50) and **30% OFF for One Year** (Coupon: 2025BF30) | 2025-12-05 |
 | 🎤 | [LetsVocal](https://letsvocal.com) | AI-Powered Voice Generation & Text-to-Speech | **20% OFF** with discount code **LETSVOCAL20** | 2025-12-01 |
 | 💌 | [Inbox Zero](https://www.getinboxzero.com) | AI executive assistant for email | **25% OFF** with discount code **FRIDAY25** | 2025-12-01 |
-
+| 🍿 | [ClipCreator.ai](https://clipcreator.ai/?ref=rarebigdeal) | Create stunning faceless videos in minutes, not days! Grow your TikTok, YouTube, or Instagram faster with stunning AI-powered video creation. No skills needed - set and forget! We handle the rest.  | 40% OFF first month with code **BF2025** | 2025-12-02 |
 
 ### Other
 
@@ -410,7 +410,7 @@ It's free & open-source. Enjoy! 🚀
 | - | - | - | - | - |
 | 🎬 | [Recut](https://getrecut.com) | Save time on audio and video editing! It cuts out the pauses automatically, better than AI tools | **$50 OFF** one-time purchase | 2025-12-01 |
 | 🎥 | [FilterGrade](https://filtergrade.com) | The visual marketplace for creators. Get discounts up to 60% OFF Video LUTs, Photo Presets, Social Media Templates and more. | **30% OFF ENTIRE CART** with discount code **BFCM2025** | 2025-12-02 |
-
+| 🍿 | [ClipCreator.ai](https://clipcreator.ai/?ref=rarebigdeal) | Create stunning faceless videos in minutes, not days! Grow your TikTok, YouTube, or Instagram faster with stunning AI-powered video creation. No skills needed - set and forget! We handle the rest.  | 40% OFF first month with code **BF2025** | 2025-12-02 |
 
 ### Social
 
@@ -505,7 +505,7 @@ It's free & open-source. Enjoy! 🚀
 | ✍️ | [Fast SEO Fix](https://www.fastseofix.com) | Grow Your Organic Traffic with Automated SEO. | **50% OFF** with code **BETA50** | 2025-12-31 |
 | ✨ | [Postel](https://postel.app) | Create content so good it gets you followers. It's like having the best creators you follow writing content for you. Postel analyzes thousands of viral posts to create content that performs while keeping your voice. | **30% OFF** forever on yearly plan with code **BF2025** | 2025-12-01 |
 | ⭐ | [Page Generator Pro](https://www.wpzinc.com/plugins/page-generator-pro/) | Automatically mass build local SEO, pSEO, GEO sites, directories or content at scale. 25+ Page Builder, SEO and Schema Plugin integrations + AI dynamic content generation | 30% OFF with code **BF2025** | 2025-12-01 |
-
+| 🍿 | [ClipCreator.ai](https://clipcreator.ai/?ref=rarebigdeal) | Create stunning faceless videos in minutes, not days! Grow your TikTok, YouTube, or Instagram faster with stunning AI-powered video creation. No skills needed - set and forget! We handle the rest.  | 40% OFF first month with code **BF2025** | 2025-12-02 |
 
 ### Affiliate Marketing
 
