@@ -130,6 +130,7 @@ It's free & open-source. Enjoy! 🚀
 | 🔐 | [iScan.today](https://iscan.today) | Discover Hidden Secrets Worth Thousands. | **50% off** with discount code **ISCANBF25** | 2025-12-01 |
 | 🔻 | [IsDown.app](https://isdown.app) | Never miss a vendor outage again! The best status page aggregator + uptime monitoring + status pages. | **25% OFF** in Starter & Pro plan with code **BF2025** | 2025-12-01 |
 | 🌐 | [DomainDetails Pro](https://domaindetails.com) | Advanced domain research & monitoring — ownership data, alerts, sales intelligence, and portfolio tools for professionals. | **50% OFF** on Pro with code **BFCM25** | 2025-12-01 |
+| 🌟 | [FullStro](http://fullstro.com/black-friday-deals/) | FullStro is an all-in-one multi-channel business automation platform that helps e-commerce businesses manage inventory, orders, and websites effortlessly. No code needed, fully integrated, and synchronized across sales, payments, and delivery systems. | **70% OFF** Coupon code Auto-Applied 2025-12-06 |
 
 
 ### Browser Extensions
