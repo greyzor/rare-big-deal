@@ -110,6 +110,7 @@ It's free & open-source. Enjoy! 🚀
 | 🔑 | [KeygenGo](https://keygengo.5km.tech) | A native macOS app that transforms your Keygen.sh experience. Manage licenses, track users, and monitor products through an elegant visual interface. | 50% OFF Lifetime Plan with code **BF2025**. Starts on 2025-11-20 |  2025-12-02  |
 | ☁️ | [DNSDeck](https://apps.apple.com/us/app/dnsdeck-manage-dns-zones/id6753925998?utm_source=BF-2025) | A powerful macOS DNS zone management client for CloudFlare and AWS Route 53. | ****50% OFF**** ($4.99) one-time purchase via the App Store | 2025-12-10 |
 | 🛡️ | [DeskVault](https://deskvault.app/) | All your Stripe accounts in one fast, powerful, private desktop app | **30% OFF** with code **BF2025** | 2025-12-12 |
+| 🔔 | [BetterNotif](https://www.betternotif.app/) | MacOS Stripe Real Time Notifications | **30% OFF** with code **BF25** | 2025-12-12 |
 
 
 ### APIs, Tools & SaaS
@@ -130,6 +131,8 @@ It's free & open-source. Enjoy! 🚀
 | 🔐 | [iScan.today](https://iscan.today) | Discover Hidden Secrets Worth Thousands. | **50% off** with discount code **ISCANBF25** | 2025-12-01 |
 | 🔻 | [IsDown.app](https://isdown.app) | Never miss a vendor outage again! The best status page aggregator + uptime monitoring + status pages. | **25% OFF** in Starter & Pro plan with code **BF2025** | 2025-12-01 |
 | 🌐 | [DomainDetails Pro](https://domaindetails.com) | Advanced domain research & monitoring — ownership data, alerts, sales intelligence, and portfolio tools for professionals. | **50% OFF** on Pro with code **BFCM25** | 2025-12-01 |
+| 🛡️ | [iSsl.today](https://issl.today) | Simple SSL monitoring that alerts you when certificates expire. | **100% off** for 1st month with discount code **FREESSL** | 2025-11-30 |
+| 🌟 | [FullStro](http://fullstro.com/black-friday-deals/) | FullStro is an all-in-one multi-channel business automation platform that helps e-commerce businesses manage inventory, orders, and websites effortlessly. No code needed, fully integrated, and synchronized across sales, payments, and delivery systems. | **70% OFF** Coupon code Auto-Applied 2025-12-06 |
 
 
 ### Browser Extensions
@@ -150,6 +153,7 @@ It's free & open-source. Enjoy! 🚀
 | 💥 | [TypeBoost](https://www.typeboost.ai) | Build your personal AI toolkit. Use anywhere you type on Mac. Write, translate, improve, explain, brainstorm... + iOS app | **60% OFF** for 6 months with code **BF2025** | 2025-12-05 |
 | 💥 | [WhisperUI](https://whisperui.com/pricing) | Affordable, accurate transcription powered by OpenAI Whisper | 55% OFF | 2025-12-05 |
 | 💰 | [HyperWhisper](https://hyperwhisper.com/?utm_source=danmindru) | Highly customizable speech-to-text. Ultra-fast and accurate. Offline models. 8+ STT providers. | 50% OFF Lifetime **BLACKFRIDAY2025** |
+| ⭐ | [Luckynote](https://www.luckynote.io/?ref=danbf&promocode=DANBF50) | WhatsApp style note app that feels like texting yourself. Dump thoughts, links, files and tasks into one fast thread and actually find them later. | 50% OFF Lifetime - **DANBF50** | 2025-12-01 |
 
 [⬆️ All categories](#table-of-contents)
 
@@ -191,7 +195,10 @@ It's free & open-source. Enjoy! 🚀
 | 💥 | [SmartTask](https://www.smarttask.io?ref=rarebigdeal) | AI Powered Project Management Software - Track and manage your processes in one place | **50% OFF for Two Years** (Coupon: 2025BF50) and **30% OFF for One Year** (Coupon: 2025BF30) | 2025-12-05 |
 | 🎤 | [LetsVocal](https://letsvocal.com) | AI-Powered Voice Generation & Text-to-Speech | **20% OFF** with discount code **LETSVOCAL20** | 2025-12-01 |
 | 💌 | [Inbox Zero](https://www.getinboxzero.com) | AI executive assistant for email | **25% OFF** with discount code **FRIDAY25** | 2025-12-01 |
+| ⭐ | [Luckynote](https://www.luckynote.io/?ref=danbf&promocode=DANBF50) | WhatsApp style note app that feels like texting yourself. Dump thoughts, links, files and tasks into one fast thread and actually find them later. | 50% OFF Lifetime - **DANBF50** | 2025-12-01 |
+| 📃 | [Invoice Mama](https://invoicemama.com) | 10 second invoices are here, upgrade your finance stack! | **50% OFF** with discount code **BF50** | 2025-12-01 |
 | 🍿 | [ClipCreator.ai](https://clipcreator.ai/?ref=rarebigdeal) | Create stunning faceless videos in minutes, not days! Grow your TikTok, YouTube, or Instagram faster with stunning AI-powered video creation. No skills needed - set and forget! We handle the rest.  | 40% OFF first month with code **BF2025** | 2025-12-02 |
+
 
 ### Other
 
@@ -220,6 +227,7 @@ It's free & open-source. Enjoy! 🚀
 | 🌅 | [BringBack AI](https://bringback.pro) | AI service to restore, enhance, and animate old or damaged photos. | **10% OFF** with code MEMORIES | 2025-12-31 |
 | 📸 | [Unrealshot AI](https://www.unrealshot.com) | Generates realistic professional photoshoots (headshots, corporate, glamour, founder looks) from your selfies using AI. High-quality, fast results. | **15% OFF** all photo packs with code WELCOME15 | 2025-11-30 |
 | 👗 | [swapOutfit](https://www.swapoutfit.com) | Try on any outfit virtually using AI — see how clothes fit and look on you before buying. | **15% OFF** all credit packs with code **BLACKFRIDAY2025** | 2025-12-02 |
+| 📚 | [UnlimitedTales](https://www.unlimitedtales.com/?via=rare-big-deal) | Generate unique Storybook for children in 5 minutes with AI | Up to **35% OFF** on Black Friday **5-story Bundle** | 2025-11-30 |
 
 
 [⬆️ All categories](#table-of-contents)
@@ -239,6 +247,7 @@ It's free & open-source. Enjoy! 🚀
 | 🌐 | [LocalCan](https://www.localcan.com/) | #1 Ngrok alternative. Without subscription. With .local domains and top-rated UX (Mac / Windows) | 10 x **BF40** 40% OFF and 100 x **BF20** 20% OFF | 2025-12-02 |
 | ⚡ | [HTTP Toolkit](https://httptoolkit.com/?ref=rare-big-deal) | Open-source HTTP debugger & client, with instant one-click setup for Android, Docker, node.js & more | **50% off** forever on annual subscriptions, with code **BLACKFRIDAY25** | 2025-12-03 |
 | 🛡️ | [DeskVault](https://deskvault.app/) | All your Stripe accounts in one fast, powerful, private desktop app | **30% OFF** with code **BF2025** | 2025-12-12 |
+| 🔔 | [BetterNotif](https://www.betternotif.app/) | MacOS Stripe Real Time Notifications | **30% OFF** with code **BF25** | 2025-12-12 |
 
 
 ### Productivity
@@ -286,6 +295,7 @@ It's free & open-source. Enjoy! 🚀
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 🖊 | [RewriteBar](https://rewritebar.com?ref=rarebigdeal) | RewriteBar is a macOS menu bar app that allows you to rewrite text using AI. Correct grammar, translate, adjust tone, and more. | 50% OFF with code **BF2025** | 2025-12-01 |
+| ⭐ | [Luckynote](https://www.luckynote.io/?ref=danbf&promocode=DANBF50) | WhatsApp style note app that feels like texting yourself. Dump thoughts, links, files and tasks into one fast thread and actually find them later. | 50% OFF Lifetime - **DANBF50** | 2025-12-01 |
 
 
 ### Menu Bar & More
@@ -295,7 +305,7 @@ It's free & open-source. Enjoy! 🚀
 | 🖊 | [RewriteBar](https://rewritebar.com?ref=rarebigdeal) | RewriteBar is a macOS menu bar app that allows you to rewrite text using AI. Correct grammar, translate, adjust tone, and more. | 50% OFF with code **BF2025** | 2025-12-01 |
 | 📈 | [Reporting - Ad Network Reports](https://apps.apple.com/app/apple-store/id1559813249) | Track and monitor your daily, weekly, and monthly ad network revenue effortlessly in a single convenient location. | **50% OFF** lifetime plan. No code needed. | 2025-12-02 |
 | ⏲️ | [TimeGo-Clock](https://apps.apple.com/cn/app/timego-clock/id6448658165?l=en-GB&mt=12) | TimeGo is a lightweight timer app with a fresh 2.0 Ul. Create custom countdown combinations for your workflow. | 50%+ OFF. Starts on 2025-11-20 |  2025-12-02  |
-
+| ⌨️  | [KeyboardStack](https://keyboardstack.com) | Control your Mac entirely from the keyboard - Stay in flow and reduce wrist strain with keyboard-only Mac control. | **50% OFF** (auto-applied) | 2025-12-03 |
 
 [⬆️ All categories](#table-of-contents)
 
@@ -317,7 +327,7 @@ It's free & open-source. Enjoy! 🚀
 | - | - | - | - | - |
 | 🖥️ | [ScreenCanvas](https://www.screencanvas.app/) | Design digital signage & message boards with custom text, images, & audio right on your Apple TV. | **50% OFF** lifetime purchase | 2025-12-01 |
 | 🖌️ | [illustration.app](https://www.illustration.app/) | Create consistent illustrations in seconds. | **30% OFF** first month with code **BLACKFRIDAY2025** | 2025-12-01 |
-
+| 🖼️ | [SnapShots](https://www.getsnapshots.app/image-editor) | Turn your boring screenshots into stunning visuals. Create beautiful mockups, Open Graph images, and social banners effortlessly with zero design skills. | Life time Deal $9 |
 
 [⬆️ All categories](#table-of-contents)
 
@@ -331,6 +341,7 @@ It's free & open-source. Enjoy! 🚀
 | - | - | - | - | - |
 | 💥 | [TypeBoost](https://www.typeboost.ai) | Build your personal AI toolkit. Use anywhere you type on Mac. Write, translate, improve, explain, brainstorm... + iOS app | **60% OFF** for 6 months with code **BF2025** | 2025-12-05 |
 | 📝 | [Capture - Quick Notes](https://apps.apple.com/app/apple-store/id6458535284) | Easily capture your thoughts & ideas on the go and export them to your favourite apps. | **50% OFF** Lifetime plan with code BLACKFRIDAY | 2025-12-02 |
+| ⭐ | [Luckynote](https://www.luckynote.io/?ref=danbf&promocode=DANBF50) | WhatsApp style note app that feels like texting yourself. Dump thoughts, links, files and tasks into one fast thread and actually find them later. | 50% OFF Lifetime - **DANBF50** | 2025-12-01 |
 
 
 ### Productivity
@@ -342,6 +353,7 @@ It's free & open-source. Enjoy! 🚀
 | 📄 | [Pify - Convert Picture to PDF](https://apps.apple.com/app/apple-store/id6748066045) | The easiest way to turn your photos and images into polished PDFs in just a few taps. | **66% OFF** Lifetime plan with code BLACKFRIDAY | 2025-12-02 |
 | 📚 | [TTS Reader AI](https://apps.apple.com/us/app/id6746346171)| Unlimited listening with premium realistic AI voices. Supports PDF, EPUB, Kindle, and more. | Annual plan: **$9.99** (no VAT, automatically applied)| 2025-11-30 |
 | 🔥 | [ADHD Structure Planner - Simple](https://apps.apple.com/us/app/adhd-structure-planner-simple/id6742843891) | Structure Your Day. Unlock Your Focus. | **50% OFF** Lifetime with code MASTERY | 2025-12-05 |
+| ⭐ | [Luckynote](https://www.luckynote.io/?ref=danbf&promocode=DANBF50) | WhatsApp style note app that feels like texting yourself. Dump thoughts, links, files and tasks into one fast thread and actually find them later. | 50% OFF Lifetime - **DANBF50** | 2025-12-01 |
 
 
 ### Photos & Videos
@@ -410,7 +422,9 @@ It's free & open-source. Enjoy! 🚀
 | - | - | - | - | - |
 | 🎬 | [Recut](https://getrecut.com) | Save time on audio and video editing! It cuts out the pauses automatically, better than AI tools | **$50 OFF** one-time purchase | 2025-12-01 |
 | 🎥 | [FilterGrade](https://filtergrade.com) | The visual marketplace for creators. Get discounts up to 60% OFF Video LUTs, Photo Presets, Social Media Templates and more. | **30% OFF ENTIRE CART** with discount code **BFCM2025** | 2025-12-02 |
+| 👵 | [TranslateMom](https://translate.mom/) | Instantly caption, translate, or dub HD videos in 100+ languages with natural voices, GPT-4o dubbing, and priority exports (2,000 min/mo, 29 languages, 30-day storage). | **70% OFF** Annual Pro Plan — $159 (reg. $528) with code **BLACK** | 2025-12-02 |
 | 🍿 | [ClipCreator.ai](https://clipcreator.ai/?ref=rarebigdeal) | Create stunning faceless videos in minutes, not days! Grow your TikTok, YouTube, or Instagram faster with stunning AI-powered video creation. No skills needed - set and forget! We handle the rest.  | 40% OFF first month with code **BF2025** | 2025-12-02 |
+
 
 ### Social
 
@@ -433,6 +447,7 @@ It's free & open-source. Enjoy! 🚀
 | 📝 | [Capture - Quick Notes](https://apps.apple.com/app/apple-store/id6458535284) | Easily capture your thoughts & ideas on the go and export them to your favourite apps. | **50% OFF** Lifetime plan with code BLACKFRIDAY | 2025-12-02 |
 | 📄 | [Pify - Convert Picture to PDF](https://apps.apple.com/app/apple-store/id6748066045) | The easiest way to turn your photos and images into polished PDFs in just a few taps. | **66% OFF** Lifetime plan with code BLACKFRIDAY | 2025-12-02 |
 | 🔥 | [ADHD Structure Planner - Simple](https://apps.apple.com/us/app/adhd-structure-planner-simple/id6742843891) | Structure Your Day. Unlock Your Focus. | **50% OFF** Lifetime with code MASTERY | 2025-12-05 |
+| ⭐ | [Luckynote](https://www.luckynote.io/?ref=danbf&promocode=DANBF50) | WhatsApp style note app that feels like texting yourself. Dump thoughts, links, files and tasks into one fast thread and actually find them later. | 50% OFF Lifetime - **DANBF50** | 2025-12-01 |
 
 
 ### Team Project Management Software
@@ -447,6 +462,8 @@ It's free & open-source. Enjoy! 🚀
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | ⭐ | Be the first to add a deal in this category! | | | |
+| ⭐ | [flowjoy](https://www.flowjoy.online) | Automate your growth loop across SEO, Reddit, X in minutes not hours | **LIFETIME DEAL** | 2025-12-15 |
+
 
 
 ### Other
@@ -477,7 +494,8 @@ It's free & open-source. Enjoy! 🚀
 | 🚀 | [Redreach](https://redreach.ai) | Reddit Marketing Tool: Turn Reddit traffic into customers. Finds high impact Reddit conversations to help you naturally promote your product, send automated DMs and get more sales. | 30% OFF with code **BF25** (on all subscription plans) | 2025-12-02
 | ⭐ | [Social Post Flow](https://www.socialpostflow.com) | Automatically send WordPress content for scheduled publishing to Facebook, X, Instagram, Threads, LinkedIn, Pinterest and Mastodon. | 20% OFF with code **BF2025** | 2025-12-01 |
 | 📥 | [Bluesky Inbox](https://www.blueskyinbox.com/) | Real-time Bluesky keyword and author tracking from the comfort and privacy of your browser. | **30% OFF** with code **BF2025** | 2025-12-12 |
-
+| 🚀 | [Nuelink](https://www.nuelink.com/) | Nuelink is a social media management platform that automates scheduling, publishing, and content workflows across major platforms like Instagram, Twitter/X, LinkedIn, TikTok, and YouTube. It offers powerful features such as bulk scheduling, post recycling, analytics, content automation, integrations with tools like Zapier and n8n, AI-powered caption generation, and team collaboration tools. All designed to simplify content management and scale social media growth efficiently. | **30% off** monthly & Up to **65% off** yearly| 2025-11-28 |
+| 🔴 | [Best time to post Reddit](https://www.postwatch.app/best-time-to-post-on-reddit) | Reddit tool to find the best time to post | **30% OFF** with code **BF25** | 2025-12-12 |
 
 ### Sales Tools
 
@@ -505,7 +523,10 @@ It's free & open-source. Enjoy! 🚀
 | ✍️ | [Fast SEO Fix](https://www.fastseofix.com) | Grow Your Organic Traffic with Automated SEO. | **50% OFF** with code **BETA50** | 2025-12-31 |
 | ✨ | [Postel](https://postel.app) | Create content so good it gets you followers. It's like having the best creators you follow writing content for you. Postel analyzes thousands of viral posts to create content that performs while keeping your voice. | **30% OFF** forever on yearly plan with code **BF2025** | 2025-12-01 |
 | ⭐ | [Page Generator Pro](https://www.wpzinc.com/plugins/page-generator-pro/) | Automatically mass build local SEO, pSEO, GEO sites, directories or content at scale. 25+ Page Builder, SEO and Schema Plugin integrations + AI dynamic content generation | 30% OFF with code **BF2025** | 2025-12-01 |
+| ⭐ | [flowjoy](https://www.flowjoy.online) | Automate your growth loop across SEO, Reddit, X in minutes not hours | **LIFETIME DEAL** | 2025-12-15 |
+| 🖼️ | [SnapShots](https://www.getsnapshots.app/image-editor) | Turn your boring screenshots into stunning visuals. Create beautiful mockups, Open Graph images, and social banners effortlessly with zero design skills. | Life time Deal $9 |
 | 🍿 | [ClipCreator.ai](https://clipcreator.ai/?ref=rarebigdeal) | Create stunning faceless videos in minutes, not days! Grow your TikTok, YouTube, or Instagram faster with stunning AI-powered video creation. No skills needed - set and forget! We handle the rest.  | 40% OFF first month with code **BF2025** | 2025-12-02 |
+
 
 ### Affiliate Marketing
 
@@ -548,7 +569,7 @@ It's free & open-source. Enjoy! 🚀
 | 📊 | [Branding5](https://branding5.com)| Define your brand and optimize your marketing strategy in just minutes with AI| **50% OFF** with code **BLACKFRIDAY** | 2025-12-01 |
 | 🔗 | [LinkNest](https://linknest.sh) | Create a professional link-in-bio page with unlimited links, custom domains, and advanced analytics | **90% OFF** with code **SAVE90** | 2025-12-01 |
 | 📈 | [NameKnow.com](https://NameKnow.com) | Curated Domain Name Marketplace| **20% OFF** with code **RAREBIGDEAL2025**. | 2025-12-07 |
-
+| 🥇 | [Product Hunt Workbook ](https://launchpedia.co/product-hunt-workbook/) | A Proven BluePrint to Rank On Top Of Product Hunt | **60% OFF** with code **BF60** | 2025-12-01 |
 
 
 [⬆️ All categories](#table-of-contents)
@@ -587,6 +608,7 @@ It's free & open-source. Enjoy! 🚀
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 🎯 | [MagicSpace SEO](https://magicspace.agency) | SEO consulting agency providing blog posts, link building, and content strategy for SaaS companies. Works with clients like Chatbase, Tolt, Cheateye, JustSext, Outseta, and Kerberus. | **25% OFF** with code **BF25** | 2025-12-01 |
+| ⭐ | [flowjoy](https://www.flowjoy.online) | Automate your growth loop across SEO, Reddit, X in minutes not hours | **LIFETIME DEAL** | 2025-12-15 |
 
 
 [⬆️ All categories](#table-of-contents)
@@ -603,7 +625,12 @@ It's free & open-source. Enjoy! 🚀
 | ⚡️ | [Indie Kit](https://indiekit.pro/) | World's First AI-optimized NextJS 16 boilerplate with all the features you need to build your SaaS, AI, or B2B application and get it to market faster. | Min. **$270 OFF** + MicroSaaS Playbook worth $150| 2025-12-01 |
 | 📁 | [Dirstarter](https://dirstarter.com?discountCode=BF2025) | Launch Your Directory Website and Start Making Money Today | **40% OFF** on all tiers with code **BF2025** | 2025-12-01 |
 | 🔥 | [Nextless.js React SaaS Boilerplate](https://nextlessjs.com) | Full-stack Next.js + Serverless SaaS boilerplate with Auth, Payments, Teams, Dashboards - TypeScript & Tailwind on AWS. | **66% OFF** on Single license - includes 3 databases instead of 1 (PostgreSQL, MySQL, MongoDB) | 2025-12-03 |
+| 🚀 | [LaunchFast](https://www.launchfa.st/) | Save hours with complete SaaS starter kits for Next.js, SvelteKit, and Astro — including SEO, auth, payments, docs, analytics, and more. | **$50 OFF** using `BLACKFRIDAY` | 2025-12-01 |
 
+### Astro
+| | Name | Description | Deal | Expires on date |
+| - | - | - | - | - |
+| 🚀 | [Lexington Themes](https://lexingtonthemes.com) | Premium Astro and Tailwind CSS themes. The biggest Astro collection with 39 premium themes. Trusted by 7,000+ freelancers, startups, and agencies — Awarded by Astro. | **40% OFF** on Full Access - Includes lifetime access to all templates + new additions and liftetime support | 2025-12-01 |
 
 ### Nuxt
 
@@ -637,7 +664,7 @@ It's free & open-source. Enjoy! 🚀
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
-| ⭐ | Be the first to add a deal in this category! | | | |
+| 📱 | [KMPSHip](https://www.kmpship.app/) | Ship iOS & Android apps from one codebase with Kotlin Multiplatform | 50% OFF with code **BLACKFRIDAY25** | 2025-12-01 |
 
 
 ### Laravel
@@ -683,6 +710,9 @@ It's free & open-source. Enjoy! 🚀
 | 🧑‍💻 | [Apple Developer Starter Pack](https://gracehuang.gumroad.com/l/bundle-ios-macos-development/BLACKFRIDAY25) | Books & Course for Swift, SwiftUI and macOS | **40% OFF** with code **BLACKFRIDAY25** | 2025-12-01 |
 | 🪝 | [Custom React Hooks Crash Course: Learn Hooks Through 6 Apps](https://www.udemy.com/course/custom-react-hooks-crash-course/?couponCode=BLACKFRIDAY_2025) | In this course, through 6 small applications, we'll recreate hooks and patterns that are commonly used in production web applications. If you’re preparing for a coding interview or working on a large-scale project, knowing how to use custom hooks in React is invaluable. | 50% OFF with code **BLACKFRIDAY_2025** |
 | 👨🏻‍💻 | [secubri.com ](https://www.secubri.com/security/) | Security Awareness Training - Keep your Business Safe, Understand the Danger| [50% OFF](https://www.secubri.com/security/) | 1st Training Only |
+| 💡 | [Superframeworks Idea Bank ](https://superframeworks.com/idea-bank) | 40+ SEO Validated Ideas | 100% OFF with Code BFCM25 |
+| ▶️ | [Start Coding](https://startcod.ing/) | Learn to build SaaS with AI. Stop wasting time on Bolt and Lovable | **80% off** autoapplied | 2025-12-01 |
+
 
 
 ### Educational Games
@@ -716,10 +746,10 @@ It's free & open-source. Enjoy! 🚀
 | 3️⃣ | [Dynamic Trio](https://gracehuang.gumroad.com/l/dynamic-trio/BLACKFRIDAY25) | Building Web Applications with React, Next.js & Tailwind | **40% OFF** with code **BLACKFRIDAY25** | 2025-12-01 |
 | 😊 | [The Math Behind Retiring Early](https://gracehuang.gumroad.com/l/math-behind-retiring-early/BLACKFRIDAY25) | How to Build, Backtest, and Manage a Financial Independence Portfolio | **40% OFF** with code **BLACKFRIDAY25** | 2025-12-01 |
 | 💻 | [The SwiftUI Way](https://gracehuang.gumroad.com/l/macos-app-dev-swiftui/BLACKFRIDAY25) | macOS App Development using SwiftUI | **40% OFF** with code **BLACKFRIDAY25** | 2025-12-01 |
-| 🤖 | [OpenAI Crash Course in One Hour: Build Production-Ready Generative AI Apps with React, TypeScript & Remix](https://akoskm.gumroad.com/l/openai/BLACKFRIDAY_2025) | In this book, you’ll get hands-on experience in building AI-enhanced web applications from scratch.| 50% OFF with code **BLACKFRIDAY_2025** |
-| 🦹 | [Building Cloud-Based PWAs with Supabase, React & TypeScript](https://akoskm.gumroad.com/l/supabase/BLACKFRIDAY_2025) | Learn to build and deploy cloud-based progressive web apps from scratch | 50% OFF with code **BLACKFRIDAY_2025** |
-| 👨‍💻 | [How to Build Better Portfolio Projects - as a web developer](https://akoskm.gumroad.com/l/how-to-build-better-portfolio-projects/BLACKFRIDAY_2025) | Learn to make a portfolio project that will get you hired. | 50% OFF with code **BLACKFRIDAY_2025** |
-| ⚛️ | [React Testing Library Crash Course: Learn to Test React Components](https://akoskm.gumroad.com/l/rtl/BLACKFRIDAY_2025) | Step-by-step guide with practical examples, Vitest, RTL queries, advanced techniques included
+| 🤖 | [OpenAI Crash Course in One Hour: Build Production-Ready Generative AI Apps with React, TypeScript & Remix](https://akoskm.gumroad.com/l/openai/BLACKFRIDAY_2025) | In this book, you’ll get hands-on experience in building AI-enhanced web applications from scratch.| 50% OFF with code **BLACKFRIDAY_2025** | |
+| 🦹 | [Building Cloud-Based PWAs with Supabase, React & TypeScript](https://akoskm.gumroad.com/l/supabase/BLACKFRIDAY_2025) | Learn to build and deploy cloud-based progressive web apps from scratch | 50% OFF with code **BLACKFRIDAY_2025** | |
+| 👨‍💻 | [How to Build Better Portfolio Projects - as a web developer](https://akoskm.gumroad.com/l/how-to-build-better-portfolio-projects/BLACKFRIDAY_2025) | Learn to make a portfolio project that will get you hired. | 50% OFF with code **BLACKFRIDAY_2025** | |
+| ⚛️ | [React Testing Library Crash Course: Learn to Test React Components](https://akoskm.gumroad.com/l/rtl/BLACKFRIDAY_2025) | Step-by-step guide with practical examples, Vitest, RTL queries, advanced techniques included | 50% OFF with code **BLACKFRIDAY_2025** | |
 
 
 [⬆️ All categories](#table-of-contents)
@@ -778,6 +808,7 @@ It's free & open-source. Enjoy! 🚀
 | ⭐ | [OneManDB](https://OneManDB.com) | A database of 1000+ founders making $10k–$100k/month. Get validated ideas and Strategies | **30% OFF** with code **RAREBIGDEAL** | 2025-12-01 |
 | 💬 | [Ticketping](https://ticketping.com/) | Customer Support straight from Slack | 3 months **FREE** and **50% OFF** for next 6 months | 2025-12-31 |
 | 🔐 | [Eternal Vault](https://eternalvault.app) | Secure bridge between your life and your loved ones | **20% OFF** on all plans (incl lifetime) using code **RAREBIGDEAL** | 2025-12-31 |
+| 🫂 | [Indie Masterminds Community](https://indiemasterminds.com/) | Tight Knit Community of Indie Hackers going from 0 to $5K MRR | 50% OFF with Code BFCM25 |
 
 
 [⬆️ All categories](#table-of-contents)
