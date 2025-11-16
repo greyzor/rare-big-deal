@@ -194,6 +194,7 @@ It's free & open-source. Enjoy! 🚀
 | 🎤 | [LetsVocal](https://letsvocal.com) | AI-Powered Voice Generation & Text-to-Speech | **20% OFF** with discount code **LETSVOCAL20** | 2025-12-01 |
 | 💌 | [Inbox Zero](https://www.getinboxzero.com) | AI executive assistant for email | **25% OFF** with discount code **FRIDAY25** | 2025-12-01 |
 | ⭐ | [Luckynote](https://www.luckynote.io/?ref=danbf&promocode=DANBF50) | WhatsApp style note app that feels like texting yourself. Dump thoughts, links, files and tasks into one fast thread and actually find them later. | 50% OFF Lifetime - **DANBF50** | 2025-12-01 |
+| 📃 | [Invoice Mama](https://invoicemama.com) | 10 second invoices are here, upgrade your finance stack! | **50% OFF** with discount code **BF50** | 2025-12-01 |
 
 
 ### Other
