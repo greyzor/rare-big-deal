@@ -110,6 +110,7 @@ It's free & open-source. Enjoy! 🚀
 | 🔑 | [KeygenGo](https://keygengo.5km.tech) | A native macOS app that transforms your Keygen.sh experience. Manage licenses, track users, and monitor products through an elegant visual interface. | 50% OFF Lifetime Plan with code **BF2025**. Starts on 2025-11-20 |  2025-12-02  |
 | ☁️ | [DNSDeck](https://apps.apple.com/us/app/dnsdeck-manage-dns-zones/id6753925998?utm_source=BF-2025) | A powerful macOS DNS zone management client for CloudFlare and AWS Route 53. | ****50% OFF**** ($4.99) one-time purchase via the App Store | 2025-12-10 |
 | 🛡️ | [DeskVault](https://deskvault.app/) | All your Stripe accounts in one fast, powerful, private desktop app | **30% OFF** with code **BF2025** | 2025-12-12 |
+| ✨ | [Screen Charm](https://screencharm.com/) | Create screen recordings with zoom effects in minutes | **40% OFF** with code **BLACKFRIDAY2025** | 2025-11-31 |
 
 
 ### APIs, Tools & SaaS
