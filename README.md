@@ -191,6 +191,7 @@ It's free & open-source. Enjoy! 🚀
 | 💥 | [SmartTask](https://www.smarttask.io?ref=rarebigdeal) | AI Powered Project Management Software - Track and manage your processes in one place | **50% OFF for Two Years** (Coupon: 2025BF50) and **30% OFF for One Year** (Coupon: 2025BF30) | 2025-12-05 |
 | 🎤 | [LetsVocal](https://letsvocal.com) | AI-Powered Voice Generation & Text-to-Speech | **20% OFF** with discount code **LETSVOCAL20** | 2025-12-01 |
 | 💌 | [Inbox Zero](https://www.getinboxzero.com) | AI executive assistant for email | **25% OFF** with discount code **FRIDAY25** | 2025-12-01 |
+| 📃 | [Invoice Mama](https://invoicemama.com) | 10 second invoices are here, upgrade your finance stack! | **50% OFF** with discount code **BF50** | 2025-12-01 |
 
 
 ### Other
