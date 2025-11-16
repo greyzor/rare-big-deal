@@ -783,8 +783,6 @@ It's free & open-source. Enjoy! 🚀
 | 💬 | [Ticketping](https://ticketping.com/) | Customer Support straight from Slack | 3 months **FREE** and **50% OFF** for next 6 months | 2025-12-31 |
 | 🔐 | [Eternal Vault](https://eternalvault.app) | Secure bridge between your life and your loved ones | **20% OFF** on all plans (incl lifetime) using code **RAREBIGDEAL** | 2025-12-31 |
 | 📦 | [Mondial Relay WooCommerce](https://www.wcmultishipping.com) | A WordPress plugin for the Mondial Relay shipping provider in Europe | **20% OFF** with code **BF25** | 2025-12-31 |
-| 📝 | [Dissertation IA](https://www.ia-dissertation.fr) | Create student dissertations using AI | **20% OFF** with code **BF25** | 2025-12-31 |
-| 🏡 | [Casanea](https://www.casanea.fr) | French housing offers aggregator | **20% OFF** with code **BF25** | 2025-12-31 |
 
 [⬆️ All categories](#table-of-contents)
 
