@@ -501,6 +501,8 @@ It's free & open-source. Enjoy! 🚀
 | 📥 | [Bluesky Inbox](https://www.blueskyinbox.com/) | Real-time Bluesky keyword and author tracking from the comfort and privacy of your browser. | **30% OFF** with code **BF2025** | 2025-12-12 |
 | 🚀 | [Nuelink](https://www.nuelink.com/) | Nuelink is a social media management platform that automates scheduling, publishing, and content workflows across major platforms like Instagram, Twitter/X, LinkedIn, TikTok, and YouTube. It offers powerful features such as bulk scheduling, post recycling, analytics, content automation, integrations with tools like Zapier and n8n, AI-powered caption generation, and team collaboration tools. All designed to simplify content management and scale social media growth efficiently. | **30% off** monthly & Up to **65% off** yearly| 2025-11-28 |
 | 🔴 | [Best time to post Reddit](https://www.postwatch.app/best-time-to-post-on-reddit) | Reddit tool to find the best time to post | **30% OFF** with code **BF25** | 2025-12-12 |
+| 🤖 | [TypeSmart](https://typesm.art) | Automatically shares your X posts on LinkedIn and BlueSky. You can also set custom rules for AI to repurpose content. | **42% OFF** on all plans with code **BLACKFRIDAY** | 2026-01-01 |
+
 
 ### Sales Tools
 
