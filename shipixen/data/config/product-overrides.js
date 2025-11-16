@@ -39,6 +39,18 @@ module.exports = {
         'Web Development',
       ],
     },
+    'adhd-structure-planner-simple': {
+      tags: [
+        'Productivity',
+        'Tools',
+        'Mac',
+        'ADHD',
+        'Planning',
+        'Organization',
+      ],
+      metaDescription:
+        '**Get the discount by redeeming the code [in the AppStore by following this link](https://apps.apple.com/redeem?ctx=offercodes&id=6742843891&code=CODE)**.\n\nADHD Structure Planner is the all-in-one productivity app designed for ADHD minds and anyone who craves clarity in their day.',
+    },
     'affonso-io': {
       metaDescription:
         'Turn affiliate marketing into a reliable growth channel for your SaaS. Our automated platform helps you launch, manage and scale profitable partner programs without the technical hassle.',
@@ -65,6 +77,9 @@ module.exports = {
       logo: '/public/static/images/overrides/ai-scraper/logo.png',
       ogImage: '/public/static/images/overrides/ai-scraper/ogImage.png',
       tags: ['AI', 'Automation', 'Developer', 'Machine Learning', 'Tools'],
+    },
+    'ai-seo-course': {
+      ogImage: '/public/static/images/overrides/ai-seo-course/ogImage.png',
     },
     airview: {
       logo: '/public/static/images/overrides/airview/logo.png',
@@ -382,6 +397,12 @@ module.exports = {
     'dark-sleep': {
       tags: ['Fitness', 'Health', 'Wellness'],
     },
+    darkroom: {
+      tags: ['Photos & Videos', 'Productivity', 'Tools'],
+      ogImage: '/public/static/images/overrides/darkroom/ogImage.png',
+      logo: '/public/static/images/overrides/darkroom/logo.png',
+      metaTitle: 'Darkroom - Craft Stunning Photos and Videos That Stand Out',
+    },
     deskrest: {
       tags: [
         'Developer',
@@ -433,6 +454,20 @@ module.exports = {
     },
     donkeycarrot: {
       tags: ['Efficiency', 'macOS', 'Productivity', 'Salary Tracker', 'Tools'],
+    },
+    draftly: {
+      metaTitle: 'The All-in-One LinkedIn Companion for Savvy Professionals',
+      metaDescription:
+        'Effortlessly supercharge your LinkedIn presence with personalised content creation, automated scheduling, and thoughtful engagement!',
+      tags: [
+        'AI',
+        'AI Tools',
+        'Content Creation',
+        'LinkedIn Automation',
+        'LinkedIn Growth',
+        'LinkedIn Tool',
+        'LinkedIn Engagement',
+      ],
     },
     extreviewbot: {
       tags: [
@@ -749,19 +784,8 @@ module.exports = {
         'This bundle is made of all the books I have written about soccer betting. The individual purchase of these books would cost you €40. If you purchase the bundle you will save €15 which is a 37% discount on the full price.',
       tags: ['Books', 'Learning', 'Programming'],
     },
-    draftly: {
-      metaTitle: 'The All-in-One LinkedIn Companion for Savvy Professionals',
-      metaDescription:
-        'Effortlessly supercharge your LinkedIn presence with personalised content creation, automated scheduling, and thoughtful engagement!',
-      tags: [
-        'AI',
-        'AI Tools',
-        'Content Creation',
-        'LinkedIn Automation',
-        'LinkedIn Growth',
-        'LinkedIn Tool',
-        'LinkedIn Engagement',
-      ],
+    'magicspace-seo': {
+      ogImage: '/public/static/images/overrides/magicspace-seo/ogImage.png',
     },
     'mail-mastery': {
       metaDescription:
@@ -1028,6 +1052,9 @@ module.exports = {
         'Video Tools',
       ],
     },
+    redac: {
+      ogImage: '/public/static/images/overrides/redac/ogImage.webp',
+    },
     redreach: {
       tags: [
         'Marketing',
@@ -1083,6 +1110,9 @@ module.exports = {
         'Screenshot API',
         'Tools',
       ],
+    },
+    'semantic-pen': {
+      ogImage: '/public/static/images/overrides/semantic-pen/ogImage.jpg',
     },
     'seo-gets': {
       tags: ['Analytics', 'Marketing', 'Optimization', 'SEO'],
@@ -1292,7 +1322,8 @@ module.exports = {
     taprefer: {
       tags: ['Affiliate Marketing', 'Marketing', 'Promotion'],
       metaTitle: 'Find Affiliate Programs to Earn',
-      metaDescription: 'The biggest & latest affiliate programs directory, where content creators can easily find affiliate programs for their niche in minutes.',
+      metaDescription:
+        'The biggest & latest affiliate programs directory, where content creators can easily find affiliate programs for their niche in minutes.',
       logo: '/public/static/images/overrides/taprefer/logo.png',
       ogImage: '/public/static/images/overrides/taprefer/ogImage.webp',
     },
@@ -1309,6 +1340,12 @@ module.exports = {
     },
     thennow: {
       tags: ['Memories', 'Organization', 'Photography', 'Tools'],
+    },
+    thumblifyai: {
+      ogImage: '/public/static/images/overrides/thumblifyai/ogImage.jpg',
+    },
+    ticketping: {
+      ogImage: '/public/static/images/overrides/ticketping/ogImage.jpg',
     },
     'tim-time-tracker': {
       logo: '/public/static/images/overrides/tim-time-tracker/logo.png',

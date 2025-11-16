@@ -17,15 +17,18 @@ function parseCSV() {
 
   lines.forEach((line, index) => {
     if (index === 0 || !line.trim()) return; // Skip header and empty lines
-    const [series] = line.split(',');
-    const seriesParts = series.split('/');
-    if (seriesParts.length < 3) return; // Skip lines without expected format
-    const productName = seriesParts[2];
+    const [, pathname] = line.split(','); // Skip first column, take the pathname
+    if (!pathname) return; // Skip if no pathname
+    const pathParts = pathname.split('/');
+    if (pathParts.length < 3) return; // Skip lines without expected format
+    const productName = pathParts[2];
     products[productName] = index;
     parsedCount++;
   });
 
-  console.log(`[Leaderboard Utils] ✅ Loaded ${parsedCount} products from leaderboard`);
+  console.log(
+    `[Leaderboard Utils] ✅ Loaded ${parsedCount} products from leaderboard`,
+  );
   return products;
 }
 
@@ -34,7 +37,9 @@ const products = parseCSV();
 function getLeaderboardPosition(productName) {
   const position = products[productName] || -1;
   if (position > 0) {
-    console.log(`[Leaderboard Utils] 🏆 Found leaderboard position for ${productName}: #${position}`);
+    console.log(
+      `[Leaderboard Utils] 🏆 Found leaderboard position for ${productName}: #${position}`,
+    );
   }
   return position;
 }

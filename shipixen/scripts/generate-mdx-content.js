@@ -35,11 +35,6 @@ async function generateMDXContent(app) {
   let finalDescription = description?.trim() || '';
   if (hasJsonLd && jsonLd.description) {
     finalDescription = jsonLd.description.trim();
-    // Append the meta description if it exists and is different
-    if (metaDescription && metaDescription.trim() !== finalDescription) {
-      finalDescription += '\n\n' + metaDescription.trim();
-    }
-
     // improve formatting of bullets for markdown
     finalDescription = finalDescription.replace(/•/g, '-');
   }

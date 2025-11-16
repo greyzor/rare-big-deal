@@ -6,6 +6,7 @@ import { PostItem } from '@/components/blog/home/PostItem';
 import Footer from '@/components/shared/Footer';
 import Header from '@/components/shared/Header';
 import { LandingPrimaryTextCtaSection } from '@/components/landing/cta/LandingPrimaryCta';
+import { LandingDotParticleCtaBg } from '@/components/landing/cta-backgrounds/LandingDotParticleCtaBg';
 
 export default function CategoryPage() {
   const sortedPosts = useMemo(() => {
@@ -37,7 +38,8 @@ export default function CategoryPage() {
           </p>
         }
         textPosition="center"
-        className="relative bg-gray-300/60 dark:bg-gray-900"
+        className="relative bg-gray-200/60 dark:bg-gray-900"
+        effectComponent={<LandingDotParticleCtaBg />}
       ></LandingPrimaryTextCtaSection>
 
       <section className="max-w-2xl 2xl:max-w-6xl w-full mt-12 p-6">
