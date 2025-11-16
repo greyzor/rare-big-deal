@@ -111,6 +111,7 @@ It's free & open-source. Enjoy! 🚀
 | ☁️ | [DNSDeck](https://apps.apple.com/us/app/dnsdeck-manage-dns-zones/id6753925998?utm_source=BF-2025) | A powerful macOS DNS zone management client for CloudFlare and AWS Route 53. | ****50% OFF**** ($4.99) one-time purchase via the App Store | 2025-12-10 |
 | 🛡️ | [DeskVault](https://deskvault.app/) | All your Stripe accounts in one fast, powerful, private desktop app | **30% OFF** with code **BF2025** | 2025-12-12 |
 | 🔔 | [BetterNotif](https://www.betternotif.app/) | MacOS Stripe Real Time Notifications | **30% OFF** with code **BF25** | 2025-12-12 |
+| ✨ | [Screen Charm](https://screencharm.com/) | A macOS screen-recording tool that automatically adds smooth zooms, clean cursor effects, and polished visuals to help you create professional product videos. | **40% OFF** with code **BLACKFRIDAY2025** | 2025-11-31 |
 
 
 ### APIs, Tools & SaaS
