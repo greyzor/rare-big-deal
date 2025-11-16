@@ -112,6 +112,7 @@ It's free & open-source. Enjoy! 🚀
 | 🛡️ | [DeskVault](https://deskvault.app/) | All your Stripe accounts in one fast, powerful, private desktop app | **30% OFF** with code **BF2025** | 2025-12-12 |
 | 🔔 | [BetterNotif](https://www.betternotif.app/) | MacOS Stripe Real Time Notifications | **30% OFF** with code **BF25** | 2025-12-12 |
 | ✨ | [Screen Charm](https://screencharm.com/) | A macOS screen-recording tool that automatically adds smooth zooms, clean cursor effects, and polished visuals to help you create professional product videos. | **40% OFF** with code **BLACKFRIDAY2025** | 2025-11-31 |
+| 💻 | [CodinIT.dev](https://codinit.dev) | Use CodinIT.dev, open-source AI app builder, ship apps at the speed of prompt. Run on MacOS, Linux & Windows | FREE 100% OPEN SOURCE | LIFETIME |
 
 
 ### APIs, Tools & SaaS
@@ -175,6 +176,7 @@ It's free & open-source. Enjoy! 🚀
 | ✍️ | [Kerlig](https://www.kerlig.com/) | AI Writing Assistant & Chat for macOS. Write replies on Slack and Mail using your tone of voice. Fix spelling before sending a message. Summarize websites and YouTube videos. | 20 x **BF40** 40% OFF and 100 x **BF20** 20% OFF  | 2025-12-02 |
 | 🐇 | [RabbitHoles AI](https://rabbitholes.ai/?utm_source=danmindru) | Chat with AI models on an infinite canvas; Bring your own API keys, and all models in one app with local storage of data | 51% OFF with code **BLACKFRIDAY2025** | 2025-12-01
 | ⭐ | [Prompty](https://prompty.to/?utm_source=tonybf) | A unified LLM playground to manage prompts, compare models, and debug AI prompts with ease. | **50% OFF** Lifetime Pro Plan with code **BLACKFRIDAY50** | 2025-12-01 |
+| 💻 | [CodinIT.dev](https://codinit.dev) | Use CodinIT.dev, open-source AI app builder, ship apps at the speed of prompt. Run on MacOS, Linux & Windows | FREE 100% OPEN SOURCE | LIFETIME |
 
 
 ### Productivity
@@ -252,6 +254,7 @@ It's free & open-source. Enjoy! 🚀
 | ⚡ | [HTTP Toolkit](https://httptoolkit.com/?ref=rare-big-deal) | Open-source HTTP debugger & client, with instant one-click setup for Android, Docker, node.js & more | **50% off** forever on annual subscriptions, with code **BLACKFRIDAY25** | 2025-12-03 |
 | 🛡️ | [DeskVault](https://deskvault.app/) | All your Stripe accounts in one fast, powerful, private desktop app | **30% OFF** with code **BF2025** | 2025-12-12 |
 | 🔔 | [BetterNotif](https://www.betternotif.app/) | MacOS Stripe Real Time Notifications | **30% OFF** with code **BF25** | 2025-12-12 |
+| 💻 | [CodinIT.dev](https://codinit.dev) | Use CodinIT.dev, open-source AI app builder, ship apps at the speed of prompt. Run on MacOS, Linux & Windows | FREE 100% OPEN SOURCE | LIFETIME |
 
 
 ### Productivity
