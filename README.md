@@ -41,10 +41,12 @@ It's free & open-source. Enjoy! 🚀
   - [Social](#social)
 - [Productivity](#productivity-4)
   - [Todo Apps, Notes \& Writing](#todo-apps-notes--writing)
+  - [Team Project Management Software](#team-project-management-software)
   - [Marketing](#marketing)
   - [Other](#other-2)
 - [Marketing](#marketing-1)
   - [Social](#social-1)
+  - [Sales Tools](#sales-tools)
   - [Email Marketing](#email-marketing)
   - [Content Creation](#content-creation)
   - [Affiliate Marketing](#affiliate-marketing)
@@ -57,8 +59,10 @@ It's free & open-source. Enjoy! 🚀
   - [Tools](#tools)
   - [Analyze \& Audit](#analyze--audit)
   - [Content Creation](#content-creation-1)
+- [John Rush Extravaganza](#john-rush-extravaganza)
 - [Boilerplates, Starters \& Libraries](#boilerplates-starters--libraries)
   - [React/Next.js](#reactnextjs)
+  - [Astro](#astro)
   - [Nuxt](#nuxt)
   - [iOS](#ios)
   - [Flutter](#flutter)
@@ -641,6 +645,19 @@ It's free & open-source. Enjoy! 🚀
 [⬆️ All categories](#table-of-contents)
 
 --------------------------------
+
+## John Rush Extravaganza
+
+| | Name | Description | Deal | Expires on date |
+| - | - | - | - | - |
+| 🚀 | [Unicorn Platform](https://unicornplatform.com/) | AI website builder to quickly create websites without design or dev skills for SaaS, Apps, Directories, Blogs, Personal pages | **20% OFF** first payment, code **JOHNRUSH** | 2025-12-07 |
+| 🚀 | [SEO Bot](https://seobotai.com/) | Fully autonomous "SEO Robot" with AI agents for Busy Founders | **20% OFF** first payment, code **JOHNRUSH** | 2025-12-07 |
+| 🚀 | [AIScraper](https://aiscraper.co/) | Extract data from any website in seconds | **20% OFF** first payment, code **JOHNRUSH** | 2025-12-07 |
+| 🤖 | [SocialBott](https://socialbott.com/) | AI assistant managing your social media using your existing content — no fabricated advice | **20% OFF** first payment, code **JOHNRUSH** | 2025-12-07 |
+| 🚀 | [IndexRusher](https://indexrusher.com/) | A tool that helps get a website indexed by Google faster; boosts searchability & SEO ranking | **20% OFF** first payment, code **JOHNRUSH** | 2025-12-07 |
+| 🔗 | [ListingBott](https://listingbott.com/) | Your ultimate solution to efficiently list your SaaS, tool, product, newsletter, or blog on 100 directories in just one click | **20% OFF** first payment, code **JOHNRUSH** | 2025-12-07 |
+| 🚀 | [TinyAdz](https://tinyadz.com/) | Ad network with no fluff, no fraud. Advertisers get real ROI, publishers earn legit revenue | **20% OFF** first payment, code **JOHNRUSH** | 2025-12-07 |
+
 
 ## Boilerplates, Starters & Libraries
 
