@@ -378,7 +378,7 @@ It's free & open-source. Enjoy! 🚀
 | - | - | - | - | - |
 | 🥗 | [Calorific - Nutrition Tracker](https://apps.apple.com/app/apple-store/id6645043253) | Quickly capture your meals and get instant nutritional insights. | **30% OFF** yearly plan with code BLACKFRIDAY | 2025-12-02 |
 | 💪 | [GetJacked](https://getjacked.app/download?utm_source=danbf) | GetJacked is a science-based hypertrophy coach on your iPhone. No more guesswork, just results. Train smarter with GetJacked. | 75% OFF Lifetime Premium Plan Discount automatically applied in App |
-
+| 👟 | [Steps](https://getsteps.app/) | Your complete step tracking companion with Apple Watch sync, beautiful charts, workout analytics, and personalized goals to keep you moving | 30% OFF lifetime plan with code BLACKFRIDAY or using https://apps.apple.com/redeem?ctx=offercodes&id=6746096378&code=BLACKFRIDAY | Nov 25 - Dec 2 |
 
 ### Hobby & Lifestyle
 
