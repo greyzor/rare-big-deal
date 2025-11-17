@@ -135,6 +135,7 @@ It's free & open-source. Enjoy! 🚀
 | 🌐 | [DomainDetails Pro](https://domaindetails.com) | Advanced domain research & monitoring — ownership data, alerts, sales intelligence, and portfolio tools for professionals. | **50% OFF** on Pro with code **BFCM25** | 2025-12-01 |
 | 🛡️ | [iSsl.today](https://issl.today) | Simple SSL monitoring that alerts you when certificates expire. | **100% off** for 1st month with discount code **FREESSL** | 2025-11-30 |
 | 🌟 | [FullStro](http://fullstro.com/black-friday-deals/) | FullStro is an all-in-one multi-channel business automation platform that helps e-commerce businesses manage inventory, orders, and websites effortlessly. No code needed, fully integrated, and synchronized across sales, payments, and delivery systems. | **70% OFF** Coupon code Auto-Applied 2025-12-06 |
+| ✉️ | [Tigrmail](https://tigrmail.com/?utm_source=rare-big-deal) | A developer-friendly temporary email API for testing signups, email confirmations, OTP codes, and full email workflows. | **50% OFF first month** with code **BLACKTIGR50** | 2025-12-01 |
 | 🚀 | [Unicorn Platform](https://unicornplatform.com/) | AI website builder to quickly create websites without design or dev skills for SaaS, Apps, Directories, Blogs, Personal pages | **20% OFF** first payment, code **JOHNRUSH** | 2025-12-07 |
 
 
@@ -177,6 +178,7 @@ It's free & open-source. Enjoy! 🚀
 | 🐇 | [RabbitHoles AI](https://rabbitholes.ai/?utm_source=danmindru) | Chat with AI models on an infinite canvas; Bring your own API keys, and all models in one app with local storage of data | 51% OFF with code **BLACKFRIDAY2025** | 2025-12-01
 | ⭐ | [Prompty](https://prompty.to/?utm_source=tonybf) | A unified LLM playground to manage prompts, compare models, and debug AI prompts with ease. | **50% OFF** Lifetime Pro Plan with code **BLACKFRIDAY50** | 2025-12-01 |
 | 💻 | [CodinIT.dev](https://codinit.dev) | Use CodinIT.dev, open-source AI app builder, ship apps at the speed of prompt. Run on MacOS, Linux & Windows | FREE 100% OPEN SOURCE | LIFETIME |
+| 🧪 | [Scout AI](https://scoutqa.ai) | AI-powered testing platform. Paste a URL and get instant, intelligent test results without setup. Catch bugs before your users do. | FREE for first-time startup builders | LIFETIME |
 
 
 ### Productivity
@@ -236,7 +238,6 @@ It's free & open-source. Enjoy! 🚀
 | 👗 | [swapOutfit](https://www.swapoutfit.com) | Try on any outfit virtually using AI — see how clothes fit and look on you before buying. | **15% OFF** all credit packs with code **BLACKFRIDAY2025** | 2025-12-02 |
 | 📚 | [UnlimitedTales](https://www.unlimitedtales.com/?via=rare-big-deal) | Generate unique Storybook for children in 5 minutes with AI | Up to **35% OFF** on Black Friday **5-story Bundle** | 2025-11-30 |
 
-
 [⬆️ All categories](#table-of-contents)
 
 --------------------------------
@@ -290,7 +291,7 @@ It's free & open-source. Enjoy! 🚀
 | 😀 | [Iconbuddy](https://iconbuddy.com) | 300k+ Open Source Icons: Search Fast. Edit Freely. Download Instantly. | $60 OFF | 2025-12-01 |
 | 🎨 | [Sip](https://www.sipapp.io) | The right color every time. Sip is a modern color picker that brings ease to color organization & team collaboration. | 50% OFF with code **BF25** or **CM25** | 2025-12-01 |
 | 📹 | [ScreenSage Pro](https://screensage.pro?ref=danmindru) | A screen recording app on maOS that simultaneously captures your screen, webcam, microphone. Create 2D/3D auto zoom with cursor tracking for beautiful demos; smooth A‑roll/B‑roll switching for beautiful vlogs | 53% OFF with code **BFS2025L** | 2025-12-12 |
-
+| 🖼️ | [Digital Photo Frame App](https://www.digitalphotoframeapp.com/) | Turn your device into a powerful Smart Photo Frame. For iOS, iPadOS, macOS and tvOS. | **67% OFF** No promo code required | 2025-12-02 |
 
 ### Health & Fitness
 
@@ -337,6 +338,7 @@ It's free & open-source. Enjoy! 🚀
 | 🖥️ | [ScreenCanvas](https://www.screencanvas.app/) | Design digital signage & message boards with custom text, images, & audio right on your Apple TV. | **50% OFF** lifetime purchase | 2025-12-01 |
 | 🖌️ | [illustration.app](https://www.illustration.app/) | Create consistent illustrations in seconds. | **30% OFF** first month with code **BLACKFRIDAY2025** | 2025-12-01 |
 | 🖼️ | [SnapShots](https://www.getsnapshots.app/image-editor) | Turn your boring screenshots into stunning visuals. Create beautiful mockups, Open Graph images, and social banners effortlessly with zero design skills. | Life time Deal $9 |
+| 🖼️ | [Digital Photo Frame App](https://www.digitalphotoframeapp.com/) | Turn your device into a powerful Smart Photo Frame. For iOS, iPadOS, macOS and tvOS. | **67% OFF** No promo code required | 2025-12-02 |
 
 [⬆️ All categories](#table-of-contents)
 
@@ -371,7 +373,7 @@ It's free & open-source. Enjoy! 🚀
 | - | - | - | - | - |
 | 📸 | [Once](https://once.film) | Shared disposable camera app for events—capture memories together and unlock the full gallery when the event ends. | **50% OFF** when joining the early access waitlist | 2025-12-31 |
 | 📸 | [Darkroom](https://darkroom.co) | Edit and manage your photos and videos to stand out. From quick edits to pro-level refinements. Achieve your creative vision in minutes. | **50% OFF** off your first year of our Darkroom+ membership | 2025-12-03 |
-
+| 🖼️ | [Digital Photo Frame App](https://www.digitalphotoframeapp.com/) | Turn your device into a powerful Smart Photo Frame. For iOS, iPadOS, macOS and tvOS. | **67% OFF** No promo code required | 2025-12-02 |
 
 ### Health & Fitness
 
