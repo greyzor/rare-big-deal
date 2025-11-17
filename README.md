@@ -375,6 +375,8 @@ It's free & open-source. Enjoy! 🚀
 | 📸 | [Once](https://once.film) | Shared disposable camera app for events—capture memories together and unlock the full gallery when the event ends. | **50% OFF** when joining the early access waitlist | 2025-12-31 |
 | 📸 | [Darkroom](https://darkroom.co) | Edit and manage your photos and videos to stand out. From quick edits to pro-level refinements. Achieve your creative vision in minutes. | **50% OFF** off your first year of our Darkroom+ membership | 2025-12-03 |
 | 🖼️ | [Digital Photo Frame App](https://www.digitalphotoframeapp.com/) | Turn your device into a powerful Smart Photo Frame. For iOS, iPadOS, macOS and tvOS. | **67% OFF** No promo code required | 2025-12-02 |
+| 📸 | [PicFlic](https://apps.apple.com/us/app/gallery-cleaner-picflic/id6751328044) | Gallery cleaner - rage swipe like there is no tomorrow. Undo any time. Free up your phone for more apps. | **Lifetime FREE** until Cyber Monday | 2025-12-01 |
+
 
 ### Health & Fitness
 
