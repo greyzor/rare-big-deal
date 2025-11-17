@@ -797,6 +797,7 @@ It's free & open-source. Enjoy! 🚀
 | 💰 | [Gumtrends](https://gumtrends.com) | Get access to a growing dataset of 200k+ Gumroad products complete with estimated revenue. Spot opportunities by finding profitable items. | **30% OFF** on lifetime access with code **BF2025**| 2025-12-05 |
 | 💰 | [Side Projects Making $$$+](https://niftydigits.gumroad.com/l/side-projects/BF2025) | A complete collection of notion databases detailing every side project making real money posted to Hacker News threads from 2014-2024. | **30% OFF** on lifetime access with code **BF2025** | 2025-12-05 |
 | 💰 | [Know Your Numbers](https://gracehuang.gumroad.com/l/networth/BLACKFRIDAY25) | Personal & Family Net Worth Tracker. | **40% OFF** with code **BLACKFRIDAY25** | 2025-12-01 |
+| 💰 | [Ghostfolio](https://ghostfol.io) | Ghostfolio is a privacy-focused, open source dashboard for managing your finances. It simplifies asset tracking and empowers informed investment decisions. | **25% OFF** on the annual Ghostfolio Premium subscription **plus 3 months extra** | 2025-12-01 |
 
 
 ### Investment Research
