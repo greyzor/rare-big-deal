@@ -517,6 +517,7 @@ It's free & open-source. Enjoy! 🚀
 | 🔴 | [Best time to post Reddit](https://www.postwatch.app/best-time-to-post-on-reddit) | Reddit tool to find the best time to post | **30% OFF** with code **BF25** | 2025-12-12 |
 | 🤖 | [TypeSmart](https://typesm.art) | Automatically shares your X posts on LinkedIn and BlueSky. You can also set custom rules for AI to repurpose content. | **42% OFF** on all plans with code **BLACKFRIDAY** | 2026-01-01 |
 | 🤖 | [SocialBott](https://socialbott.com/) | AI assistant managing your social media using your existing content — no fabricated advice | **20% OFF** first payment, code **JOHNRUSH** | 2025-12-07 |
+| 📜 | [Social Commandments](https://socialcommandments.com) | A forever-unlock of the full database of platform “do’s & don’ts,” growth rules, and algorithm insights for X, TikTok, Instagram, and LinkedIn. | **30% off** Lifetime membership with code **BLACKFRIDAY** | 2025-12-12 |
 
 
 ### Sales Tools
