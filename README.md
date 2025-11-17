@@ -114,6 +114,7 @@ It's free & open-source. Enjoy! 🚀
 | ✨ | [Screen Charm](https://screencharm.com/) | A macOS screen-recording tool that automatically adds smooth zooms, clean cursor effects, and polished visuals to help you create professional product videos. | **40% OFF** with code **BLACKFRIDAY2025** | 2025-11-31 |
 | 💻 | [CodinIT.dev](https://codinit.dev) | Use CodinIT.dev, open-source AI app builder, ship apps at the speed of prompt. Run on MacOS, Linux & Windows | FREE 100% OPEN SOURCE | LIFETIME |
 | ⚡️ | [ClipboardAI](https://www.clipboard-ai.com) | Instantly run AI prompts with shortcuts, anywhere — translate, fix grammar, improve text, and more. | **$20 OFF** (launch offer) | 2025-12-31 |
+| 🍅 | [Pomotto](https://pomotto.app) | A pomodoro timer to sync focus time and Do Not Disturb. Your Mac finally knows when you're working! | **30% off** in the AppStore (already applied) | 2025-12-12 |
 
 
 ### APIs, Tools & SaaS
