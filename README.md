@@ -135,6 +135,7 @@ It's free & open-source. Enjoy! 🚀
 | 🌐 | [DomainDetails Pro](https://domaindetails.com) | Advanced domain research & monitoring — ownership data, alerts, sales intelligence, and portfolio tools for professionals. | **50% OFF** on Pro with code **BFCM25** | 2025-12-01 |
 | 🛡️ | [iSsl.today](https://issl.today) | Simple SSL monitoring that alerts you when certificates expire. | **100% off** for 1st month with discount code **FREESSL** | 2025-11-30 |
 | 🌟 | [FullStro](http://fullstro.com/black-friday-deals/) | FullStro is an all-in-one multi-channel business automation platform that helps e-commerce businesses manage inventory, orders, and websites effortlessly. No code needed, fully integrated, and synchronized across sales, payments, and delivery systems. | **70% OFF** Coupon code Auto-Applied 2025-12-06 |
+| 🚀 | [Unicorn Platform](https://unicornplatform.com/) | AI website builder to quickly create websites without design or dev skills for SaaS, Apps, Directories, Blogs, Personal pages | **20% OFF** first payment, code **JOHNRUSH** | 2025-12-07 |
 
 
 ### Browser Extensions
@@ -143,7 +144,6 @@ It's free & open-source. Enjoy! 🚀
 | - | - | - | - | - |
 | ⚡ | [SuperDev Pro](https://superdevpro.com/) | All your web tools, one extension. | **$120 off** | 2025-12-01 |
 | ⚡ | [aiTree](https://www.aitree.app/) | Organize your AI chats in trees with branches | **ONE TIME PAYMENT 4€** | 2025-12-01 |
-
 
 ### Productivity & AI
 
@@ -218,6 +218,7 @@ It's free & open-source. Enjoy! 🚀
 | 💥 | [Firsto](https://firsto.co/?utm_source=rarebigdeal) | New Product launch platform where every product gets seen | **20% OFF All Launch & Sponsor Spots** with code **BLACKFRIDAY** |
 | 🎧 | [Audio Video To Text](https://www.audiovideototext.com) | Convert audio and video files to text, PDF, WORD, or SRT. Accurate AI transcription in 98+ languages. Perfect for content creators, journalists, students. | **50% OFF top plan** (get 50 hours for $25) | 2025-12-31 |
 | 🐾 | [PetShot Pro](https://www.petportraitgenerator.ai) | Turn your pet photos into stunning AI pet portraits. Upload pictures of your furry friends, pick from 100+ styles, and get high-quality AI pet art in seconds. | **50% OFF on all plans** (no coupon code required) | 2025-12-31 |
+| 🚀 | [AIScraper](https://aiscraper.co/) | Extract data from any website in seconds | **20% OFF** first payment, code **JOHNRUSH** | 2025-12-07 |
 
 
 ### Lifestyle
@@ -505,6 +506,7 @@ It's free & open-source. Enjoy! 🚀
 | 🚀 | [Nuelink](https://www.nuelink.com/) | Nuelink is a social media management platform that automates scheduling, publishing, and content workflows across major platforms like Instagram, Twitter/X, LinkedIn, TikTok, and YouTube. It offers powerful features such as bulk scheduling, post recycling, analytics, content automation, integrations with tools like Zapier and n8n, AI-powered caption generation, and team collaboration tools. All designed to simplify content management and scale social media growth efficiently. | **30% off** monthly & Up to **65% off** yearly| 2025-11-28 |
 | 🔴 | [Best time to post Reddit](https://www.postwatch.app/best-time-to-post-on-reddit) | Reddit tool to find the best time to post | **30% OFF** with code **BF25** | 2025-12-12 |
 | 🤖 | [TypeSmart](https://typesm.art) | Automatically shares your X posts on LinkedIn and BlueSky. You can also set custom rules for AI to repurpose content. | **42% OFF** on all plans with code **BLACKFRIDAY** | 2026-01-01 |
+| 🤖 | [SocialBott](https://socialbott.com/) | AI assistant managing your social media using your existing content — no fabricated advice | **20% OFF** first payment, code **JOHNRUSH** | 2025-12-07 |
 
 
 ### Sales Tools
@@ -570,6 +572,7 @@ It's free & open-source. Enjoy! 🚀
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 🌐 | [BorderPrep](https://borderprep.com) | Arrive Ready for Any Country | **50% OFF** product feature | 2025-12-01 |
+| 🚀 | [TinyAdz](https://tinyadz.com/) | Ad network with no fluff, no fraud. Advertisers get real ROI, publishers earn legit revenue | **20% OFF** first payment, code **JOHNRUSH** | 2025-12-07 |
 
 
 ### Other
@@ -594,6 +597,7 @@ It's free & open-source. Enjoy! 🚀
 | - | - | - | - | - |
 | 🐶 | [BacklinkDog](https://backlinkdog.com)| Stop losing SEO juice from removed or changed backlinks. We monitor your backlinks and alert you when they change.| **50% OFF** with code **BLACKFRIDAY50** | 2025-12-01 |
 | 🔗 | [LinkDR](https://linkdr.com) | Backlink and authority-building SaaS platform. Automated link building through warm connection building and cold email marketing. Marketplace for buying quality backlinks and building domain authority. | **25% OFF** with code **BF25** | 2025-12-01 |
+| 🔗 | [ListingBott](https://listingbott.com/) | Your ultimate solution to efficiently list your SaaS, tool, product, newsletter, or blog on 100 directories in just one click | **20% OFF** first payment, code **JOHNRUSH** | 2025-12-07 |
 
 
 ### Tools
@@ -604,6 +608,7 @@ It's free & open-source. Enjoy! 🚀
 | 📊 | [Promptwatch](https://promptwatch.com) | Promptwatch tracks your visibility in AI search like ChatGPT, captures real prompts and volumes, helps you create content, monitors social citations, and keeps your brand top-of-mind. | **50% OFF** with code **BF50** | 2025-12-01 |
 | 🚀 | [GSCTool.com](https://www.gsctool.com/) | Effortlessly clean up your search console account with our Chrome extension, supporting Google Search Console, Bing Webmaster Tools and Yandex. (bulk url removal, bulk indexing url, bulk inspection url to Google, Bing & Yandex) | (Yearly plan) 40% OFF with code **BLACKFRIDAY2025** | 2025-12-01 |
 | 🌐 | [DomainDetails Pro](https://domaindetails.com) | Advanced domain research & monitoring — ownership data, alerts, sales intelligence, and portfolio tools for professionals. | **50% OFF** on Pro with code **BFCM25** | 2025-12-01 |
+| 🚀 | [SEO Bot](https://seobotai.com/) | Fully autonomous "SEO Robot" with AI agents for Busy Founders | **20% OFF** first payment, code **JOHNRUSH** | 2025-12-07 |
 
 
 ### Analyze & Audit
@@ -611,6 +616,7 @@ It's free & open-source. Enjoy! 🚀
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 🔥 | [SEO Roast](https://seoroast.com) | Comprehensive SEO audit service with customer journey maps, content calendars, keyword research, and video roasts. Get actionable insights and custom tools for analyzing service positions. | **25% OFF** with code **BF25** | 2025-12-01 |
+| 🚀 | [IndexRusher](https://indexrusher.com/) | A tool that helps get a website indexed by Google faster; boosts searchability & SEO ranking | **20% OFF** first payment, code **JOHNRUSH** | 2025-12-07 |
 
 
 ### Content Creation
