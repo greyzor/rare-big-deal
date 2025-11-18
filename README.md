@@ -185,6 +185,7 @@ It's free & open-source. Enjoy! 🚀
 | ⭐ | [Prompty](https://prompty.to/?utm_source=tonybf) | A unified LLM playground to manage prompts, compare models, and debug AI prompts with ease. | **50% OFF** Lifetime Pro Plan with code **BLACKFRIDAY50** | 2025-12-01 |
 | 💻 | [CodinIT.dev](https://codinit.dev) | Use CodinIT.dev, open-source AI app builder, ship apps at the speed of prompt. Run on MacOS, Linux & Windows | FREE 100% OPEN SOURCE | LIFETIME |
 | 🧪 | [Scout AI](https://scoutqa.ai) | AI-powered testing platform. Paste a URL and get instant, intelligent test results without setup. Catch bugs before your users do. | FREE for first-time startup builders | LIFETIME |
+| 🖼️ | [ImageRouter](https://imagerouter.io) | AI Image & Video Generator. Unified OpenAI compatible, open source API. | **50 daily free images** for any amount of deposit (applies to models ending with :free) | Lifetime Deal |
 
 
 ### Productivity
