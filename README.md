@@ -854,7 +854,7 @@ It's free & open-source. Enjoy! 🚀
 | 💬 | [Ticketping](https://ticketping.com/) | Customer Support straight from Slack | 3 months **FREE** and **50% OFF** for next 6 months | 2025-12-31 |
 | 🔐 | [Eternal Vault](https://eternalvault.app) | Secure bridge between your life and your loved ones | **20% OFF** on all plans (incl lifetime) using code **RAREBIGDEAL** | 2025-12-31 |
 | 🫂 | [Indie Masterminds Community](https://indiemasterminds.com/) | Tight Knit Community of Indie Hackers going from 0 to $5K MRR | 50% OFF with Code BFCM25 |
-| 💍 | [WedPicsQR](https://wedpicsqr.com) | QR-based photo collection for weddings/events. No apps, no logins—guests scan, upload, and everything is organized automatically. | 30% OFF with code RBD2025 |
+| 💍 | [WedPicsQR](https://wedpicsqr.com) | QR-based photo collection for weddings/events. No apps, no logins—guests scan, upload, and everything is organized automatically. | **30%** OFF with code **RBD2025** |
 
 
 [⬆️ All categories](#table-of-contents)
