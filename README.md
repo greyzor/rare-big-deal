@@ -854,6 +854,7 @@ It's free & open-source. Enjoy! 🚀
 | 💬 | [Ticketping](https://ticketping.com/) | Customer Support straight from Slack | 3 months **FREE** and **50% OFF** for next 6 months | 2025-12-31 |
 | 🔐 | [Eternal Vault](https://eternalvault.app) | Secure bridge between your life and your loved ones | **20% OFF** on all plans (incl lifetime) using code **RAREBIGDEAL** | 2025-12-31 |
 | 🫂 | [Indie Masterminds Community](https://indiemasterminds.com/) | Tight Knit Community of Indie Hackers going from 0 to $5K MRR | 50% OFF with Code BFCM25 |
+| 🔡 | [FontVisual](https://fontvisual.com/) | Font preview tool for crafters and designers. Easily create font preview pages for your personalized products. | 40% OFF on Yearly plan with Code BFCM2025 |
 
 
 [⬆️ All categories](#table-of-contents)
