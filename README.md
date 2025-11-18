@@ -297,6 +297,7 @@ It's free & open-source. Enjoy! 🚀
 | 🎙️ | [Speakmac](https://speakmac.app/?ref=rarebigdeal) | Offline speech-to-text for macOS. Hit a hotkey and Speakmac types into any input with punctuation-perfect text, zero cloud uploads, and no subscription. | **25% OFF** 2-Mac Pro license (drops to $21.75 one-time) with code **RAREBIGDEAL25** | 2025-12-05 |
 | 📝 | [Voice Memos - Email Me](https://apps.apple.com/us/app/email-me-notes-in-one-tap/id1090744587) | The fatest way to record your thoughts. For iOS, iPadOS, macOS, watchOS, visionOS & CarPlay. | **50% OFF** No code rquired | 2025-12-02 |
 | ⚡️ | [ClipboardAI](https://www.clipboard-ai.com) | Instantly run AI prompts with shortcuts, anywhere — translate, fix grammar, improve text, and more. | **$20 OFF** (launch offer) | 2025-12-31 |
+| 💰 | [GlanceCam IP Camera Viewer for Mac](https://apps.apple.com/us/app/glancecam-ip-camera-viewer/id1360797896) | GlanceCam is a secure and beloved IP camera viewer for macOS, with over 670 App Store ratings averaging more than 4.3 stars. It supports standard streaming protocols and offers lots of advanced features. With 42 free updates over 7 years, GlanceCam is the best choice for streaming IP Cameras from any manufacturer, with powerful features (Instazoom, Always on top...) and automations. | **25% OFF** (standard version) | 2025-12-03 |
 
 ### Design Tools
 
