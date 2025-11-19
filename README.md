@@ -804,6 +804,7 @@ It's free & open-source. Enjoy! 🚀
 | 🦹 | [Building Cloud-Based PWAs with Supabase, React & TypeScript](https://akoskm.gumroad.com/l/supabase/BLACKFRIDAY_2025) | Learn to build and deploy cloud-based progressive web apps from scratch | 50% OFF with code **BLACKFRIDAY_2025** | |
 | 👨‍💻 | [How to Build Better Portfolio Projects - as a web developer](https://akoskm.gumroad.com/l/how-to-build-better-portfolio-projects/BLACKFRIDAY_2025) | Learn to make a portfolio project that will get you hired. | 50% OFF with code **BLACKFRIDAY_2025** | |
 | ⚛️ | [React Testing Library Crash Course: Learn to Test React Components](https://akoskm.gumroad.com/l/rtl/BLACKFRIDAY_2025) | Step-by-step guide with practical examples, Vitest, RTL queries, advanced techniques included | 50% OFF with code **BLACKFRIDAY_2025** | |
+| ⚽ | [Soccer Betting Bundle](https://tropianhs.gumroad.com/l/soccerbettingbundle/SOCCERBETTING2025) | How to build a model for betting on soccer matches, using Machine learning and  Python | 50% OFF with code **SOCCERBETTING2025** | |
 
 
 [⬆️ All categories](#table-of-contents)
