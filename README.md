@@ -533,6 +533,7 @@ It's free & open-source. Enjoy! 🚀
 | 📜 | [Social Commandments](https://socialcommandments.com) | A forever-unlock of the full database of platform “do’s & don’ts,” growth rules, and algorithm insights for X, TikTok, Instagram, and LinkedIn. | **30% off** Lifetime membership with code **BLACKFRIDAY** | 2025-12-12 |
 
 | ⬆️ | [TheBlue.social](https://theblue.social) | Save time, Publish everywhere | **15% off** on monthly and lifetime plans with code **BLACKFRI2025** | 2025-12-31 |
+| 🧡 | [WaveGen.ai](https://wavegen.ai) | Turn text content(e.g. blog url, podcast scripts) into clips / carousels for social media. Create, edit, schedule, publish all in one - turn expertise into visibility automatically, and consistently. | **40% off** yearly plan with code **BF2025** | 2025-12-30 |
 
 ### Sales Tools
 
