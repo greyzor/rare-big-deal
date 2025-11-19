@@ -121,6 +121,7 @@ It's free & open-source. Enjoy! 🚀
 | 🍅 | [Pomotto](https://pomotto.app) | A pomodoro timer to sync focus time and Do Not Disturb. Your Mac finally knows when you're working! | **30% off** in the AppStore (already applied) | 2025-12-12 |
 | 🪣 | [BucketMate](https://bucketmate.app/pricing?ref=rare-big-deal) | a Finder-style S3-compatible manager for macOS. | **70% OFF** lifetime license | 2025-12-05 |
 | 📧 | [Newsdrop](https://newsdrop.io) | The smart way to read newsletters. Declutter your inbox and manage all your newsletters in one beautiful interface. | **25% OFF** for the first 3 months with code **BLACKFRIDAY25** | 2025-12-31 |
+| 🗣️ | [ShareSpeak](https://sharespeak.co) | ShareSpeak is an AI-powered invisible teleprompter app designed for desktop users. | **74% OFF** lifetime with code **MICRO74** | 2026-01-31 |
 
 
 ### APIs, Tools & SaaS
