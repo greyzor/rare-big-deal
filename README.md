@@ -233,6 +233,7 @@ It's free & open-source. Enjoy! 🚀
 | 🏗️ | [Anything](https://createanything.com) | Anything is a Vibe Coding platform that lets you build Anything you can imagine. No Coding Needed. | **50% OFF** with discount code **RBD2K25** (available on all plans, monthly, yearly, or credits) | 2025-12-01 |
 | 📄 | [CSVNormalize](https://csvnormalize.com) | AI powered CSV processing that cleans, validates, and transforms your data with enterprise-grade accuracy and lightning-fast performance. | **3 Months Free** with promo code **BlackFriday25** | 2025-12-15 |
 | 🚀 | [Aikeedo](https://aikeedo.com/self-hosted/) | Launch your own AI SaaS, branded and self-hosted. AI videos, images, and chat - all in one AI workspace. | BFCM2025 50% OFF (LIFETIME) | 2025-12-02 |
+| 💰 | [Sussurro Whisper Speech to Text](https://apps.apple.com/us/app/sussurro-speech-to-text-ai/id6742109110) | Sussurro (Italian for Whisper) is a Mac, iPhone & iPad app for private audio-to-text transcription using OpenAI’s Whisper models, running entirely on-device for privacy. It lets users choose models to balance speed and accuracy and has 0 tracking. Free to Test: Preview any model with complete real-time transcription during processing Then, a one-time in-app purchase unlocks forever | **40% OFF** Pro Lifetime only $ 2.99 | 2025-12-03 |
 
 ### Other
 
@@ -312,6 +313,7 @@ It's free & open-source. Enjoy! 🚀
 | ⚡️ | [ClipboardAI](https://www.clipboard-ai.com) | Instantly run AI prompts with shortcuts, anywhere — translate, fix grammar, improve text, and more. | **$20 OFF** (launch offer) | 2025-12-31 |
 | 🔳 | [QRGenie](https://www.qrgenie.app) | Create beautiful, branded QR codes on iPhone, iPad, and Mac. Customize colors, add logos, and export high-quality codes ready to share or print. | **50% OFF** Lifetime PRO (prices may vary) | 2025-12-07 |
 | ⏳ | [Pretty Progress Countdown](https://prettyprogress.app/download) | Beautiful Countdown widgets on your Home Screen & Lock Screen (For all iOS devices, Watch, MacOS and Android) | **50% OFF** Lifetime access. No code needed. Starts 24 Nov | 2025-12-03 |
+| 💰 | [GlanceCam IP Camera Viewer for Mac](https://apps.apple.com/us/app/glancecam-ip-camera-viewer/id1360797896) | GlanceCam is a secure and beloved IP camera viewer for macOS, with over 670 App Store ratings averaging more than 4.3 stars. It supports standard streaming protocols and offers lots of advanced features. With 42 free updates over 7 years, GlanceCam is the best choice for streaming IP Cameras from any manufacturer, with powerful features (Instazoom, Always on top...) and automations. | **25% OFF** (standard version) | 2025-12-03 |
 
 
 ### Design Tools
@@ -405,6 +407,7 @@ It's free & open-source. Enjoy! 🚀
 | 🔳 | [QRGenie](https://www.qrgenie.app) | Create beautiful, branded QR codes on iPhone, iPad, and Mac. Customize colors, add logos, and export high-quality codes ready to share or print. | **50% OFF** Lifetime PRO (prices may vary) | 2025-12-07 |
 | 🧾 | [BarcodeCraft](https://barcodecraft.com) | Generate barcodes with support for Code 128, EAN-13, PDF417, and more. Test instantly with the built-in scanner on iPhone/iPad. | **50% OFF** Lifetime PRO (prices may vary) | 2025-12-07 |
 | ⏳ | [Pretty Progress Countdown](https://prettyprogress.app/download) | Beautiful Countdown widgets on your Home Screen & Lock Screen (For all iOS devices, Watch, MacOS and Android) | **50% OFF** Lifetime access. No code needed. Starts 24 Nov | 2025-12-03 |
+| 💰 | [SendScan Scanner with Workflows](https://apps.apple.com/us/app/sendscan-quick-scan-share/id6753208936) | SendScan combines a best-in-class scanner with text recognition and workflows to send your documents exactly where they need to go: for instance, scan, rename, send via email to your accountant, share via Messages, and then delete. An essential new app for iPhone and iPad, it's really fast and integrates with iCloud for absolute privacy (so your scans are always on your Mac too!) | **40% OFF** Pro Lifetime only $ 5.99 | 2025-12-03 |
 
 
 ### Photos & Videos
@@ -433,6 +436,7 @@ It's free & open-source. Enjoy! 🚀
 | - | - | - | - | - |
 | 💈 | [Cuts AI - Hairstyle Try On Men](https://apps.apple.com/app/apple-store/id6753205043) | the easiest way to try instant men’s haircuts and colors with a quick selfie. | **50% OFF** first week with code BLACKFRIDAY | 2025-12-02 |
 | 🏡 | [Gardenly - AI Garden Design](https://apps.apple.com/app/apple-store/id6747178697) | Transform your garden instantly from one photo with AI-generated, photorealistic garden designs. | **50% OFF** first week with code BLACKFRIDAY | 2025-12-02 |
+| 💰 | [LifePace Habit Streaks Tracker](https://apps.apple.com/us/app/lifepace-habit-streaks-tracker/id6751773159) | Start 2026 the right way with LifePace, the new habit tracker that turns good intentions into lasting results: create routines that fit your life, stay motivated with clear progress, and enjoy a modern Liquid Glass design. Widgets, Siri, Shortcuts and on‑device Apple Intelligence keep you on track every day while your data sync privately via iCloud on iPhone, iPad, Mac, Apple Watch | **40% OFF** Pro Forever only $ 7.99 | 2025-12-03 |
 
 
 ### Other
