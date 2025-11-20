@@ -159,6 +159,7 @@ It's free & open-source. Enjoy! 🚀
 | - | - | - | - | - |
 | ⚡ | [SuperDev Pro](https://superdevpro.com/) | All your web tools, one extension. | **$120 off** | 2025-12-01 |
 | ⚡ | [aiTree](https://www.aitree.app/) | Organize your AI chats in trees with branches | **ONE TIME PAYMENT 4€** | 2025-12-01 |
+| ⚡ | [CalmTab](https://addons.mozilla.org/en-GB/firefox/addon/calmtab/) | Clean Firefox start page with clocks, notes, quotes, search and tab workspaces | 33 percent off first year with code blackfriday | 2025-11-29 |
 
 
 ### Productivity & AI
