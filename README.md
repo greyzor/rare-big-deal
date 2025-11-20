@@ -600,6 +600,7 @@ It's free & open-source. Enjoy! 🚀
 | 📈 | [Reporting - Ad Network Reports](https://apps.apple.com/app/apple-store/id1559813249) | Track and monitor your daily, weekly, and monthly ad network revenue effortlessly in a single convenient location. | **50% OFF** lifetime plan. No code needed. | 2025-12-02 |
 | 📈 | [viral.app](https://viral.app) | UGC analytics platform to track TikTok, Instagram, and YouTube performance for brands and agencies. | **30% OFF** the first 3 months on monthly plans with code **viralblackfriday30**. | 2025-12-07 |
 | 📈 | [Rising Trends](https://www.risingtrends.co) | Never miss a trending niche again! (Get access to 12,000 trending markets as well trending apps, mega trends and niche reports) | **40% OFF** with code **BF2025**. | 2025-12-07 |
+| 📊 | [Fusionaly](https://fusionaly.com/) | Self-hosted web analytics. Privacy-first, first-party tracking, AI-powered insights. Install in 3 minutes with one command. Own your data forever. | **$80 OFF** with code **BFRIDAY25** | 2025-12-31 |
 
 
 ### Website Builders
