@@ -487,6 +487,7 @@ It's free & open-source. Enjoy! 🚀
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
 | 💥 | [SmartTask](https://www.smarttask.io?ref=rarebigdeal) | AI Powered Project Management Software - Track and manage your processes in one place | **50% OFF for Two Years** (Coupon: 2025BF50) and **30% OFF for One Year** (Coupon: 2025BF30) | 2025-12-05 |
+| 📇 | [t0ggles](https://t0ggles.com?ref=rarebigdeal) | Next-Gen Project Management - Built for speed, collaboration, and innovation | **50% OFF for One Year** | 2025-12-01 |
 
 
 ### Marketing
