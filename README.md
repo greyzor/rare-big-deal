@@ -311,6 +311,7 @@ It's free & open-source. Enjoy! 🚀
 | 📝 | [Voice Memos - Email Me](https://apps.apple.com/us/app/email-me-notes-in-one-tap/id1090744587) | The fatest way to record your thoughts. For iOS, iPadOS, macOS, watchOS, visionOS & CarPlay. | **50% OFF** No code rquired | 2025-12-02 |
 | ⚡️ | [ClipboardAI](https://www.clipboard-ai.com) | Instantly run AI prompts with shortcuts, anywhere — translate, fix grammar, improve text, and more. | **$20 OFF** (launch offer) | 2025-12-31 |
 | 🔳 | [QRGenie](https://www.qrgenie.app) | Create beautiful, branded QR codes on iPhone, iPad, and Mac. Customize colors, add logos, and export high-quality codes ready to share or print. | **50% OFF** Lifetime PRO (prices may vary) | 2025-12-07 |
+| ⏳ | [Pretty Progress Countdown](https://prettyprogress.app/download) | Beautiful Countdown widgets on your Home Screen & Lock Screen (For all iOS devices, Watch, MacOS and Android) | **50% OFF** Lifetime access. No code needed. Starts 24 Nov | 2025-12-03 |
 
 
 ### Design Tools
@@ -403,6 +404,7 @@ It's free & open-source. Enjoy! 🚀
 | 📦 | [Itemlist](https://www.getitemlist.app) | Inventory tracker for home and business. Organize, categorize, and find items in seconds so you never forget where anything is again. | **50% OFF** Lifetime PRO (prices may vary) | 2025-12-07 |
 | 🔳 | [QRGenie](https://www.qrgenie.app) | Create beautiful, branded QR codes on iPhone, iPad, and Mac. Customize colors, add logos, and export high-quality codes ready to share or print. | **50% OFF** Lifetime PRO (prices may vary) | 2025-12-07 |
 | 🧾 | [BarcodeCraft](https://barcodecraft.com) | Generate barcodes with support for Code 128, EAN-13, PDF417, and more. Test instantly with the built-in scanner on iPhone/iPad. | **50% OFF** Lifetime PRO (prices may vary) | 2025-12-07 |
+| ⏳ | [Pretty Progress Countdown](https://prettyprogress.app/download) | Beautiful Countdown widgets on your Home Screen & Lock Screen (For all iOS devices, Watch, MacOS and Android) | **50% OFF** Lifetime access. No code needed. Starts 24 Nov | 2025-12-03 |
 
 
 ### Photos & Videos
