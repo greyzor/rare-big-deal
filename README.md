@@ -808,6 +808,7 @@ It's free & open-source. Enjoy! 🚀
 | 🪝 | [Custom React Hooks Crash Course: Learn Hooks Through 6 Apps](https://www.udemy.com/course/custom-react-hooks-crash-course/?couponCode=BLACKFRIDAY_2025) | In this course, through 6 small applications, we'll recreate hooks and patterns that are commonly used in production web applications. If you’re preparing for a coding interview or working on a large-scale project, knowing how to use custom hooks in React is invaluable. | 50% OFF with code **BLACKFRIDAY_2025** |
 | 👨🏻‍💻 | [secubri.com ](https://www.secubri.com/security/) | Security Awareness Training - Keep your Business Safe, Understand the Danger| [50% OFF](https://www.secubri.com/security/) | 1st Training Only |
 | ▶️ | [Start Coding](https://startcod.ing/) | Learn to build SaaS with AI. Stop wasting time on Bolt and Lovable | **80% off** autoapplied | 2025-12-01 |
+| 🚀 | [Fast Track To Senior Engineer](https://maven.com/top-engineer/fast-track-to-senior?promoCode=BF1125) | Become a high-performing software engineer and get promoted in 2026! | **25% off** autoapplied, code `BF1125` | 2025-12-15 |
 
 
 ### Educational Games
