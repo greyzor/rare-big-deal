@@ -766,6 +766,7 @@ It's free & open-source. Enjoy! 🚀
 | 👨🏻‍💻 | [secubri.com ](https://www.secubri.com/security/) | Security Awareness Training - Keep your Business Safe, Understand the Danger| [50% OFF](https://www.secubri.com/security/) | 1st Training Only |
 | 💡 | [Superframeworks Idea Bank ](https://superframeworks.com/idea-bank) | 40+ SEO Validated Ideas | 100% OFF with Code BFCM25 |
 | ▶️ | [Start Coding](https://startcod.ing/) | Learn to build SaaS with AI. Stop wasting time on Bolt and Lovable | **80% off** autoapplied | 2025-12-01 |
+| 🚀 | [Fast Track To Senior Engineer](https://maven.com/top-engineer/fast-track-to-senior?promoCode=BF1125) | Become a high-performing software engineer and get promoted in 2026! | **25% off** autoapplied, code `BF1125` | 2025-12-15 |
 
 
 
