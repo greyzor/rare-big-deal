@@ -297,6 +297,7 @@ It's free & open-source. Enjoy! 🚀
 | 🎙️ | [Speakmac](https://speakmac.app/?ref=rarebigdeal) | Offline speech-to-text for macOS. Hit a hotkey and Speakmac types into any input with punctuation-perfect text, zero cloud uploads, and no subscription. | **25% OFF** 2-Mac Pro license (drops to $21.75 one-time) with code **RAREBIGDEAL25** | 2025-12-05 |
 | 📝 | [Voice Memos - Email Me](https://apps.apple.com/us/app/email-me-notes-in-one-tap/id1090744587) | The fatest way to record your thoughts. For iOS, iPadOS, macOS, watchOS, visionOS & CarPlay. | **50% OFF** No code rquired | 2025-12-02 |
 | ⚡️ | [ClipboardAI](https://www.clipboard-ai.com) | Instantly run AI prompts with shortcuts, anywhere — translate, fix grammar, improve text, and more. | **$20 OFF** (launch offer) | 2025-12-31 |
+| 🌅 | [Viso](https://getviso.app) | Beautiful minimal image viewer for macOS | 30% OFF LIFETIME- NO CODE REQUIRED | 2025-12-04 |
 
 ### Design Tools
 
@@ -307,6 +308,7 @@ It's free & open-source. Enjoy! 🚀
 | 🎨 | [Sip](https://www.sipapp.io) | The right color every time. Sip is a modern color picker that brings ease to color organization & team collaboration. | 50% OFF with code **BF25** or **CM25** | 2025-12-01 |
 | 📹 | [ScreenSage Pro](https://screensage.pro?ref=danmindru) | A screen recording app on maOS that simultaneously captures your screen, webcam, microphone. Create 2D/3D auto zoom with cursor tracking for beautiful demos; smooth A‑roll/B‑roll switching for beautiful vlogs | 53% OFF with code **BFS2025L** | 2025-12-12 |
 | 🖼️ | [Digital Photo Frame App](https://www.digitalphotoframeapp.com/) | Turn your device into a powerful Smart Photo Frame. For iOS, iPadOS, macOS and tvOS. | **67% OFF** No promo code required | 2025-12-02 |
+| 🎨 | [Litur(macOS)](https://litur.app) | A designer’s best-kept secret, a developer's best friend. Litur helps you manage and improve your colors and design workflow. | 30% OFF Lifetime - NO CODE REQUIRED | 2025-12-04 |
 
 ### Health & Fitness
 
@@ -383,6 +385,7 @@ It's free & open-source. Enjoy! 🚀
 | ⭐ | [Luckynote](https://www.luckynote.io/?ref=danbf&promocode=DANBF50) | WhatsApp style note app that feels like texting yourself. Dump thoughts, links, files and tasks into one fast thread and actually find them later. | 50% OFF Lifetime - **DANBF50** | 2025-12-01 |
 | 📝 | [Voice Memos - Email Me](https://apps.apple.com/us/app/email-me-notes-in-one-tap/id1090744587) | The fatest way to record your thoughts. For iOS, iPadOS, macOS, watchOS, visionOS & CarPlay. | **50% OFF** No code rquired | 2025-12-02 |
 | ⌨️ | [Keystro](https://keystro.app) | Display keystrokes, highlight cursor, and virtualize mechanical keyboard sounds. Massively enhance your tutorial and presentation. Available for Windows and MacOS for free with watermark. | **30% OFF** with code **BFRIDAY2025** or **18% OFF** with code **RAREBIGDEAL25** at checkout| 2025-12-02 (Black Friday) and 2025-12-31 (Rare Big Deal 2025) |
+| 🎨 | [Litur(iOS)](https://litur.app) | A color picker for the real world. Litur helps you find and collect all the colors around you. | 33% OFF Lifetime | 2025-12-04 |
 
 ### Photos & Videos
 
@@ -392,6 +395,7 @@ It's free & open-source. Enjoy! 🚀
 | 📸 | [Darkroom](https://darkroom.co) | Edit and manage your photos and videos to stand out. From quick edits to pro-level refinements. Achieve your creative vision in minutes. | **50% OFF** off your first year of our Darkroom+ membership | 2025-12-03 |
 | 🖼️ | [Digital Photo Frame App](https://www.digitalphotoframeapp.com/) | Turn your device into a powerful Smart Photo Frame. For iOS, iPadOS, macOS and tvOS. | **67% OFF** No promo code required | 2025-12-02 |
 | 📸 | [PicFlic](https://apps.apple.com/us/app/gallery-cleaner-picflic/id6751328044) | Gallery cleaner - rage swipe like there is no tomorrow. Undo any time. Free up your phone for more apps. | **Lifetime FREE** until Cyber Monday | 2025-12-01 |
+| 📸 | [Blark](https://blark.app) | The best way to take monochrome/black & white pictures and videos on the iPhone and iPad. | 30% OFF Yearly Plan with <strong>BLARKFRIDAY</strong> | 2025-12-04 |
 
 
 ### Health & Fitness
