@@ -148,6 +148,7 @@ It's free & open-source. Enjoy! 🚀
 | 🌄 | [Swiper Studio](https://studio.swiperjs.com/) | Create Beautiful And Responsive Swiper Sliders Without Writing Any Code | **50% OFF** lifetime, no code needed | 2025-12-01 |
 | 🎞️ | [PaneFlow](https://paneflow.com/) | Create Stunning Slideshows in Minutes | **50% OFF** for 1 year, no code required | 2025-12-01 |
 | 🖥️ | [UI Initiative](https://uiinitiative.com/) | Premium plugins & templates for Swiper and Framework7 | **50% OFF** lifetime, no code required | 2025-12-01 |
+| ☀️ | [Sunboard](https://www.sunboardhq.com/?utm_source=rare-big-deal) | Reduce churn with simple onboarding for SaaS. Build product tours, create interactive checklists, and send in-app messages to guide your users to success | 30% OFF with code **BLACKFRIDAY25** | 2025-12-01 |
 
 
 ### Browser Extensions
