@@ -146,6 +146,7 @@ It's free & open-source. Enjoy! 🚀
 | ✉️ | [Tigrmail](https://tigrmail.com/?utm_source=rare-big-deal) | A developer-friendly temporary email API for testing signups, email confirmations, OTP codes, and full email workflows. | **50% OFF first month** with code **BLACKTIGR50** | 2025-12-01 |
 | 🚀 | [Unicorn Platform](https://unicornplatform.com/) | AI website builder to quickly create websites without design or dev skills for SaaS, Apps, Directories, Blogs, Personal pages | **20% OFF** first payment, code **JOHNRUSH** | 2025-12-07 |
 | 🌄 | [Swiper Studio](https://studio.swiperjs.com/) | Create Beautiful And Responsive Swiper Sliders Without Writing Any Code | **50% OFF** lifetime, no code needed | 2025-12-01 |
+| 🎞️ | [PaneFlow](https://paneflow.com/) | Create Stunning Slideshows in Minutes | **50% OFF** for 1 year, no code required | 2025-12-01 |
 
 
 ### Browser Extensions
